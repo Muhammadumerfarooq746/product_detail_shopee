@@ -1,0 +1,1346 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "source": 2,
+    "card_set": {
+      "layout_id": 10,
+      "element_toggle": {
+        "atc_button": false,
+        "feedback_button": false
+      },
+      "card_set_name": "FTSS TPFS card"
+    },
+    "item_cards": [
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐♥ German-made 6-blade large-capacity commercial high-power meat grinder, 15-liter capacity, for",
+          "image": "ph-11134201-820l6-mqhaqiw722gyf6",
+          "images": [
+            "ph-11134201-820l6-mqhaqiw722gyf6",
+            "ph-11134201-820ld-mqhaqivmvwg0b1",
+            "ph-11134201-820l7-mqhaqivsp72md6",
+            "ph-11134201-820le-mqhaqiuitb7k0c",
+            "ph-11134201-820l6-mqhaqivq1ogffb"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 584200000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 49563768349,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 49563768349,
+            "model_id": 206410529792,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 584200000,
+            "strikethrough_price": 834500000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 834500000,
+            "model_selection_logic": null,
+            "promotion_price": 584200000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            844931086908638,
+            1048596,
+            1048595,
+            822059952759830,
+            831765669597722,
+            1718596,
+            1119699,
+            299033477
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783665666,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100042,
+              100220
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Color",
+              "options": [
+                "♩Lifetime warranty *",
+                "✘Lifetime warranty *",
+                "[2026 New Model] Lif",
+                "✲[2026 New Model] Li",
+                "▽Lifetime warranty *",
+                "♨Lifetime warranty *",
+                "¤[2026 New Model] Li",
+                "Lifetime warranty * ",
+                "☀Lifetime warranty *",
+                "☼Lifetime warranty *",
+                "✟Lifetime warranty *",
+                "❉Lifetime warranty *",
+                "◐Lifetime warranty *",
+                "❧Lifetime warranty *",
+                "❀Lifetime warranty *",
+                "★Lifetime warranty *",
+                "♬Lifetime warranty *",
+                "◆Lifetime warranty *"
+              ],
+              "images": [
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c",
+                "ph-11134201-820le-mqhaqiuitb7k0c"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐♠FPV gimbal racing drone 3-axis gimbal component DJI O3 O4 Avatar HD image transmission racing d",
+          "image": "ph-11134201-820l9-mqh8b51p52bye6",
+          "images": [
+            "ph-11134201-820l9-mqh8b51p52bye6",
+            "ph-11134201-820l7-mqh8b51khwqo47",
+            "ph-11134201-820l7-mqh8b55vleks1e",
+            "ph-11134201-820lc-mqh8b5556g3k1f",
+            "ph-11134201-820l4-mqh8b4zk72ff50"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 1777800000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 55363739826,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 55363739826,
+            "model_id": 441188411022,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 1777800000,
+            "strikethrough_price": 2539600000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 2539600000,
+            "model_selection_logic": null,
+            "promotion_price": 1777800000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            844931086908638,
+            1048596,
+            1048595,
+            822059952759830,
+            831765669597722,
+            1718596,
+            1119699,
+            299033477
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783661583,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100042,
+              100220
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Color",
+              "options": [
+                "Black 3 can install ",
+                "Black 4 can install ",
+                "Black 5 can install ",
+                "Black 1 can mount a ",
+                "Black 2 can be fitte"
+              ],
+              "images": [
+                "ph-11134201-820l4-mqh8b4zk72ff50",
+                "ph-11134201-820l4-mqh8b4zk72ff50",
+                "ph-11134201-820l4-mqh8b4zk72ff50",
+                "ph-11134201-820l4-mqh8b4zk72ff50",
+                "ph-11134201-820l4-mqh8b4zk72ff50"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Aircraft type",
+              "options": [
+                "Other types"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐♂Rechargeable Water Pump for Watering Vegetables Outdoor Agricultural Irrigation Portable Rechar",
+          "image": "ph-11134201-820l9-mqh69y5912j2a8",
+          "images": [
+            "ph-11134201-820l9-mqh69y5912j2a8",
+            "ph-11134201-820lh-mqh69y44972985",
+            "ph-11134201-820l6-mqh69y4vvp5993",
+            "ph-11134201-820lf-mqh69yacuhhn48",
+            "ph-11134201-820la-mqh69y8lliwy2f"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 586100000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 48513759130,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 48513759130,
+            "model_id": 391188221584,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 586100000,
+            "strikethrough_price": 837200000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 837200000,
+            "model_selection_logic": null,
+            "promotion_price": 586100000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            844931086908638,
+            1048596,
+            1048595,
+            822059952759830,
+            831765669597722,
+            1718596,
+            1119699,
+            299033477
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783658168,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100042,
+              100220
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Color",
+              "options": [
+                "[24AH Battery Level ",
+                "✪24AH Power Display ",
+                "☼24AH Power Display ",
+                "Tian Neng Blue Water",
+                "♡24AH Power Display ",
+                "§Tian Neng Blue Wate",
+                "24AH Power Display M",
+                "♀Tian Neng Blue Wate",
+                "♀24AH Power Display ",
+                "●24AH Power Display ",
+                "▼24AH Power Display ",
+                "☃24AH Power Display ",
+                "☀Tian Neng Blue Wate",
+                "■24AH Power Display ",
+                "▽Tian Neng Blue Wate"
+              ],
+              "images": [
+                "ph-11134201-820l6-mqh69y3ca3gs4a",
+                "ph-11134201-820l9-mqh69y4yasch73",
+                "ph-11134201-820lh-mqh69yetu4njb9",
+                "ph-11134201-820lh-mqh69y7e3a4s2c",
+                "ph-11134201-820lf-mqh69y6bb37x3f",
+                "ph-11134201-820lc-mqh69y4bzbi806",
+                "ph-11134201-820l5-mqh69ydi46iq69",
+                "ph-11134201-820l4-mqh69y4bv5dt14",
+                "ph-11134201-820lg-mqh69y64h89b5b",
+                "ph-11134201-820li-mqh69ynmv0uk4f",
+                "ph-11134201-820l6-mqh69yhrf3tacc",
+                "ph-11134201-820l8-mqh6a0bp6osi07",
+                "ph-11134201-820lc-mqh6a0bt7bpob9",
+                "ph-11134201-820la-mqh6a0bp83cy0c",
+                "ph-11134201-820li-mqh6a0a6y5tt66"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐♫☑♥ 2024 New Spring White Birthday Princess Dress Singing Performance Costume Stage Choir Outfit",
+          "image": "ph-11134201-820li-mqh5a6ih6vwt75",
+          "images": [
+            "ph-11134201-820li-mqh5a6ih6vwt75",
+            "ph-11134201-820l9-mqh5a6hycfm648",
+            "ph-11134201-820la-mqh5a6i9feh9f7",
+            "ph-11134201-820l5-mqh5a6pgibrh3f"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 757600000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 46863759089,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 46863759089,
+            "model_id": 302772203391,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 757600000,
+            "strikethrough_price": 1082200000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 1082200000,
+            "model_selection_logic": null,
+            "promotion_price": 757600000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            844931086908638,
+            1048596,
+            1048595,
+            822059952759830,
+            831765669597722,
+            1718596,
+            298628334,
+            299033478
+          ],
+          "catid": 100636,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783656496,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100636,
+              100715,
+              101193
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Color Classifi",
+              "options": [
+                "Black and Gold",
+                "Black and Gold Long"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Reference heig",
+              "options": [
+                "150cm",
+                "110cm",
+                "180cm",
+                "140cm",
+                "120cm",
+                "170cm",
+                "160cm",
+                "130cm"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐◐Authentic, unpacked 14-disc DVD set, 40-episode TV series: The Four Great Constables: Against t",
+          "image": "ph-11134201-820lh-mqh4nihm1yq549",
+          "images": [
+            "ph-11134201-820lh-mqh4nihm1yq549"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 1028200000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 56513738578,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 56513738578,
+            "model_id": 386188056281,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 1028200000,
+            "strikethrough_price": 1468800000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 1468800000,
+            "model_selection_logic": null,
+            "promotion_price": 1028200000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            844931086908638,
+            1048595,
+            1048596,
+            822059952759830,
+            831765669597722,
+            1718596,
+            1119699,
+            299033477,
+            1268631
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783655436,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100042,
+              100220
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": null,
+              "options": [
+                ""
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐✿In stock, original English version of Water Security 9781773610078",
+          "image": "ph-11134201-820l9-mqh4j15am39nae",
+          "images": [
+            "ph-11134201-820l9-mqh4j15am39nae"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 3214700000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 48863758700,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 48863758700,
+            "model_id": 396188040485,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 3214700000,
+            "strikethrough_price": 4592300000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 4592300000,
+            "model_selection_logic": null,
+            "promotion_price": 3214700000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931086908638,
+            844931064601283,
+            1048595,
+            1048596,
+            822059952759830,
+            831765669597722,
+            1718596,
+            1119699,
+            299033478
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783655226,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100042,
+              100220
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": null,
+              "options": [
+                ""
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐✈Dongxing 600*200*305 Centerless Brown Corundum Grinding Wheel Disc",
+          "image": "ph-11134201-820lb-mqh3lzhwq3gt5d",
+          "images": [
+            "ph-11134201-820lb-mqh3lzhwq3gt5d",
+            "ph-11134201-820lb-mqh3lzg321oh7b",
+            "ph-11134201-820l8-mqh3lzgwmqki07",
+            "ph-11134201-820lf-mqh3lzhr10jla2"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2936100000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 57363733298,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 57363733298,
+            "model_id": 351187930341,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 2936100000,
+            "strikethrough_price": 4194300000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 4194300000,
+            "model_selection_logic": null,
+            "promotion_price": 2936100000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            844931086908638,
+            1048595,
+            1048596,
+            822059952759830,
+            831765669597722,
+            1718596,
+            1119699,
+            299033478
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783653684,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100042,
+              100219
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Color Classifi",
+              "options": [
+                "600*200*305"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Hot⭐❃☑♥ Qilike QA40 Safety Light Barrier Light Curtain Sensor Infrared Ray Photoelectric 46810 Point",
+          "image": "ph-11134201-820l7-mqh389aop8n564",
+          "images": [
+            "ph-11134201-820l7-mqh389aop8n564",
+            "ph-11134201-820la-mqh388x7fe32ce",
+            "ph-11134201-820lg-mqh388jr0j633d",
+            "ph-11134201-820l9-mqh388ozphjjfd",
+            "ph-11134201-820li-mqh388mq8i6k17"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": null,
+          "sold_count": null,
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 597800000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 40232453699,
+          "shopid": 1879920536,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 40232453699,
+            "model_id": 421187864116,
+            "promotion_type": 301,
+            "promotion_id": 479871004717239,
+            "price": 597800000,
+            "strikethrough_price": 853900000,
+            "discount": 30,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 853900000,
+            "model_selection_logic": null,
+            "promotion_price": 597800000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 0,
+            "monthly_sold_count": 0,
+            "historical_sold_count_text": null,
+            "monthly_sold_count_text": null
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931086908638,
+            844931064601283,
+            1048596,
+            1048595,
+            822059952759830,
+            831765669597722,
+            1718596,
+            298628334,
+            299033478
+          ],
+          "catid": 100636,
+          "shopee_verified": false,
+          "liked_count": 0,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Kula_Oliver.Cod6",
+            "shop_icon": null,
+            "shop_location": "Makati City, Metro Manila"
+          },
+          "status": 1,
+          "ctime": 1783653044,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100636,
+              100715,
+              101193
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 0,
+            "rating_count": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "颜色分类",
+              "options": [
+                "33a25QA20-04 Factory",
+                "3a3a6QA20-16 Factory",
+                "E5f0cqa40-06 Factory",
+                "0714eQA40-10 Factory",
+                "B3772qa20-14 Factory",
+                "92a24QA40-12 Factory",
+                "F57d1qa40-18 Factory",
+                "04885QA20-08 Factory",
+                "B8cebqa Controller",
+                "D52c1qa20-06 Factory",
+                "25dedQA20-10 Factory",
+                "49d22QA40-14 Factory",
+                "D5e32qa20-18 Factory",
+                "795cbQA40-08 Factory",
+                "D65ddqa20-12 Factory",
+                "Ef867qa40-04 Factory",
+                "5dcc0QA40-16 Factory"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      }
+    ],
+    "item_tracking_infos": [
+      {
+        "item_id": 49563768349,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:49563768349",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 55363739826,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:55363739826",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 48513759130,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:48513759130",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 46863759089,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:46863759089",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 56513738578,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:56513738578",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 48863758700,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:48863758700",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 57363733298,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:57363733298",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 40232453699,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|651208|495845|452591|452585|452566|452532|452519|452492|452390|450322|450313|450301|450297|450283|450276|428041|97857|97830|97814|97801|97787|97778|97773|91711|90984|81086|80815|80718|80706|79684|79152|79138|62525|62519|40283|40279|40264,REQID:b11ba3af56b8e6933458a0f9671c0400,BND:product_detail_page_ftss,QUES:lat7_mpi,RNK:gpu_shop_v5_unify_cgc_wuv5_gem_my@PH_2121639:{SCORE:0.000000},SECKEY:from_same_shop,ROI:0,DT:1784202002739,SK:b11ba3af56b8e6933458a0f9671c0400,CARDID:40232453699",
+        "ads_tms_info": "",
+        "ads_id": 0
+      }
+    ],
+    "translation_status": 0
+  }
+}

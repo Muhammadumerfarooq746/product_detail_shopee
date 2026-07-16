@@ -1,0 +1,1344 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "source": 1,
+    "card_set": {
+      "layout_id": 10,
+      "element_toggle": {
+        "atc_button": false,
+        "feedback_button": false
+      },
+      "card_set_name": "FTSS TPFS card"
+    },
+    "item_cards": [
+      {
+        "item_card_displayed_asset": {
+          "name": "【⭐24h⭐Cat keychain】cat plushie cartoon keychain plush Korean style cat statue key chain ring key ring",
+          "image": "sg-11134201-7reoi-m1vmg9vlk6uf40",
+          "images": [
+            "sg-11134201-7reoi-m1vmg9vlk6uf40",
+            "sg-11134201-7rep5-m1vmgagepqwmad",
+            "sg-11134201-7reol-m1vmgbetbed278",
+            "sg-11134201-7reo7-m1vmgc9m2blr80",
+            "sg-11134201-7reqf-m1vmgd0iyxlq93",
+            "sg-11134201-7reoi-m1vmgdoo3tqg35",
+            "sg-11134201-7reqj-m1vmgecj0oxr57",
+            "sg-11134201-7reor-m1vmgf5xtnqu20",
+            "sg-11134201-7req5-m1vmgfwuq9i67e"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6khyq-m328i01ho4jqbb",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khyq-m328i01ho4jqbb",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khyq-m328i01ho4jqbb",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khyq-m328i01ho4jqbb",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khyq-m328i01ho4jqbb",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khyq-m328i01ho4jqbb",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.8",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "20k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 116000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 26865703396,
+          "shopid": 1104506408,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 26865703396,
+            "model_id": 195503055986,
+            "promotion_type": 301,
+            "promotion_id": 901048034459648,
+            "price": 116000,
+            "strikethrough_price": 1109000,
+            "discount": 90,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 1109000,
+            "model_selection_logic": null,
+            "promotion_price": 116000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 25007,
+            "monthly_sold_count": 811,
+            "historical_sold_count_text": "20k+ sold",
+            "monthly_sold_count_text": "811 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            22,
+            1000024,
+            1007622,
+            1007623,
+            1718087960,
+            1428713,
+            844931064601283,
+            822059735009803,
+            298533318,
+            1119699,
+            1823867,
+            1823845,
+            700695003,
+            814381247146502,
+            998146050,
+            298933384,
+            299038360,
+            2018639,
+            1993633,
+            700630038,
+            700960097,
+            2318721,
+            700695004,
+            997961078
+          ],
+          "catid": 100639,
+          "shopee_verified": true,
+          "liked_count": 2031,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "TOY PARTY",
+            "shop_icon": null,
+            "shop_location": "Malaysia"
+          },
+          "status": 1,
+          "ctime": 1730051864,
+          "flag": 268566528,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100639,
+              100738,
+              101396
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.818267125430091,
+            "rating_count": [
+              25610,
+              224,
+              177,
+              785,
+              1652,
+              22772
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.16000081730301015.mp4",
+              "thumb_url": "sg-11110105-7reo5-m1zqmxxcl36767",
+              "duration": 20,
+              "version": 2,
+              "vid": "sg-11110105-6khyp-m1zqmvtbpdyv1e",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.16003251732554417.mp4",
+                  "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.16003251732554417.mp4",
+                  "width": 720,
+                  "height": 960
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.default.mp4",
+                "width": 540,
+                "height": 720
+              },
+              "mms_data": "{\"vid\":\"sg-11110105-6khyp-m1zqmvtbpdyv1e\",\"biz\":107,\"duration\":19666,\"create_time\":1730301013,\"update_time\":1730301016,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/sg-11110105-7reo5-m1zqmxxcl36767\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.16003251732554417.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.16003251732554417.mp4\",\"width\":720,\"height\":960,\"bitrate\":705299,\"abitrate\":128384,\"size\":2075291,\"fps\":30.00102,\"duration\":19666,\"update_time\":1732554433,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.default.mp4\",\"width\":540,\"height\":720,\"bitrate\":460850,\"abitrate\":64467,\"size\":1310085,\"fps\":25,\"duration\":19680,\"update_time\":1730301047,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.16003181732554418.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khyp-m1zqmvtbpdyv1e.16003181732554418.mp4\",\"width\":720,\"height\":960,\"bitrate\":342936,\"abitrate\":128374,\"size\":1187359,\"fps\":30.00102,\"duration\":19667,\"update_time\":1732554441,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "color",
+              "options": [
+                "White kitten",
+                "Coffee colored kitten",
+                "Orange Cat",
+                "Pink Cat",
+                "random 1pc car"
+              ],
+              "images": [
+                "sg-11134201-7reps-m1vmggqjiu2xfe",
+                "sg-11134201-7reot-m1vmghlm9comd4",
+                "sg-11134201-7renw-m1vmgiv4er3b8c",
+                "sg-11134201-7repp-m1vmgkagbmw724",
+                "cn-11134207-7ras8-m20f7kze6pu47f"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Size",
+              "options": [
+                "8*12cm"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【⭐24H⭐Kids Bottle】Kids Water Bottle Dual Cap 2in1 Straw+Direct Drink Interchangeable BPA-free 550ml Children Water Bottle With Spout",
+          "image": "sg-11134201-7rdwl-mdpeoo80hg163b",
+          "images": [
+            "sg-11134201-7rdwl-mdpeoo80hg163b",
+            "sg-11134201-7rbk0-lqhba84sp1yy1b",
+            "sg-11134201-7rblv-lqhba8w9p2kae8",
+            "sg-11134201-7rbmt-lqhbaa4xrhj825",
+            "sg-11134201-7rbk7-lqhbaay2kuau85",
+            "sg-11134201-7rbnj-lqhbabkjnyo58a",
+            "sg-11134201-7rbnc-lqhbac3ewcnbc0",
+            "sg-11134201-7rbmj-lqhbad05kfhi1b",
+            "sg-11134201-7rbkz-lqhbadq8i9eu78"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6kins-mdsncz17nk5wc4",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6kins-mdsncz17nk5wc4",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6kins-mdsncz17nk5wc4",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6kins-mdsncz17nk5wc4",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6kins-mdsncz17nk5wc4",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6kins-mdsncz17nk5wc4",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "5.0",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "976 sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 960000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 25208449026,
+          "shopid": 1104506408,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 25208449026,
+            "model_id": 118331289621,
+            "promotion_type": 301,
+            "promotion_id": 909233260642304,
+            "price": 960000,
+            "strikethrough_price": 2355000,
+            "discount": 59,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1446505344933888,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1446505344933888,
+              "voucher_code": "TOYP24LLH",
+              "voucher_discount": 30000,
+              "time_info": {
+                "start_time": 1781896104,
+                "end_time": 1789503264,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 800000,
+              "signature": "9fb0754233af0739530f2e8c37591a384c38c5e1ff612ff8025281bf16f4ed92",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 2355000,
+            "model_selection_logic": null,
+            "promotion_price": 990000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 976,
+            "monthly_sold_count": 44,
+            "historical_sold_count_text": "976 sold",
+            "monthly_sold_count_text": "44 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            22,
+            844931064601283,
+            1000024,
+            1119699,
+            1718087960,
+            1428713,
+            1007622,
+            1007623,
+            298533318,
+            998146050,
+            2018639,
+            1993633,
+            700630038,
+            2318721,
+            822059735009803,
+            1823845,
+            1823867,
+            299038360,
+            700695003,
+            814381247146502,
+            700020291,
+            822120593115664,
+            834532113662488,
+            299033350,
+            997961078
+          ],
+          "catid": 100632,
+          "shopee_verified": true,
+          "liked_count": 159,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "TOY PARTY",
+            "shop_icon": null,
+            "shop_location": "Malaysia"
+          },
+          "status": 1,
+          "ctime": 1705214925,
+          "flag": 268566528,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100632,
+              100675,
+              100953,
+              101692
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.951076320939334,
+            "rating_count": [
+              1022,
+              4,
+              2,
+              3,
+              22,
+              991
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.16000081705214507.mp4",
+              "thumb_url": "my-11110105-7r98q-lqhbmg1my3mbeb",
+              "duration": 30,
+              "version": 2,
+              "vid": "my-11110105-6ke18-lqhbmaraoatx8d",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.16003251751209415.mp4",
+                  "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.16003251751209415.mp4",
+                  "width": 720,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.default.mp4",
+                "width": 540,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"my-11110105-6ke18-lqhbmaraoatx8d\",\"biz\":107,\"duration\":30079,\"create_time\":1705214504,\"update_time\":1705214507,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/my-11110105-7r98q-lqhbmg1my3mbeb\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.16003251751209415.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.16003251751209415.mp4\",\"width\":720,\"height\":720,\"bitrate\":1214347,\"abitrate\":48317,\"size\":4767876,\"fps\":25,\"duration\":30104,\"update_time\":1751209435,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":488029,\"abitrate\":128182,\"size\":2338552,\"fps\":25.03329,\"duration\":30200,\"update_time\":1705214529,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.16003181751209415.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke18-lqhbmaraoatx8d.16003181751209415.mp4\",\"width\":720,\"height\":720,\"bitrate\":1131603,\"abitrate\":48317,\"size\":4459797,\"fps\":25,\"duration\":30104,\"update_time\":1751209452,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Color",
+              "options": [
+                "Purple- 520ml",
+                "Red- 520ml",
+                "Pink-520ml",
+                "Blue-520ml"
+              ],
+              "images": [
+                "sg-11134201-7rdy6-mdpewssu926t39",
+                "sg-11134201-7rdw2-mdpewtveomac9e",
+                "sg-11134201-7rdxc-mdpexqkest7814",
+                "sg-11134201-7rdw0-mdperrzsu91x83"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【⭐24H⭐Car Toy】Hit Impact Deformation Robot Toy With Pull Back Function Transformation Car Deformation Robot Transforming Car",
+          "image": "sg-11134201-7rbla-lnlt5u0coca9f7",
+          "images": [
+            "sg-11134201-7rbla-lnlt5u0coca9f7",
+            "sg-11134201-7rbnl-lnlt5x0a8zry1c",
+            "sg-11134201-7rbm1-lnlt5z7d19xo1e",
+            "sg-11134201-7rbl7-lnlt61ziyp0e7a",
+            "sg-11134201-7rblx-lnlt66171j8o8d",
+            "sg-11134201-7rbkp-lnlt68nt72f9f9",
+            "sg-11134201-7rbkj-lnlt6b1tp7g566"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6kiop-m4o216p96m8418",
+              "thumb_url": null,
+              "duration": 3500,
+              "version": 2,
+              "vid": "sg-11110113-6kiop-m4o216p96m8418",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6kiop-m4o216p96m8418",
+              "thumb_url": null,
+              "duration": 3500,
+              "version": 2,
+              "vid": "sg-11110113-6kiop-m4o216p96m8418",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6kiop-m4o216p96m8418",
+              "thumb_url": null,
+              "duration": 3500,
+              "version": 2,
+              "vid": "sg-11110113-6kiop-m4o216p96m8418",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.7",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 315000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 19494965144,
+          "shopid": 1104506408,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 19494965144,
+            "model_id": 204723688434,
+            "promotion_type": 301,
+            "promotion_id": 927320433278976,
+            "price": 315000,
+            "strikethrough_price": 1635000,
+            "discount": 81,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 1635000,
+            "model_selection_logic": null,
+            "promotion_price": 315000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 17714,
+            "monthly_sold_count": 1270,
+            "historical_sold_count_text": "10k+ sold",
+            "monthly_sold_count_text": "1k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            22,
+            298458379,
+            1000024,
+            1119699,
+            1007622,
+            1007623,
+            298533318,
+            998146050,
+            298933384,
+            2018639,
+            1993633,
+            700630038,
+            1428713,
+            1718087960,
+            2318721,
+            822059735009803,
+            1823845,
+            299038360,
+            1823867,
+            700695003,
+            814381247146502,
+            700960097,
+            700695004,
+            997961078
+          ],
+          "catid": 100632,
+          "shopee_verified": true,
+          "liked_count": 2400,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "TOY PARTY",
+            "shop_icon": null,
+            "shop_location": "Malaysia"
+          },
+          "status": 1,
+          "ctime": 1698948844,
+          "flag": 268566528,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100632,
+              100684,
+              101013
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.709388791487818,
+            "rating_count": [
+              16567,
+              421,
+              235,
+              714,
+              991,
+              14206
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "7e3dfe0bdf57e5778b772d4e86188944",
+              "thumb_url": "5ca15774f96ffd8026ac0f5a81015873",
+              "duration": 10,
+              "version": 2,
+              "vid": "sg-11110105-6khwp-lnltbfm9lvcl44",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.16003251732089395.mp4",
+                  "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.16003251732089395.mp4",
+                  "width": 1270,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.default.mp4",
+                "width": 952,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"sg-11110105-6khwp-lnltbfm9lvcl44\",\"biz\":107,\"duration\":10039,\"create_time\":1698948768,\"update_time\":1737538086,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/sg-11110105-7rbn6-lnltdf0f53ut26\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.16003251732089395.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.16003251732089395.mp4\",\"width\":1270,\"height\":720,\"bitrate\":949984,\"abitrate\":92195,\"size\":1316938,\"fps\":25,\"duration\":10064,\"update_time\":1732089409,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.default.mp4\",\"width\":952,\"height\":540,\"bitrate\":476821,\"abitrate\":92195,\"size\":720695,\"fps\":25.1,\"duration\":10048,\"update_time\":1698948783,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.16003181732089395.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khwp-lnltbfm9lvcl44.16003181732089395.mp4\",\"width\":1270,\"height\":720,\"bitrate\":387787,\"abitrate\":92213,\"size\":614682,\"fps\":25,\"duration\":10064,\"update_time\":1732089408,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Color",
+              "options": [
+                "Red",
+                "Orange",
+                "Yellow",
+                "Blue"
+              ],
+              "images": [
+                "sg-11134201-7rbm2-lnlt6cycwwz9ca",
+                "sg-11134201-7rbmq-lnlt6ezby4mt18",
+                "sg-11134201-7rbk5-lnlt6gqvd59x9c",
+                "sg-11134201-7rbn9-lnlt6iy850i05c"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【⭐24H⭐Soft Toy】Tales Bear Cosplay Doll Cat Plushie Bear Plush Toy Doll Soft Toy Kids Birthday Gift",
+          "image": "sg-11134201-7rbn3-lozm342jf4rh5e",
+          "images": [
+            "sg-11134201-7rbn3-lozm342jf4rh5e",
+            "sg-11134201-7rbmr-lozm372h16sld9",
+            "sg-11134201-7rbk3-lozm34xm72mmc2",
+            "sg-11134201-7rblz-lozm35ray84a2a",
+            "sg-11134201-7rblb-lozm38nwp5eice",
+            "sg-11134201-7rbks-lozm3ad87ec786",
+            "sg-11134201-7rbn6-lozm3cix1q56de",
+            "sg-11134201-7rbk3-lozm3ela0w7266"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6khyn-lyxlb5e94nu24c",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khyn-lyxlb5e94nu24c",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khyn-lyxlb5e94nu24c",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khyn-lyxlb5e94nu24c",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khyn-lyxlb5e94nu24c",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khyn-lyxlb5e94nu24c",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.7",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "2k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 1315000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 25934053167,
+          "shopid": 1104506408,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 25934053167,
+            "model_id": 127995825902,
+            "promotion_type": 0,
+            "promotion_id": 0,
+            "price": 1315000,
+            "strikethrough_price": 1356000,
+            "discount": 3,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1446505344933888,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1446505344933888,
+              "voucher_code": "TOYP24LLH",
+              "voucher_discount": 41000,
+              "time_info": {
+                "start_time": 1781896104,
+                "end_time": 1789503264,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 800000,
+              "signature": "9fb0754233af0739530f2e8c37591a384c38c5e1ff612ff8025281bf16f4ed92",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 1356000,
+            "model_selection_logic": null,
+            "promotion_price": 1356000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 2003,
+            "monthly_sold_count": 102,
+            "historical_sold_count_text": "2k+ sold",
+            "monthly_sold_count_text": "102 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            22,
+            1000024,
+            844931064601283,
+            1718087960,
+            1428713,
+            1119699,
+            1007622,
+            1007623,
+            298533318,
+            998146050,
+            2018639,
+            1993633,
+            700630038,
+            2318721,
+            822059735009803,
+            299038360,
+            1823867,
+            1823845,
+            700695003,
+            814381247146502,
+            997961078
+          ],
+          "catid": 100632,
+          "shopee_verified": true,
+          "liked_count": 906,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "TOY PARTY",
+            "shop_icon": null,
+            "shop_location": "Malaysia"
+          },
+          "status": 1,
+          "ctime": 1722101948,
+          "flag": 268566528,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100632,
+              100684,
+              101008,
+              101722
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.692037470725995,
+            "rating_count": [
+              3416,
+              81,
+              52,
+              170,
+              232,
+              2881
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.16000081701963459.mp4",
+              "thumb_url": "my-11110105-7r98s-lozm7tdboi1t46",
+              "duration": 28,
+              "version": 2,
+              "vid": "my-11110105-6ke17-lozm7qyr6ugo94",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.16003251731752752.mp4",
+                  "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.16003251731752752.mp4",
+                  "width": 720,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.default.mp4",
+                "width": 540,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"my-11110105-6ke17-lozm7qyr6ugo94\",\"biz\":107,\"duration\":28079,\"create_time\":1701963457,\"update_time\":1701963459,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/my-11110105-7r98s-lozm7tdboi1t46\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.16003251731752752.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.16003251731752752.mp4\",\"width\":720,\"height\":720,\"bitrate\":564308,\"abitrate\":128259,\"size\":2452951,\"fps\":25,\"duration\":28104,\"update_time\":1731752762,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":395807,\"abitrate\":128259,\"size\":1859507,\"fps\":25.03566,\"duration\":28040,\"update_time\":1701963476,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.16003181731752752.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6ke17-lozm7qyr6ugo94.16003181731752752.mp4\",\"width\":720,\"height\":720,\"bitrate\":560411,\"abitrate\":128278,\"size\":2444356,\"fps\":25,\"duration\":28104,\"update_time\":1731752773,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Color",
+              "options": [
+                "RED",
+                "BLUE",
+                "PINK"
+              ],
+              "images": [
+                "sg-11134201-7rbka-lozm3if6f39ie2",
+                "sg-11134201-7rblo-lozm3kt6x8ge13",
+                "sg-11134201-7rbmm-lozm3mjceaai8c"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Size",
+              "options": [
+                "30CM",
+                "40CM",
+                "50CM"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【⭐24h⭐Lucky 13】 Multi-Jointed Movable Robot 2.0 3D Printed Mannequin Toys Lucky 13 Robot Action Figure Titan 13",
+          "image": "sg-11134201-7rcc3-lszol5p96pgx46",
+          "images": [
+            "sg-11134201-7rcc3-lszol5p96pgx46",
+            "cn-11134207-7r98o-lurh5d2p8cgu24",
+            "sg-11134201-7rcd8-lszol7g8mivgb8",
+            "sg-11134201-7rcdf-lszol8ahe9hna8",
+            "sg-11134201-7rce3-lszol9e5s7prc0",
+            "sg-11134201-7rcf7-lszola1gu417df",
+            "sg-11134201-7rcdt-lszolartrja84d",
+            "sg-11134201-7rcf4-lszolbr2bywy3e",
+            "sg-11134201-7rcd5-lszolcpqx7gc58"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6khw3-lu9fq5rbuvjs16",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khw3-lu9fq5rbuvjs16",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khw3-lu9fq5rbuvjs16",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khw3-lu9fq5rbuvjs16",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khw3-lu9fq5rbuvjs16",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khw3-lu9fq5rbuvjs16",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.8",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "4k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 55000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 25319512575,
+          "shopid": 1104506408,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 25319512575,
+            "model_id": 240496597325,
+            "promotion_type": 301,
+            "promotion_id": 472439301750891,
+            "price": 55000,
+            "strikethrough_price": 5450000,
+            "discount": 99,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 5450000,
+            "model_selection_logic": null,
+            "promotion_price": 55000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 4506,
+            "monthly_sold_count": 187,
+            "historical_sold_count_text": "4k+ sold",
+            "monthly_sold_count_text": "187 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            22,
+            1000024,
+            844931064601283,
+            822059735009803,
+            1119699,
+            1428713,
+            1718087960,
+            1007622,
+            1007623,
+            298533318,
+            1823845,
+            1823867,
+            700695003,
+            814381247146502,
+            998146050,
+            298933384,
+            299038360,
+            2018639,
+            1993633,
+            700630038,
+            2318721,
+            700020291,
+            299033350,
+            834532113662488,
+            822120593115664,
+            997961078
+          ],
+          "catid": 100632,
+          "shopee_verified": true,
+          "liked_count": 606,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "TOY PARTY",
+            "shop_icon": null,
+            "shop_location": "Mainland China"
+          },
+          "status": 1,
+          "ctime": 1710684672,
+          "flag": 268566528,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100632,
+              100684,
+              101013
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.800637567435017,
+            "rating_count": [
+              8204,
+              103,
+              86,
+              256,
+              444,
+              7315
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.16000081712927499.mp4",
+              "thumb_url": "sg-11110105-7rd4u-lu0qk6x4zfh7a7",
+              "duration": 48,
+              "version": 2,
+              "vid": "sg-11110105-6khx8-lu0qk1vocms2ef",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.16003251726583703.mp4",
+                  "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.16003251726583703.mp4",
+                  "width": 1280,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.default.mp4",
+                "width": 960,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"sg-11110105-6khx8-lu0qk1vocms2ef\",\"biz\":107,\"duration\":48119,\"create_time\":1712927497,\"update_time\":1742456483,\"serviceID\":2,\"cover\":\"https://down-tx-sg.img.susercontent.com/sg-11110105-6khx8-lu0qk1vocms2ef_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.16003251726583703.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.16003251726583703.mp4\",\"width\":1280,\"height\":720,\"bitrate\":618957,\"abitrate\":128100,\"size\":4514483,\"fps\":25.02087,\"duration\":48020,\"update_time\":1726583733,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":432260,\"abitrate\":128100,\"size\":3396150,\"fps\":25.02087,\"duration\":48020,\"update_time\":1712927559,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.16003181726583703.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6khx8-lu0qk1vocms2ef.16003181726583703.mp4\",\"width\":1280,\"height\":720,\"bitrate\":579110,\"abitrate\":128095,\"size\":4282787,\"fps\":25.02087,\"duration\":48015,\"update_time\":1726583752,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Color",
+              "options": [
+                "Red Black",
+                "Blue Orange",
+                "Yellow Black",
+                "Black",
+                "White Black",
+                "Blue Black",
+                "Transparent Black",
+                "Pink Black",
+                "Orange Black",
+                "Green Black",
+                "1 Random Car"
+              ],
+              "images": [
+                "cn-11134207-7r98o-lurgu9ulg69s37",
+                "cn-11134207-7r98o-lurgu9ulhku88a",
+                "cn-11134207-7r98o-lurgu9ulizeoff",
+                "cn-11134207-7r98o-lurgu9ulkdz4ea",
+                "cn-11134207-7r98o-lurgu9ullsjkc3",
+                "cn-11134207-7r98o-lurgu9uln74010",
+                "cn-11134207-7r98o-lurgu9ulolog69",
+                "cn-11134207-7r98o-lurh5d2p2q7288",
+                "cn-11134207-7r98o-lurh5d2p44rie1",
+                "cn-11134207-7r98o-lurh5d2p5jby5c",
+                "cn-11134207-7ras8-m3xc82dnbcy222"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      }
+    ],
+    "item_tracking_infos": [
+      {
+        "item_id": 26865703396,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 25208449026,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 19494965144,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 25934053167,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 25319512575,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      }
+    ],
+    "translation_status": 0
+  }
+}

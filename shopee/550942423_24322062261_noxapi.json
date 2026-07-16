@@ -1,0 +1,386 @@
+{
+  "success": true,
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "item_id": 24322062261,
+    "product_url": "https://shopee.vn/product/550942423/24322062261",
+    "title": "Khăn giấy cao cấp treo tường TopGia Tiểu hạ 10bịch/6bịch, Giấy vệ sinh 4 lớp dày dặn an toàn,mềm mịn",
+    "images": [
+      "https://cf.shopee.vn/file/vn-11134207-81ztc-ml7j24yly2vc70",
+      "https://cf.shopee.vn/file/vn-11134207-820l4-milhekqtbqiq86",
+      "https://cf.shopee.vn/file/vn-11134207-7ra0g-ma2q0ojzzkt61c",
+      "https://cf.shopee.vn/file/vn-11134207-7ra0g-m8r43asm17qm66",
+      "https://cf.shopee.vn/file/vn-11134207-7ra0g-m8r42q5u867i1f",
+      "https://cf.shopee.vn/file/vn-11134207-820l4-me8e6mt4qqdd0c",
+      "https://cf.shopee.vn/file/vn-11134207-820l4-meay9lvwrbpdba",
+      "https://cf.shopee.vn/file/vn-11134207-7ra0g-m8zx75gc8ojo71"
+    ],
+    "video_url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6va0j-mmjrwaylbs3lcd.default.mp4",
+    "currency": "VND",
+    "brand": "Top Gia",
+    "brand_id": 2950932,
+    "fe_category_path": [
+      {
+        "catid": 11036624,
+        "display_name": "Home care",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11036634,
+        "display_name": "Toilet Paper",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11036635,
+        "display_name": "Others",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
+    "category_path": [
+      {
+        "catid": 100636,
+        "display_name": "Nhà cửa & Đời sống",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 100716,
+        "display_name": "Dụng cụ chăm sóc nhà cửa",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 101212,
+        "display_name": "Giấy vệ sinh",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
+    "category_id": "101212",
+    "attributes": [
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100016,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Pack Type",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 394,
+        "value": "Single",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100956,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Number of Ply",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 5092,
+        "value": "4-Ply",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100955,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Number of Pieces",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 5065,
+        "value": "10",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 101067,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Manufacturer/trader name",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 0,
+        "value": "Công ty TNHH Thương Mại XNK Fani",
+        "value_tr": null
+      }
+    ],
+    "flash_sale": null,
+    "is_pre_order": false,
+    "rating_star": 4.929918835712287,
+    "has_lowest_price_guarantee": false,
+    "sold_count": 0,
+    "global_sold_count": 0,
+    "local_sold_count": 0,
+    "sold": 0,
+    "historical_sold_display": "200k+",
+    "global_sold_display": "200k+",
+    "sold_count_display": "200k+",
+    "liked_count": 6952,
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Discount stock",
+          "value": "IN STOCK"
+        },
+        {
+          "name": "Other Stock",
+          "value": "IN STOCK"
+        },
+        {
+          "name": "Brand",
+          "value": "Top Gia"
+        },
+        {
+          "name": "Pack Type",
+          "value": "Single"
+        },
+        {
+          "name": "Number of Ply",
+          "value": "4-Ply"
+        },
+        {
+          "name": "Number of Pieces",
+          "value": "10"
+        },
+        {
+          "name": "Manufacturer/trader name",
+          "value": "Công ty TNHH Thương Mại XNK Fani"
+        },
+        {
+          "name": "Ships From",
+          "value": "Thành phố Hà Nội"
+        }
+      ]
+    },
+    "product_review": {
+      "rating_star": 4.929918835712287,
+      "liked_count": 6952,
+      "cmt_count": 34904,
+      "rating_count": [
+        35740,
+        95,
+        70,
+        260,
+        1394,
+        33921
+      ],
+      "historical_sold": 0,
+      "global_sold": 0,
+      "sold_count": 0,
+      "historical_sold_display": "200k+",
+      "global_sold_display": "200k+",
+      "sold_count_display": "200k+"
+    },
+    "price_info": {
+      "price": 10500100000,
+      "price_min": 10500100000,
+      "price_max": 25900000000
+    },
+    "bundle_deal_info": null,
+    "description": "\n\n\n\n\n\n\n\n\n\nKhăn giấy cao cấp treo tường Top Gia 10 bịch dùng cho mọi không gian được làm từ bột giấy từ thiên nhiên, an toàn, mềm mịn (bao bì mới bỏ logo lá TopGia, chỉnh sửa theo logo thương hiệu, chất lượng giấy vẫn đảm bảo như nhau)\n\n#giatlautay #giayvesinh #giấyvệsinh #giấykhôđanăng #giấyướtvàgiấykhô #giấykhôđanăng #giayangautruc #giấyăn #giấyăngấutrúc #giâysipiao #sipao #giấyăn #giấygấu #giấytrúc #giayan #giaysipiao #giayvesinhruttreotuong #topgia #giayan #giayantopgia #khangiaycaocap #giayrut #giayrutday #giaytopgia #giayvesinh #giaytreotuong  #giaycaocap #giaykho #giayuot #khanuot #giayan #giayrut #giayrutday #giayruttreotuong #giayanrutday #giayanrut #giaytreotuong  #giaytieuha #topgiahcm #topgiahcmstore #giaytopgia6bich ",
+    "desc_obj": null,
+    "comment_count": 34904,
+    "delivery_info": {
+      "area_from": "Thành phố Hà Nội",
+      "is_free_shipping": null,
+      "postage": 0,
+      "price_info_default": {
+        "price": 0,
+        "price_min": 0,
+        "price_max": 0,
+        "free_shipping_threshold": "",
+        "warning": ""
+      }
+    },
+    "shop_info": {
+      "shop_id": 550942423,
+      "shop_name": "TopGia Official",
+      "shop_url": "https://shopee.vn/shop/550942423",
+      "shop_location": "",
+      "shopee_verified": false,
+      "is_cb": false,
+      "is_official_shop": true,
+      "is_mart": false,
+      "is_preferred_plus_seller": false,
+      "all_items_count": 104
+    },
+    "shop_vouchers": [
+      {
+        "promotion_id": 1446206871867392,
+        "voucher_code": "TOPG5KT7",
+        "min_spend": 15000000000,
+        "used_price": 500000000,
+        "discount_value": 500000000,
+        "discount_percentage": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 500000000,
+        "reward_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "coin_earned": null,
+        "quota_type": 1,
+        "usage_limit_per_user": 5,
+        "start_time": 1782838800,
+        "end_time": 1785517140,
+        "title": "",
+        "customised_labels": []
+      },
+      {
+        "promotion_id": 1446207423811584,
+        "voucher_code": "TOPG10KT7",
+        "min_spend": 25900000000,
+        "used_price": 1000000000,
+        "discount_value": 1000000000,
+        "discount_percentage": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 1000000000,
+        "reward_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "coin_earned": null,
+        "quota_type": 1,
+        "usage_limit_per_user": 5,
+        "start_time": 1782838800,
+        "end_time": 1785517140,
+        "title": "",
+        "customised_labels": []
+      },
+      {
+        "promotion_id": 1446207759093760,
+        "voucher_code": "TOPG20KT7",
+        "min_spend": 39900000000,
+        "used_price": 2000000000,
+        "discount_value": 2000000000,
+        "discount_percentage": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 2000000000,
+        "reward_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "coin_earned": null,
+        "quota_type": 1,
+        "usage_limit_per_user": 5,
+        "start_time": 1782838800,
+        "end_time": 1785517140,
+        "title": "",
+        "customised_labels": []
+      }
+    ],
+    "size_chart": "",
+    "sku_props": [
+      {
+        "pid": "1",
+        "prop_name": "Thùng",
+        "values": [
+          {
+            "vid": "1",
+            "name": "10 bịch Tiểu hạ",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-820l4-mer0sy3a3sar75"
+          },
+          {
+            "vid": "2",
+            "name": "6 bịch Tiểu hạ",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-820l4-mer0t8jqhvk3f0"
+          },
+          {
+            "vid": "3",
+            "name": "5 bịch Tiểu hạ",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-820l4-midw8hqdwhz6f0"
+          },
+          {
+            "vid": "4",
+            "name": "12 bịch Tiểu hạ",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-81ztc-mpk7dilsvoxt2a"
+          },
+          {
+            "vid": "5",
+            "name": "Deal 10 bịch Tiểu Hạ",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-81ztc-mmsmoc5gs2khce"
+          }
+        ]
+      }
+    ],
+    "skus": [
+      {
+        "skuid": "198226935882",
+        "sale_price": 21400000000,
+        "origin_price": 25900000000,
+        "stock": 0,
+        "props_ids": "1:1",
+        "props_names": "10 bịch Tiểu hạ",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "258266702018",
+        "sale_price": 11900000000,
+        "origin_price": 16900000000,
+        "stock": 0,
+        "props_ids": "1:2",
+        "props_names": "6 bịch Tiểu hạ",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "320340244692",
+        "sale_price": 10500100000,
+        "origin_price": 13900000000,
+        "stock": 0,
+        "props_ids": "1:3",
+        "props_names": "5 bịch Tiểu hạ",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "340719228117",
+        "sale_price": 25900000000,
+        "origin_price": 29900000000,
+        "stock": 0,
+        "props_ids": "1:4",
+        "props_names": "12 bịch Tiểu hạ",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "262515256609",
+        "sale_price": 25900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:5",
+        "props_names": "Deal 10 bịch Tiểu Hạ",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      }
+    ],
+    "stock": 0,
+    "status": 1,
+    "content": "<p><img src=\"https://cf.shopee.com/file/vn-11134208-820l4-mfat1ea62dqg1e\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8vpsnenv5aa94\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8vpsnenwjuqa1\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8vpsnenxyf639\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ras8-mbm9qlg5ceow2a\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-820l4-meay9uqljojq69\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8x4vzthw1afa7\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8x4vzthxfuvb0\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8w1fpkow0p38d\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8w1fpkoxf9j91\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8w1fpkp08ef3f\" loading=\"lazy\"/></p><p><img src=\"https://cf.shopee.com/file/vn-11134208-7ra0g-m8w1fpkp1myv3c\" loading=\"lazy\"/></p><br/><p>Khăn giấy cao cấp treo tường Top Gia 10 bịch dùng cho mọi không gian được làm từ bột giấy từ thiên nhiên, an toàn, mềm mịn (bao bì mới bỏ logo lá TopGia, chỉnh sửa theo logo thương hiệu, chất lượng giấy vẫn đảm bảo như nhau)</p><br/><p>#giatlautay #giayvesinh #giấyvệsinh #giấykhôđanăng #giấyướtvàgiấykhô #giấykhôđanăng #giayangautruc #giấyăn #giấyăngấutrúc #giâysipiao #sipao #giấyăn #giấygấu #giấytrúc #giayan #giaysipiao #giayvesinhruttreotuong #topgia #giayan #giayantopgia #khangiaycaocap #giayrut #giayrutday #giaytopgia #giayvesinh #giaytreotuong  #giaycaocap #giaykho #giayuot #khanuot #giayan #giayrut #giayrutday #giayruttreotuong #giayanrutday #giayanrut #giaytreotuong  #giaytieuha #topgiahcm #topgiahcmstore #giaytopgia6bich </p>"
+  }
+}

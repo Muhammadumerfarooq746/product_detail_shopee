@@ -1,0 +1,1866 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "source": 2,
+    "card_set": {
+      "layout_id": 10,
+      "element_toggle": {
+        "atc_button": false,
+        "feedback_button": false
+      },
+      "card_set_name": "FTSS TPFS card"
+    },
+    "item_cards": [
+      {
+        "item_card_displayed_asset": {
+          "name": "Earphone Bluetooth TWS 5.3 Air39 RGB LED Display HiFi Stereo Earbuds For Sports Gaming Low Atency Headset Bluetooth Macaron",
+          "image": "id-11134207-7r98t-lxdv9xokox7y13",
+          "images": [
+            "id-11134207-7r98t-lxdv9xokox7y13",
+            "id-11134207-7r991-lxdv9xokqbse28",
+            "id-11134207-7r98q-lxdv9xokrqcu22",
+            "id-11134207-7r98u-lxdv9xokt4xa94",
+            "id-11134207-7r98y-lxdv9xokujhqfd",
+            "id-11134207-7r98r-lxdvcbp2l4kb12"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.5",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10RB+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Bluetooth Earphone TWS 5.3 Air39 RGB LED Display HiFi Stereo Earbuds For Sports Gaming Low Atency Headset Bluetooth Macaron",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2960000000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 25933166328,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 25933166328,
+            "model_id": 241151850285,
+            "promotion_type": 312,
+            "promotion_id": 481171230449953,
+            "price": 2960000000,
+            "strikethrough_price": 8000000000,
+            "discount": 63,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 8000000000,
+            "model_selection_logic": null,
+            "promotion_price": 2960000000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 11939,
+            "monthly_sold_count": 1102,
+            "historical_sold_count_text": "10RB+ sold",
+            "monthly_sold_count_text": "1RB+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            700190019,
+            844931064601283,
+            844931086908638,
+            1059152,
+            1049122,
+            822059908662278,
+            825465608499232,
+            825465608497696,
+            837860934119952,
+            825465608492064,
+            1428713,
+            1718087960,
+            1213641,
+            1000031,
+            1015914,
+            700190087,
+            1400285055,
+            2018619,
+            298893311,
+            700830032,
+            2048660,
+            2048661,
+            298888358,
+            298938357,
+            298933384,
+            299108387,
+            1718093079,
+            700960097,
+            2023641,
+            700810080,
+            298623321,
+            1993623,
+            2098629
+          ],
+          "catid": 100535,
+          "shopee_verified": true,
+          "liked_count": 523,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1720260296,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100535,
+              100578
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.532909292035399,
+            "rating_count": [
+              3616,
+              185,
+              74,
+              193,
+              341,
+              2823
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "warna",
+              "options": [
+                "hitam",
+                "Biru",
+                "pink",
+                "hijau",
+                "Putih",
+                "random"
+              ],
+              "images": [
+                "id-11134207-7r991-lxdvcbp2mjul22",
+                "id-11134207-822wl-modv9dr98ef5c5",
+                "id-11134207-7r98w-lxdvcbp2pczh3e",
+                "id-11134207-7r98r-lxdvcbp2qrjx9a",
+                "id-11134207-822wt-mpotwhuoexaad3",
+                "id-11134207-7r98z-lxdvcbp2tkot36"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "M90 Pro TWS True Wireless Bluetooth Headset Bluetooth 5.1 Earbud",
+          "image": "id-11134207-7ras8-m23m19jn4zpb30",
+          "images": [
+            "id-11134207-7ras8-m23m19jn4zpb30"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.7",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "457 sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "M90 Pro TWS True Wireless Bluetooth Headset Bluetooth 5.1 Earbuds",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 3229800000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 26766326969,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 26766326969,
+            "model_id": 256935614054,
+            "promotion_type": 324,
+            "promotion_id": 10000012670,
+            "price": 3229800000,
+            "strikethrough_price": 5000000000,
+            "discount": 35,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 5000000000,
+            "model_selection_logic": null,
+            "promotion_price": 3229800000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 457,
+            "monthly_sold_count": 44,
+            "historical_sold_count_text": "457 sold",
+            "monthly_sold_count_text": "44 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            700190019,
+            1428713,
+            1718087960,
+            844931086908638,
+            844931064601283,
+            1059152,
+            1049122,
+            822059908662278,
+            825465608492064,
+            825465608499232,
+            825465608497696,
+            837860934119952,
+            1119699,
+            1000031,
+            1400285055,
+            1213641,
+            1015914,
+            700190087,
+            2018619,
+            298893311,
+            2108629,
+            700830032,
+            2048660,
+            2048661,
+            298888358,
+            298938357,
+            298933384,
+            700810080,
+            299108387,
+            1718093079,
+            298623321,
+            1993623,
+            2023641,
+            298938356,
+            2098629
+          ],
+          "catid": 100535,
+          "shopee_verified": true,
+          "liked_count": 41,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1730535580,
+          "flag": 0,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100535,
+              100578
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.652631578947369,
+            "rating_count": [
+              95,
+              1,
+              4,
+              3,
+              11,
+              76
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "warna",
+              "options": [
+                "hitam"
+              ],
+              "images": [
+                "id-11134207-7rasi-m23m19jn6e9rcd"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Headset Bluetooth Pro 6 TWS with Mic Support Call Earphone Bluetooth Henset Bloetooth HiFi Stereo Earphone Wireless/ pro 4/pro 5/i13/i12/m10",
+          "image": "id-11134207-7r98o-lkz0f30d5gqg94",
+          "images": [
+            "id-11134207-7r98o-lkz0f30d5gqg94",
+            "id-11134207-7r98o-lkz0f30d6vaw11",
+            "id-11134207-7r98o-lkz0f30d89vcc9",
+            "id-11134207-7r98o-lkz0f30d9ofs9b",
+            "id-11134207-7r98o-lkz0f30db308a6",
+            "id-11134207-7r98o-lkz0f30dchko02",
+            "id-11134207-7r98o-lkz0f30ddw549e"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.6",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "8RB+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Bluetooth Headset Pro 6 TWS with Mic Support Call Earphone Bluetooth Henset Bloetooth HiFi Stereo Earphone Wireless/pro 4/pro 5/i13/i12/m10",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2590000000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 18983468091,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 18983468091,
+            "model_id": 89427033501,
+            "promotion_type": 301,
+            "promotion_id": 907205474320384,
+            "price": 2590000000,
+            "strikethrough_price": 7000000000,
+            "discount": 63,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 7000000000,
+            "model_selection_logic": null,
+            "promotion_price": 2590000000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 8397,
+            "monthly_sold_count": 987,
+            "historical_sold_count_text": "8RB+ sold",
+            "monthly_sold_count_text": "987 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            700190019,
+            1049122,
+            1059152,
+            822059908662278,
+            844931064601283,
+            844931086908638,
+            825465608499232,
+            1000031,
+            298458395,
+            1428713,
+            1718087960,
+            1015914,
+            700190087,
+            1119699,
+            1400285055,
+            2018619,
+            298893311,
+            825465608492064,
+            825465608497696,
+            700830032,
+            2048660,
+            2048661,
+            298888358,
+            298938357,
+            298933384,
+            700810080,
+            299108387,
+            299103323,
+            1718093079,
+            700960097,
+            2023641,
+            298623321,
+            1993623,
+            2098629
+          ],
+          "catid": 100535,
+          "shopee_verified": true,
+          "liked_count": 579,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1693210059,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100535,
+              100578
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.569609507640068,
+            "rating_count": [
+              2356,
+              89,
+              52,
+              112,
+              278,
+              1825
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1025917,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "warna",
+              "options": [
+                "putih",
+                "hitam",
+                "pink",
+                "biru",
+                "hijau",
+                "ungu",
+                "orange"
+              ],
+              "images": [
+                "id-11134207-7r98o-lkz0f30dfapk0c",
+                "id-11134207-7r98o-lkz0f30dgpa060",
+                "id-11134207-7r98o-lkz0f30di3ug47",
+                "id-11134207-7r98o-lkz0f30djiew49",
+                "id-11134207-7r98o-lkz0jd3zn6r3e5",
+                "id-11134207-7r98o-lkz0jd3zolbj67",
+                "id-11134207-7r98o-lkz0jd3zpzvza3"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "(ST)TWS S10 895b Headset Wireless Stereo Bluetooth V6.0 With LED Display Smart Sport Headphones",
+          "image": "id-11134207-7ra0h-mdn15o8v7xaw0d",
+          "images": [
+            "id-11134207-7ra0h-mdn15o8v7xaw0d",
+            "id-11134207-7ra0m-mdn0e8bh1sb339",
+            "id-11134207-7ra0h-mdn0e8bh4lfz82",
+            "id-11134207-7ra0u-mdn0e8bh36vj02",
+            "id-11134207-7ra0o-mdmztoqtfyyz5b",
+            "id-11134207-7ra0l-mdn0e8bh7ekve0",
+            "id-11134207-7ra0q-mdn15o8v9bvc11",
+            "id-11134207-7ra0q-mdn15o8vkkew81",
+            "id-11134207-7ra0g-mdn0e8bh600f3f"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6v994-mi32d6xe69l262",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6v994-mi32d6xe69l262",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6v994-mi32d6xe69l262",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6v994-mi32d6xe69l262",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6v994-mi32d6xe69l262",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6v994-mi32d6xe69l262",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.5",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "1RB+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "(ST)TWS S10 895b Wireless Stereo Bluetooth Headset V6.0 With LED Display Smart Sport Headphones",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 3007000000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 44314341298,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 44314341298,
+            "model_id": 276181560655,
+            "promotion_type": 324,
+            "promotion_id": 10000012670,
+            "price": 3007000000,
+            "strikethrough_price": 10000000000,
+            "discount": 70,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 10000000000,
+            "model_selection_logic": null,
+            "promotion_price": 3007000000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 1921,
+            "monthly_sold_count": 765,
+            "historical_sold_count_text": "1RB+ sold",
+            "monthly_sold_count_text": "765 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            2018619,
+            700190019,
+            1718087960,
+            1428713,
+            844931064601283,
+            844931086908638,
+            1059152,
+            1049122,
+            822059908662278,
+            825465608492064,
+            825465608499232,
+            825465608497696,
+            1119699,
+            1400285055,
+            1015914,
+            700190087,
+            2048661,
+            2048660,
+            298888358,
+            298938357,
+            298933384,
+            700810080,
+            299108387,
+            1718093079,
+            700960097,
+            2023641,
+            298623321,
+            1993623,
+            2098629
+          ],
+          "catid": 100535,
+          "shopee_verified": true,
+          "liked_count": 140,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1755772023,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100535,
+              100578
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.4621072088724585,
+            "rating_count": [
+              541,
+              37,
+              14,
+              24,
+              53,
+              413
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1825602,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16000031764151302.mp4",
+              "thumb_url": "id-11110105-6ven0-mhixhobvhw5fba_cover",
+              "duration": 24,
+              "version": 2,
+              "vid": "id-11110105-6ven0-mhixhobvhw5fba",
+              "formats": [
+                {
+                  "format": 1600432,
+                  "defn": "V360P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004321778909728.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004321778909728.mp4",
+                  "width": 360,
+                  "height": 360
+                },
+                {
+                  "format": 1600003,
+                  "defn": "V480P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16000031764151302.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16000031764151302.mp4",
+                  "width": 480,
+                  "height": 480
+                },
+                {
+                  "format": 1600433,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004331778909728.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004331778909728.mp4",
+                  "width": 540,
+                  "height": 540
+                },
+                {
+                  "format": 1600434,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004341778909728.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004341778909728.mp4",
+                  "width": 720,
+                  "height": 720
+                },
+                {
+                  "format": 1600435,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004351778909728.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004351778909728.mp4",
+                  "width": 720,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.default.mp4",
+                "width": 480,
+                "height": 480
+              },
+              "mms_data": "{\"vid\":\"id-11110105-6ven0-mhixhobvhw5fba\",\"biz\":107,\"duration\":23754,\"create_time\":1764151300,\"update_time\":1764151302,\"serviceID\":2,\"cover\":\"https://down-aka-id.img.susercontent.com/id-11110105-6ven0-mhixhobvhw5fba_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004321778909728.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004321778909728.mp4\",\"width\":360,\"height\":360,\"bitrate\":91378,\"abitrate\":32219,\"size\":383776,\"fps\":25,\"duration\":23760,\"update_time\":1778909730,\"codec\":\"H264\"},{\"format\":1600003,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16000031764151302.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16000031764151302.mp4\",\"width\":480,\"height\":480,\"bitrate\":180057,\"abitrate\":64115,\"size\":743685,\"fps\":25,\"duration\":23743,\"update_time\":1764151306,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004331778909728.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004331778909728.mp4\",\"width\":540,\"height\":540,\"bitrate\":118905,\"abitrate\":32219,\"size\":465528,\"fps\":25,\"duration\":23760,\"update_time\":1778909731,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004341778909728.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004341778909728.mp4\",\"width\":720,\"height\":720,\"bitrate\":305302,\"abitrate\":48328,\"size\":1066952,\"fps\":25,\"duration\":23760,\"update_time\":1778909733,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004351778909728.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004351778909728.mp4\",\"width\":720,\"height\":720,\"bitrate\":353103,\"abitrate\":48328,\"size\":1215760,\"fps\":30.00042,\"duration\":23753,\"update_time\":1778909735,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.default.mp4\",\"width\":480,\"height\":480,\"bitrate\":142674,\"abitrate\":32251,\"size\":540101,\"fps\":25,\"duration\":23753,\"update_time\":1764151309,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16003151778913156.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16003151778913156.mp4\",\"width\":360,\"height\":360,\"bitrate\":125418,\"abitrate\":32219,\"size\":487093,\"fps\":25,\"duration\":23753,\"update_time\":1778913162,\"codec\":\"H265\"},{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004361778909722.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004361778909722.mp4\",\"width\":360,\"height\":360,\"bitrate\":91844,\"abitrate\":32219,\"size\":388040,\"fps\":25,\"duration\":23760,\"update_time\":1778909727,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004371778909728.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004371778909728.mp4\",\"width\":540,\"height\":540,\"bitrate\":148722,\"abitrate\":32219,\"size\":556943,\"fps\":25,\"duration\":23760,\"update_time\":1778909735,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004381778909728.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004381778909728.mp4\",\"width\":720,\"height\":720,\"bitrate\":253069,\"abitrate\":48328,\"size\":921997,\"fps\":30.00042,\"duration\":23753,\"update_time\":1778909738,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004391778909728.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ven0-mhixhobvhw5fba.16004391778909728.mp4\",\"width\":720,\"height\":720,\"bitrate\":213631,\"abitrate\":48328,\"size\":805003,\"fps\":30.00042,\"duration\":23753,\"update_time\":1778909739,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Colour",
+              "options": [
+                "S10 Black",
+                "S10 White",
+                "S10 Cream",
+                "S10 BIRU",
+                "S10 HITAM MERAH",
+                "cream"
+              ],
+              "images": [
+                "id-11134207-7ra0u-mdn15o8vc508e3",
+                "id-11134207-7ra0h-mdn15o8vgcpkea",
+                "id-11134207-7ra0s-mdn15o8vhra0f2",
+                "id-11134207-822wm-mp18dyyk0f0sdc",
+                "id-11134207-822wk-mp18dyyk1tl892",
+                "id-11134207-822wn-modlh8f852iz70"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "SmartWatch Y68 Sport Bluetooth Smart Watch D20 Pelacak Kebugaran Gelang Pedometer Heart Rate",
+          "image": "id-11134207-7r98p-loz7j1mkizkx91",
+          "images": [
+            "id-11134207-7r98p-loz7j1mkizkx91",
+            "id-11134207-81zte-mfkkme26nbik42",
+            "id-11134207-81ztm-mfkkme26oq302b",
+            "id-11134207-81ztn-mfkkme26q4ngee"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6v8iw-mftcwa52jl6xaf",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6v8iw-mftcwa52jl6xaf",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6v8iw-mftcwa52jl6xaf",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6v8iw-mftcwa52jl6xaf",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6v8iw-mftcwa52jl6xaf",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6v8iw-mftcwa52jl6xaf",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.3",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "7RB+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "SmartWatch Y68 Sport Bluetooth Smart Watch D20 Fitness Tracker Bracelet Pedometer Heart Rate",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 3250000000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 22887828775,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 22887828775,
+            "model_id": 247905217934,
+            "promotion_type": 301,
+            "promotion_id": 907205474320384,
+            "price": 3250000000,
+            "strikethrough_price": 5000000000,
+            "discount": 35,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 5000000000,
+            "model_selection_logic": null,
+            "promotion_price": 3250000000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 7711,
+            "monthly_sold_count": 265,
+            "historical_sold_count_text": "7RB+ sold",
+            "monthly_sold_count_text": "265 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            700190019,
+            822059908662278,
+            825465608492064,
+            825465608497696,
+            825465608499232,
+            837860934119952,
+            844931064601283,
+            844931086908638,
+            1213641,
+            1059152,
+            1049122,
+            1000031,
+            298458395,
+            1718087960,
+            1428713,
+            1119699,
+            1015914,
+            700190087,
+            1400285055,
+            1918643,
+            2018619,
+            298893311,
+            700830032,
+            2048660,
+            2048661,
+            298888358,
+            298938357,
+            700810080,
+            299108387,
+            1718093079,
+            700960097,
+            2023641,
+            298623321,
+            1993623,
+            2098629
+          ],
+          "catid": 100013,
+          "shopee_verified": true,
+          "liked_count": 568,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1701946870,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100013,
+              100074,
+              100270
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.343083485679464,
+            "rating_count": [
+              1641,
+              122,
+              46,
+              126,
+              200,
+              1147
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1487891,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16000081701946710.mp4",
+              "thumb_url": "id-11110105-7r98r-lozc98aomh36f2",
+              "duration": 40,
+              "version": 2,
+              "vid": "id-11110105-6ke1l-lozc96qctqqp75",
+              "formats": [
+                {
+                  "format": 1600671,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16006711773770148.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16006711773770148.mp4",
+                  "width": 540,
+                  "height": 952
+                },
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16000081701946710.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16000081701946710.mp4",
+                  "width": 540,
+                  "height": 952
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.default.mp4",
+                "width": 540,
+                "height": 952
+              },
+              "mms_data": "{\"vid\":\"id-11110105-6ke1l-lozc96qctqqp75\",\"biz\":107,\"duration\":40007,\"create_time\":1701946708,\"update_time\":1701946710,\"serviceID\":2,\"cover\":\"https://down-aka-id.img.susercontent.com/id-11110105-7r98r-lozc98aomh36f2\",\"cover_list\":[],\"formats\":[{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16006711773770148.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16006711773770148.mp4\",\"width\":540,\"height\":952,\"bitrate\":218081,\"abitrate\":32129,\"size\":1278372,\"fps\":25,\"duration\":40053,\"update_time\":1773770159,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16000081701946710.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16000081701946710.mp4\",\"width\":540,\"height\":952,\"bitrate\":300827,\"abitrate\":128074,\"size\":2178783,\"fps\":25.02502,\"duration\":40055,\"update_time\":1701946718,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.default.mp4\",\"width\":540,\"height\":952,\"bitrate\":307577,\"abitrate\":128068,\"size\":2209619,\"fps\":25.02502,\"duration\":40063,\"update_time\":1701946729,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16003151747925260.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16003151747925260.mp4\",\"width\":360,\"height\":634,\"bitrate\":159441,\"abitrate\":32148,\"size\":988438,\"fps\":25,\"duration\":40030,\"update_time\":1747925276,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16003161747925276.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke1l-lozc96qctqqp75.16003161747925276.mp4\",\"width\":540,\"height\":952,\"bitrate\":262561,\"abitrate\":32148,\"size\":1504033,\"fps\":25,\"duration\":40030,\"update_time\":1747925293,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "WARNA",
+              "options": [
+                "Putih",
+                "Hitam",
+                "Pink"
+              ],
+              "images": [
+                "id-11134207-7r98y-lozccd1pktr5be",
+                "id-11134207-7rbk6-m7erctc9chd8ae",
+                "id-11134207-8224o-mj84a4aemkn504"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "[SW] Strap Apple Watch Smart Watch Tali Jam Pintar Sport Band Silicone Rubber 38mm 40mm 42mm 44mm 45mm SERIES 1 2 3 4 5 6 7 8",
+          "image": "sg-11134201-22120-b4p7w16g3tkv15",
+          "images": [
+            "sg-11134201-22120-b4p7w16g3tkv15",
+            "sg-11134201-22120-roedbx6g3tkv56",
+            "sg-11134201-22120-7w8drw6g3tkv34",
+            "sg-11134201-22120-vmeelx6g3tkvfe",
+            "sg-11134201-22120-vhlblx6g3tkv6a",
+            "sg-11134201-22120-osxax16g3tkv72"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.6",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "299 sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "[SW] Apple Watch Smart Watch Strap Smart Watch Strap Sport Band Silicone Rubber 38mm 40mm 42mm 44mm 45mm SERIES 1 2 3 4 5 6 7 8",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 800000000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 16891126963,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 16891126963,
+            "model_id": 193479738911,
+            "promotion_type": 301,
+            "promotion_id": 907205474320384,
+            "price": 800000000,
+            "strikethrough_price": 2000000000,
+            "discount": 60,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 2000000000,
+            "model_selection_logic": null,
+            "promotion_price": 800000000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 299,
+            "monthly_sold_count": 9,
+            "historical_sold_count_text": "299 sold",
+            "monthly_sold_count_text": "9 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            700190019,
+            1049122,
+            1059152,
+            844931064601283,
+            844931086908638,
+            822059908662278,
+            825465608499232,
+            1000031,
+            1718087960,
+            1428713,
+            1119699,
+            1400285055,
+            1015914,
+            700190087,
+            1918643,
+            2018619,
+            298893311,
+            298933384,
+            298888358,
+            298938357,
+            299108387,
+            700810080,
+            1718093079,
+            2023641,
+            2108629,
+            298623321,
+            1993623,
+            2098629
+          ],
+          "catid": 100534,
+          "shopee_verified": true,
+          "liked_count": 18,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1670495677,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100534,
+              100576,
+              100614
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.594594594594595,
+            "rating_count": [
+              74,
+              1,
+              2,
+              3,
+              14,
+              54
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "WARNA",
+              "options": [
+                "HITAM",
+                "PUTIH",
+                "BIRU",
+                "HIJAU",
+                "PINK"
+              ],
+              "images": [
+                "sg-11134201-22120-9ubqkqri3tkv5a",
+                "sg-11134201-22120-qoe0bfti3tkv29",
+                "sg-11134201-22120-nctgepui3tkvea",
+                "sg-11134201-22120-cut7h8vi3tkv97",
+                "sg-11134201-22120-4hhg3exi3tkv2c"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "GARANSI studio Smartwatch Series T800 Ultra S8 Smart Watch / Super Hd Smooth Screen / Bluetooth Call",
+          "image": "id-11134207-7qul2-lhzxec0wrl5z2c",
+          "images": [
+            "id-11134207-7qul2-lhzxec0wrl5z2c",
+            "id-11134207-7qul9-lhzxec0wq6lj50",
+            "id-11134207-7r98x-lxkqrscgxdpo32",
+            "id-11134207-7r98r-lxkthq4jc4cd9b",
+            "id-11134207-7r98o-lxkthq4jdiwtb1",
+            "id-11134207-7r98v-lxkthq4jexh942"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6khxo-lxntaeez0xcaa0",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khxo-lxntaeez0xcaa0",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khxo-lxntaeez0xcaa0",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khxo-lxntaeez0xcaa0",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khxo-lxntaeez0xcaa0",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khxo-lxntaeez0xcaa0",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.6",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10RB+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "GUARANTEE studio Smartwatch Series T800 Ultra S8 Smart Watch / Super Hd Smooth Screen / Bluetooth Call",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 5580000000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 19376437820,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 19376437820,
+            "model_id": 226534143315,
+            "promotion_type": 324,
+            "promotion_id": 10000012670,
+            "price": 5580000000,
+            "strikethrough_price": 27000000000,
+            "discount": 79,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1423606736240640,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1423606736240640,
+              "voucher_code": "STUD88",
+              "voucher_discount": 20000000,
+              "time_info": {
+                "start_time": 1779166860,
+                "end_time": 1787205660,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 3800000000,
+              "signature": "f5a01937027011fa1d59b215614d00bad7a098fc343aea12cc963db83505acc0",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 27000000000,
+            "model_selection_logic": null,
+            "promotion_price": 5600000000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 10568,
+            "monthly_sold_count": 439,
+            "historical_sold_count_text": "10RB+ sold",
+            "monthly_sold_count_text": "439 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            700190019,
+            1049122,
+            822059908662278,
+            1059152,
+            844931064601283,
+            844931086908638,
+            825465608499232,
+            1000031,
+            298458395,
+            1718087960,
+            1428713,
+            1015914,
+            700190087,
+            837860934119952,
+            825465608492064,
+            825465608497696,
+            1213641,
+            1400285055,
+            1918643,
+            2018619,
+            298893311,
+            700830032,
+            2048660,
+            2048661,
+            298888358,
+            298938357,
+            299108387,
+            299103323,
+            1718093079,
+            700960097,
+            2023641,
+            700810080,
+            298623321,
+            1993623,
+            2098629
+          ],
+          "catid": 100013,
+          "shopee_verified": true,
+          "liked_count": 1854,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1679110902,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100013,
+              100074,
+              100270
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.556125721616421,
+            "rating_count": [
+              3118,
+              128,
+              60,
+              171,
+              350,
+              2409
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1386762,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16000081720681677.mp4",
+              "thumb_url": "id-11110105-7r990-lxktzoqp53ufda",
+              "duration": 16,
+              "version": 2,
+              "vid": "id-11110105-6ke16-lxktzm9moa7gbf",
+              "formats": [
+                {
+                  "format": 1600671,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16006711773703402.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16006711773703402.mp4",
+                  "width": 540,
+                  "height": 960
+                },
+                {
+                  "format": 1600324,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003241724438124.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003241724438124.mp4",
+                  "width": 720,
+                  "height": 1280
+                },
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003251724438124.mp4",
+                  "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003251724438124.mp4",
+                  "width": 720,
+                  "height": 1280
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.default.mp4",
+                "width": 540,
+                "height": 960
+              },
+              "mms_data": "{\"vid\":\"id-11110105-6ke16-lxktzm9moa7gbf\",\"biz\":107,\"duration\":16021,\"create_time\":1720681674,\"update_time\":1720681678,\"serviceID\":2,\"cover\":\"https://down-aka-id.img.susercontent.com/id-11110105-7r990-lxktzoqp53ufda\",\"cover_list\":[],\"formats\":[{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16006711773703402.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16006711773703402.mp4\",\"width\":540,\"height\":960,\"bitrate\":367136,\"abitrate\":32429,\"size\":810913,\"fps\":25,\"duration\":16020,\"update_time\":1773703409,\"codec\":\"H264\"},{\"format\":1600324,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003241724438124.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003241724438124.mp4\",\"width\":720,\"height\":1280,\"bitrate\":727283,\"abitrate\":127445,\"size\":1720099,\"fps\":25.06266,\"duration\":16042,\"update_time\":1724438137,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003251724438124.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003251724438124.mp4\",\"width\":720,\"height\":1280,\"bitrate\":802154,\"abitrate\":127445,\"size\":1869467,\"fps\":25.06266,\"duration\":16042,\"update_time\":1724438135,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":453461,\"abitrate\":127445,\"size\":1173832,\"fps\":25.06266,\"duration\":16042,\"update_time\":1720681713,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003151773703395.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003151773703395.mp4\",\"width\":360,\"height\":640,\"bitrate\":197956,\"abitrate\":32429,\"size\":475227,\"fps\":25,\"duration\":16020,\"update_time\":1773703401,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003161724438124.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003161724438124.mp4\",\"width\":540,\"height\":960,\"bitrate\":343510,\"abitrate\":127457,\"size\":958058,\"fps\":25.06266,\"duration\":16021,\"update_time\":1724438139,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003171724438124.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003171724438124.mp4\",\"width\":720,\"height\":1280,\"bitrate\":460605,\"abitrate\":127457,\"size\":1191651,\"fps\":25.06266,\"duration\":16021,\"update_time\":1724438147,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003181724438124.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16003181724438124.mp4\",\"width\":720,\"height\":1280,\"bitrate\":595556,\"abitrate\":127457,\"size\":1460880,\"fps\":25.06266,\"duration\":16021,\"update_time\":1724438147,\"codec\":\"H265\"},{\"format\":1600741,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007411773168261.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007411773168261.mp4\",\"width\":720,\"height\":1280,\"bitrate\":421570,\"abitrate\":48556,\"size\":954738,\"fps\":25.00156,\"duration\":16020,\"update_time\":1773168276,\"codec\":\"H265\"},{\"format\":1600742,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007421773168261.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007421773168261.mp4\",\"width\":720,\"height\":1280,\"bitrate\":388045,\"abitrate\":48556,\"size\":887691,\"fps\":25.00156,\"duration\":16020,\"update_time\":1773168276,\"codec\":\"H265\"},{\"format\":1600743,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007431773168261.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007431773168261.mp4\",\"width\":720,\"height\":1280,\"bitrate\":383493,\"abitrate\":48556,\"size\":878608,\"fps\":25,\"duration\":16020,\"update_time\":1773168275,\"codec\":\"H265\"},{\"format\":1600744,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007441773168261.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke16-lxktzm9moa7gbf.16007441773168261.mp4\",\"width\":720,\"height\":1280,\"bitrate\":346621,\"abitrate\":48556,\"size\":804865,\"fps\":25,\"duration\":16020,\"update_time\":1773168275,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "T800 HITAM",
+              "options": [
+                "T800 KUNING",
+                "T800 HIJAU",
+                "T800 BIRU",
+                "T800 ORANGE",
+                "T800 ABU ABU",
+                "T800 hitam full",
+                "T800  HITAM SILVER",
+                "T800 UNGU",
+                "T800 MERAH",
+                "T800 CREAM"
+              ],
+              "images": [
+                "id-11134207-7r98w-lxkqrscgysa439",
+                "id-11134207-7r98z-lxkqrsch4ejwd7",
+                "id-11134207-7r98v-lxkqrsch06uk60",
+                "id-11134207-7r98q-lxkqrsch5t4c84",
+                "id-11134207-7r98p-lxkqrsch1lf07d",
+                "id-11134207-81zte-mqkxs0bgqj9n87",
+                "id-11134207-7r98p-lxkqrsch2zzg0d",
+                "id-11134207-7r98r-lxkqrsch8m98b0",
+                "id-11134207-7r98s-lxkthq4japrx9c",
+                "id-11134207-7r98z-lxkthq4jgc1p5b"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "[SW] Jam Tangan Pria QuikSilver Skymax Digital Strap Rubber",
+          "image": "843c2ea54762f231660322a825b5ac1a",
+          "images": [
+            "843c2ea54762f231660322a825b5ac1a",
+            "ee2c1a1e3f957557a552e99d128fd54a",
+            "b3d35b026a8cbe06b1e07567266d753b",
+            "91951f2383019fb5d58f03a1a6b2b12a",
+            "3944047f88246523b0d98dc9a30c6d34",
+            "77def34c785115b23eaf91070e711d00"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.5",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "294 sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "[SW] QuikSilver Skymax Digital Men's Watch with Rubber Strap",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2598000000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 19847694488,
+          "shopid": 451021432,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 19847694488,
+            "model_id": 164530892788,
+            "promotion_type": 324,
+            "promotion_id": 10000012670,
+            "price": 2598000000,
+            "strikethrough_price": 10000000000,
+            "discount": 74,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 10000000000,
+            "model_selection_logic": null,
+            "promotion_price": 2598000000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 294,
+            "monthly_sold_count": 61,
+            "historical_sold_count_text": "294 sold",
+            "monthly_sold_count_text": "61 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            700190019,
+            1049122,
+            1059152,
+            822059908662278,
+            825465608499232,
+            844931064601283,
+            844931086908638,
+            1000031,
+            298458395,
+            1718087960,
+            1428713,
+            1400285055,
+            1015914,
+            700190087,
+            1918643,
+            2018619,
+            837860934119952,
+            825465608497696,
+            298893311,
+            298888358,
+            298938357,
+            299108387,
+            2108629,
+            1718093079,
+            2023641,
+            298938356,
+            298623321,
+            1993623,
+            2098629
+          ],
+          "catid": 100534,
+          "shopee_verified": true,
+          "liked_count": 73,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "studio_watch",
+            "shop_icon": null,
+            "shop_location": "KOTA JAKARTA UTARA"
+          },
+          "status": 1,
+          "ctime": 1663668562,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100534,
+              100574
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.531531531531532,
+            "rating_count": [
+              111,
+              5,
+              2,
+              9,
+              8,
+              87
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Warna",
+              "options": [
+                "Hitam merek xavier",
+                "Merah xavier",
+                "Biru Navy xavier",
+                "Hijau Army xavier",
+                "Abu-abu  xavier"
+              ],
+              "images": [
+                "ee2c1a1e3f957557a552e99d128fd54a",
+                "b3d35b026a8cbe06b1e07567266d753b",
+                "91951f2383019fb5d58f03a1a6b2b12a",
+                "3944047f88246523b0d98dc9a30c6d34",
+                "77def34c785115b23eaf91070e711d00"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      }
+    ],
+    "item_tracking_infos": [
+      {
+        "item_id": 25933166328,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:1.685945},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:25933166328",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 26766326969,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:SICF4|spop_v1,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:0.871605},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:26766326969",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 18983468091,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:0.790189},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:18983468091",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 44314341298,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:SICF4|spop_v1,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:0.679613},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:44314341298",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 22887828775,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:0.558685},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:22887828775",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 16891126963,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:SICF4|spop_v1,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:0.256326},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:16891126963",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 19376437820,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:SICF4|spop_v1,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:0.255237},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:19376437820",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 19847694488,
+        "is_seller_configured": false,
+        "recommendation_info": "AB:78013|702038|701014|452594|452586|452556|452534|452518|452492|452382|450321|450308|450300|450296|450281|450276|430275|428058|378802|97858|97824|97816|97804|97793|97780|97764|91711|90984|81097|81085|80811|80718|80704|79683|79146|62530|62514|40286|40279|40260,REQID:b11ba3af56b8e0fe16b3533ba2690900,BND:product_detail_page_ftss,QUES:SICF4|spop_v1,RNK:gpu_shop_v5_unify_cgc_wuv4_gemds_my@ID_2141315:{SCORE:0.231336},SECKEY:from_same_shop,ROI:0,DT:1784201909084,SK:b11ba3af56b8e0fe16b3533ba2690900,CARDID:19847694488",
+        "ads_tms_info": "",
+        "ads_id": 0
+      }
+    ],
+    "translation_status": 1
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "bff_meta": null,
+  "data": {
+    "cb_option": 0,
+    "cmt_count": 0,
+    "condition": 1,
+    "create_time": 1732973074,
+    "currency": "SGD",
+    "description": "HAIR CARE\nADENOVITAL\n●For those who want strength resilience and volume\n●For those who are concerned about thinning and/or hair loss.\n\nStrength Renewed From The Core\n\nFor hair which has started experiencing change",
+    "flag": 131072,
+    "global_brand_id": 1232817,
+    "has_variations": true,
+    "images": [
+      "sg-11134207-7rfgn-m37vmdmxnpgd32",
+      "sg-11134207-7rfih-m37vmim6c0fb3c"
+    ],
+    "item_id": "29969299771",
+    "liked_count": 0,
+    "local_brand": "",
+    "max_price_display": "5078000",
+    "min_price_display": "2928000",
+    "models": [
+      {
+        "create_time": 1732973074,
+        "currency": "SGD",
+        "model_id": "59493924043",
+        "mtime": 1732973074,
+        "name": "Shampoo 250ml",
+        "normal_price": "3050000",
+        "price": "2928000",
+        "price_rule_id": "471612440854638",
+        "seller_sku": "",
+        "sold": 0,
+        "status": 1,
+        "stock": 6,
+        "tier_indices": [
+          0
+        ]
+      },
+      {
+        "create_time": 1732973074,
+        "currency": "SGD",
+        "model_id": "59493924044",
+        "mtime": 1732973074,
+        "name": "Shampoo 500ml",
+        "normal_price": "5290000",
+        "price": "5078000",
+        "price_rule_id": "471612440854638",
+        "seller_sku": "",
+        "sold": 1,
+        "status": 1,
+        "stock": 1,
+        "tier_indices": [
+          1
+        ]
+      },
+      {
+        "create_time": 1755498391,
+        "currency": "SGD",
+        "model_id": "266138230404",
+        "mtime": 1755498391,
+        "name": "Refill pack 450ml",
+        "normal_price": "4490000",
+        "price": "4310000",
+        "price_rule_id": "471612440854638",
+        "seller_sku": "",
+        "sold": 0,
+        "status": 1,
+        "stock": 3,
+        "tier_indices": [
+          2
+        ]
+      }
+    ],
+    "mtime": 1764594172,
+    "name": "Shiseido Professional Sublimic Adenovital Shampoo / Hair / Scalp Treatment / Power Shot / Mask Volume Serum / Hairloss",
+    "normal_max_price_display": "5290000",
+    "normal_min_price_display": "3050000",
+    "normal_price_max": "5290000",
+    "normal_price_min": "3050000",
+    "offer_count": 0,
+    "option": 1,
+    "price_max": "5078000",
+    "price_min": "2928000",
+    "rating": {
+      "rating_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "rating_star": 0,
+      "rcount_with_context": 0,
+      "rcount_with_image": 0
+    },
+    "region": "SG",
+    "seller_sku": "",
+    "shop_id": "448475661",
+    "size_chart": "",
+    "sold": 1,
+    "sold_out_time": "0",
+    "status": 1,
+    "tier_variations": [
+      {
+        "images": [
+          "sg-11134207-7rfg2-m37vpdktns5q21",
+          "sg-11134207-7rfhk-m37vpi6gxdb1d3",
+          "sg-11134207-7rdw6-mdjzkwik42c4e4"
+        ],
+        "name": "Types",
+        "options": [
+          "Shampoo 250ml",
+          "Shampoo 500ml",
+          "Refill pack 450ml"
+        ],
+        "type": 0
+      }
+    ],
+    "total_stock": "10",
+    "touch_time": 1777893994
+  },
+  "error": null,
+  "error_msg": null
+}

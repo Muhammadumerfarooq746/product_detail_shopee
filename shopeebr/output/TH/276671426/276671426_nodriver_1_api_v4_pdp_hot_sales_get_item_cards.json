@@ -1,0 +1,1647 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "source": 1,
+    "card_set": {
+      "layout_id": 10,
+      "element_toggle": {
+        "atc_button": false,
+        "feedback_button": false
+      },
+      "card_set_name": "FTSS TPFS card"
+    },
+    "item_cards": [
+      {
+        "item_card_displayed_asset": {
+          "name": "พรมปูพื้นรถยนต์ พรมหนังVIP 1ชุด5ชิ้น พรมปูพื้น6D พรมปูพื้นรถยนต์ ใส่ได้ทั้ง รถเก๋ง กระบะ ทุกรุ่นมี7สี",
+          "image": "th-11134207-81ztq-mjv3xdcxu8lj44",
+          "images": [
+            "th-11134207-81ztq-mjv3xdcxu8lj44",
+            "3342a0de84645257cee386ccac8d8ccc",
+            "5f3d6b209bef03f83fb679ee2b8fde43",
+            "9463fdfd3e9d6742e2be7c5c0267b594",
+            "e5b30bdb21246ad8b72ca0b396f0f4db",
+            "ff1b906b57126b8cfdb3fb9a0eab344c",
+            "d90d393e78f3552b2676c64af1920f2e",
+            "9cc46ab873ce48636cf7eef952f4a81a",
+            "th-11134207-7rasd-m4lngsd85ivo88"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.7",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Car Floor Mats VIP Leather Carpet, 1 Set Of 5 Pieces 6D Floor Mats, Car Floor Mats, Can Be Used With All Sedans And Pickup Trucks, 7 Colors Available",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 9300000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 4687136918,
+          "shopid": 276671426,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 4687136918,
+            "model_id": 26136209417,
+            "promotion_type": 502,
+            "promotion_id": 469532754264194,
+            "price": 9300000,
+            "strikethrough_price": 90000000,
+            "discount": 90,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1436680155983872,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1436680155983872,
+              "voucher_code": "WARAERW89",
+              "voucher_discount": 100000,
+              "time_info": {
+                "start_time": 1780725360,
+                "end_time": 1787986560,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 0,
+              "signature": "203c98b27f734c75764c45d9284134a03bf89a61669e5cfaf206a72c596050b4",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 90000000,
+            "model_selection_logic": null,
+            "promotion_price": 9400000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 16638,
+            "monthly_sold_count": 286,
+            "historical_sold_count_text": "10k+ sold",
+            "monthly_sold_count_text": "286 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1009116,
+            700066449,
+            700066450,
+            700066451,
+            1400085213,
+            700066453,
+            825249635454464,
+            1001365,
+            1000028,
+            1718087960,
+            1428713,
+            700640027,
+            844931086908638,
+            1908622,
+            1000110,
+            298643630,
+            2073655,
+            2058593,
+            298643324,
+            700765086,
+            2098592,
+            2108635,
+            2103586,
+            298938367,
+            837903335771681,
+            822059879271430,
+            822120593886220,
+            299103340,
+            1400845102,
+            700960097,
+            2218676,
+            1015641,
+            701000163,
+            299048420,
+            298923351,
+            998236066,
+            298923318,
+            700925001,
+            2063592,
+            2288632,
+            2288631,
+            2063604,
+            298893326,
+            998286006,
+            2063618,
+            2058612,
+            2058592
+          ],
+          "catid": 102187,
+          "shopee_verified": true,
+          "liked_count": 5140,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "waranya.shop&8693",
+            "shop_icon": null,
+            "shop_location": "จังหวัดกรุงเทพมหานคร"
+          },
+          "status": 1,
+          "ctime": 1619272647,
+          "flag": 65536,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              102187,
+              102249,
+              102518
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.747653806047967,
+            "rating_count": [
+              5755,
+              56,
+              51,
+              194,
+              690,
+              4764
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "aabe915603b114c695d74f314c837652",
+              "thumb_url": "33769caef698540a7abc4799b88d022e",
+              "duration": 21,
+              "version": 2,
+              "vid": "sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.16003251716126052.mp4",
+                  "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.16003251716126052.mp4",
+                  "width": 720,
+                  "height": 1264
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.default.mp4",
+                "width": 540,
+                "height": 948
+              },
+              "mms_data": "{\"vid\":\"sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077\",\"biz\":107,\"duration\":21033,\"create_time\":1635234750,\"update_time\":1637935442,\"serviceID\":1,\"cover\":\"\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.16003251716126052.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.16003251716126052.mp4\",\"width\":720,\"height\":1264,\"bitrate\":1409937,\"abitrate\":48285,\"size\":3845759,\"fps\":25.04762,\"duration\":21077,\"update_time\":1716126070,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.default.mp4\",\"width\":540,\"height\":948,\"bitrate\":480614,\"abitrate\":48285,\"size\":1406304,\"fps\":25.04762,\"duration\":21077,\"update_time\":1705023728,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.16003181716126052.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/sg_515a8a3a-bd3e-407b-9b52-1bb739b9a683_000077.16003181716126052.mp4\",\"width\":720,\"height\":1264,\"bitrate\":837713,\"abitrate\":48281,\"size\":2348149,\"fps\":25.04762,\"duration\":21061,\"update_time\":1716126096,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "สีพรม",
+              "options": [
+                "สีดำด้ายดำ",
+                "สีไวน์แดงด้ายครีม",
+                "สีกาแฟด้ายครีม",
+                "สีดำด้ายฟ้า",
+                "สีดำด้ายแดง"
+              ],
+              "images": [
+                "2e129f041a7293935da3f841aa698242",
+                "ce2718ed32d351b5b2b1c54cdcec5511",
+                "20e6a34533af497eff6d0c46623e2bfc",
+                "e312da12e7036591b6dd0dd5cf91c858",
+                "9463fdfd3e9d6742e2be7c5c0267b594"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【อัดเกรดรุ่นใหม่】ใหญ่กว่าทนกว่า ใส่ได้กับรถทุกรุ่น ทุกเบาะ ใหญ่แค่ไหนก็ใส่ได้ ที่หุ้มเบาะรถมอเตอร์ไซค์ ผ้าคุมเบาะมอเตอร์",
+          "image": "th-11134207-7rase-m4o9jmbu9u7n74",
+          "images": [
+            "th-11134207-7rase-m4o9jmbu9u7n74",
+            "9c22c545dee8d78a8611116843bb32e8",
+            "dd65912ce0ab100fa3f0aaaf936bfb47",
+            "237e856e85158922118e53cdbf232df9",
+            "32b8f823f330ccabe6b0557609442cf3",
+            "dffbfd47306f0bdd85e14604c0295bab",
+            "895e7223dc0cac2fb6219948a46d12b1",
+            "6dbbd05cd60c9d48cbb48bd71b882aef",
+            "80e59ae69a0720fd3dbfdfac1088a339"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6kiom-m4u1fxz9tp0ea7",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6kiom-m4u1fxz9tp0ea7",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6kiom-m4u1fxz9tp0ea7",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6kiom-m4u1fxz9tp0ea7",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6kiom-m4u1fxz9tp0ea7",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6kiom-m4u1fxz9tp0ea7",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.8",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "20k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "New Model Grade Compression, Bigger And More Durable, Can Be Used With All Car Models. All Seats No Matter How Big You Are, You Can Wear It. Motorcycle Seat Cover Motor Seat Cover",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 0,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 21925832870,
+          "shopid": 276671426,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 21925832870,
+            "model_id": 191341452178,
+            "promotion_type": 502,
+            "promotion_id": 469532754264194,
+            "price": 0,
+            "strikethrough_price": 25000000,
+            "discount": 100,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1436680155983872,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1436680155983872,
+              "voucher_code": "WARAERW89",
+              "voucher_discount": 100000,
+              "time_info": {
+                "start_time": 1780725360,
+                "end_time": 1787986560,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 0,
+              "signature": "203c98b27f734c75764c45d9284134a03bf89a61669e5cfaf206a72c596050b4",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 25000000,
+            "model_selection_logic": null,
+            "promotion_price": 100000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 28210,
+            "monthly_sold_count": 1148,
+            "historical_sold_count_text": "20k+ sold",
+            "monthly_sold_count_text": "1k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1009116,
+            844931064601283,
+            822059879271430,
+            1001365,
+            1000028,
+            1718087960,
+            1428713,
+            700640027,
+            844931086908638,
+            1908622,
+            1000110,
+            822120593886220,
+            298643630,
+            2073655,
+            2058593,
+            298643324,
+            700765086,
+            2098592,
+            2108635,
+            2103586,
+            298938367,
+            837903335771681,
+            998301024,
+            2143613,
+            299103340,
+            1400845102,
+            1049107,
+            700960097,
+            2218676,
+            1015641,
+            298923351,
+            2103651,
+            299048420,
+            998236066,
+            1978602,
+            298803386,
+            843623424279161,
+            298923318,
+            700925001,
+            298623321,
+            2288632,
+            2063592,
+            2058592,
+            2063618,
+            2063604,
+            2288631,
+            998286006,
+            2058612,
+            298893326
+          ],
+          "catid": 100641,
+          "shopee_verified": true,
+          "liked_count": 3481,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "waranya.shop&8693",
+            "shop_icon": null,
+            "shop_location": "จังหวัดกรุงเทพมหานคร"
+          },
+          "status": 1,
+          "ctime": 1658320681,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100641,
+              100756,
+              101477
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.757736943907156,
+            "rating_count": [
+              10340,
+              134,
+              95,
+              334,
+              1016,
+              8761
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16000101734327243.mp4",
+              "thumb_url": "th-11110105-6kgci-m3u91kyypsywf2_cover",
+              "duration": 37,
+              "version": 2,
+              "vid": "th-11110105-6kgci-m3u91kyypsywf2",
+              "formats": [
+                {
+                  "format": 1600432,
+                  "defn": "V360P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004321761834728.mp4",
+                  "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004321761834728.mp4",
+                  "width": 360,
+                  "height": 640
+                },
+                {
+                  "format": 1600433,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004331761834728.mp4",
+                  "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004331761834728.mp4",
+                  "width": 540,
+                  "height": 960
+                },
+                {
+                  "format": 1600434,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004341761834728.mp4",
+                  "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004341761834728.mp4",
+                  "width": 720,
+                  "height": 1280
+                },
+                {
+                  "format": 1600435,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004351761834728.mp4",
+                  "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004351761834728.mp4",
+                  "width": 720,
+                  "height": 1280
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.default.mp4",
+                "width": 540,
+                "height": 960
+              },
+              "mms_data": "{\"vid\":\"th-11110105-6kgci-m3u91kyypsywf2\",\"biz\":107,\"duration\":37166,\"create_time\":1734327241,\"update_time\":1734327245,\"serviceID\":2,\"cover\":\"https://down-tx-th.img.susercontent.com/th-11110105-6kgci-m3u91kyypsywf2_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004321761834728.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004321761834728.mp4\",\"width\":360,\"height\":640,\"bitrate\":266271,\"abitrate\":32141,\"size\":1406643,\"fps\":25,\"duration\":37040,\"update_time\":1761834735,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004331761834728.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004331761834728.mp4\",\"width\":540,\"height\":960,\"bitrate\":514893,\"abitrate\":32141,\"size\":2557771,\"fps\":25,\"duration\":37040,\"update_time\":1761834752,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004341761834728.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004341761834728.mp4\",\"width\":720,\"height\":1280,\"bitrate\":796568,\"abitrate\":32141,\"size\":3861921,\"fps\":25,\"duration\":37040,\"update_time\":1761834755,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004351761834728.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004351761834728.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1496875,\"abitrate\":32141,\"size\":7115646,\"fps\":30.00027,\"duration\":37033,\"update_time\":1761834759,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":493518,\"abitrate\":32134,\"size\":2466096,\"fps\":25,\"duration\":37040,\"update_time\":1734327424,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004361761834700.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004361761834700.mp4\",\"width\":360,\"height\":640,\"bitrate\":209354,\"abitrate\":32141,\"size\":1146329,\"fps\":25,\"duration\":37040,\"update_time\":1761834727,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004371761834728.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004371761834728.mp4\",\"width\":540,\"height\":960,\"bitrate\":350107,\"abitrate\":32141,\"size\":1798038,\"fps\":25,\"duration\":37040,\"update_time\":1761834753,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004381761834728.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004381761834728.mp4\",\"width\":720,\"height\":1280,\"bitrate\":634359,\"abitrate\":32141,\"size\":3126322,\"fps\":30.00027,\"duration\":37033,\"update_time\":1761834793,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004391761834728.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m3u91kyypsywf2.16004391761834728.mp4\",\"width\":720,\"height\":1280,\"bitrate\":757910,\"abitrate\":32141,\"size\":3698259,\"fps\":30.00027,\"duration\":37033,\"update_time\":1761834797,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": null,
+              "options": [
+                ""
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【รับประกัน 1 ปี】บลูทูธรถยนต์ Car Mp3 Player bluetooth เครื่องส่งสัญญาณ FM  หัวชาร์จเร็วในรถ ที่ชาร์จมือถืออย่างรวดเร็ว",
+          "image": "th-11134207-7r98o-lqelpxl833s476",
+          "images": [
+            "th-11134207-7r98o-lqelpxl833s476",
+            "34d57fd36bdaf47a6bf9ba0fd8f63896",
+            "th-11134207-7r98w-lqd80i9y592259",
+            "th-11134207-7r98t-lntvaosslpwn20",
+            "th-11134207-7r98r-lntvaosspxlzce",
+            "th-11134207-7r98y-lntwaqiligrrb4",
+            "th-11134207-7r992-lntwaqilh27b96",
+            "th-11134207-7r98p-loqp6z1xmdkt0c",
+            "th-11134207-7r98v-lq60al2h5xqye9"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.7",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "20k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "1 Year Warranty Car Bluetooth Car Mp3 Player Bluetooth FM Transmitter  Fast Charger In The Car Fast Mobile Phone Charger",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 0,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 15426024166,
+          "shopid": 276671426,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 15426024166,
+            "model_id": 129299063205,
+            "promotion_type": 502,
+            "promotion_id": 469532754264194,
+            "price": 0,
+            "strikethrough_price": 25900000,
+            "discount": 100,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1436680155983872,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1436680155983872,
+              "voucher_code": "WARAERW89",
+              "voucher_discount": 100000,
+              "time_info": {
+                "start_time": 1780725360,
+                "end_time": 1787986560,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 0,
+              "signature": "203c98b27f734c75764c45d9284134a03bf89a61669e5cfaf206a72c596050b4",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 25900000,
+            "model_selection_logic": null,
+            "promotion_price": 100000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 23562,
+            "monthly_sold_count": 501,
+            "historical_sold_count_text": "20k+ sold",
+            "monthly_sold_count_text": "501 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1009116,
+            1001365,
+            1000028,
+            1718087960,
+            1428713,
+            700640027,
+            844931086908638,
+            1908622,
+            1000110,
+            298643630,
+            2073655,
+            2058593,
+            298643324,
+            700765086,
+            2098592,
+            2108635,
+            2103586,
+            298938367,
+            837903335771681,
+            822059879271430,
+            822120593886220,
+            299103340,
+            1978602,
+            298803386,
+            2103651,
+            2143613,
+            298623321,
+            1049107,
+            700960097,
+            2218676,
+            1015641,
+            298923351,
+            298923318,
+            299048420,
+            998236066,
+            843623424279161,
+            700925001,
+            2288632,
+            998286006,
+            2063604,
+            2063592,
+            298893326,
+            2058612,
+            2058592,
+            2063618,
+            2288631
+          ],
+          "catid": 100640,
+          "shopee_verified": true,
+          "liked_count": 2611,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "waranya.shop&8693",
+            "shop_icon": null,
+            "shop_location": "จังหวัดกรุงเทพมหานคร"
+          },
+          "status": 1,
+          "ctime": 1640586676,
+          "flag": 65536,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100640,
+              100747,
+              101425
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.746563060370592,
+            "rating_count": [
+              6692,
+              101,
+              53,
+              234,
+              665,
+              5639
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/th-11110105-6ke15-lom2nj5yrdes43.16000081701143618.mp4",
+              "thumb_url": "th-11110105-7r992-lom2nl3vyt411b",
+              "duration": 15,
+              "version": 2,
+              "vid": "th-11110105-6ke15-lom2nj5yrdes43",
+              "formats": [
+                {
+                  "format": 1600323,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/th-11110105-6ke15-lom2nj5yrdes43.default.mp4",
+                  "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke15-lom2nj5yrdes43.default.mp4",
+                  "width": 540,
+                  "height": 960
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke15-lom2nj5yrdes43.default.mp4",
+                "width": 540,
+                "height": 960
+              },
+              "mms_data": "{\"vid\":\"th-11110105-6ke15-lom2nj5yrdes43\",\"biz\":107,\"duration\":15148,\"create_time\":1701143615,\"update_time\":1737652068,\"serviceID\":2,\"cover\":\"https://down-tx-th.img.susercontent.com/th-11110105-7r992-lom2nl3vyt411b\",\"cover_list\":[],\"formats\":[{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke15-lom2nj5yrdes43.default.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke15-lom2nj5yrdes43.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":387440,\"abitrate\":47410,\"size\":828329,\"fps\":25.06667,\"duration\":15019,\"update_time\":1701143628,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke15-lom2nj5yrdes43.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":387440,\"abitrate\":47410,\"size\":828329,\"fps\":25.06667,\"duration\":15019,\"update_time\":1701143628,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "บลูทูธรถยนต์",
+              "options": [
+                "CAR A9",
+                "CAR F2",
+                "CAP P22",
+                "CAR F16",
+                "CAR F21",
+                "CAR F8",
+                "CAR P18",
+                "CAR F7",
+                "CAR F13",
+                "CAR P25",
+                "CAR F11",
+                "CAR P2",
+                "CAR X1",
+                "CAR X3",
+                "CAR L3",
+                "CAR T5",
+                "CAR T6"
+              ],
+              "images": [
+                "th-11134207-7r98u-lntwaqiljvc7e8",
+                "91920b24747f309ae23aaaead4a0235f",
+                "th-11134207-7r990-lntwaqilmoh30c",
+                "th-11134207-7r98x-lntwaqiltpbbe4",
+                "th-11134207-7r98s-lntwmzxti6hz14",
+                "th-11134207-7r98o-loqp6z1xrzule1",
+                "th-11134207-7r992-lq60al2h8qvub8",
+                "th-11134207-7r991-lqd80i9xy87uc3",
+                "th-11134207-7r98t-lqd80i9y3uhm08",
+                "th-11134207-7r98x-lqiy86qsbrbu2d",
+                "th-11134207-7r98w-lwgzmeaa8clr9b",
+                "th-11134207-7rasa-m7ko8epgl78727",
+                "th-11134207-7rase-m7ko8tev2hg7d9",
+                "th-11134207-7rasg-m7t8v8vxfphz94",
+                "th-11134207-81ztj-mm08he2q36yr08",
+                "th-11134207-81zti-mm08hlutmhov02",
+                "th-11134207-81zth-mm02dawz2b60bb"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【ลูกค้าใหม่ราคา 1 บาท】【 ยกแพ็ค 5 แท่ง】แปรงสีฟันนาโน หัวยาว สินค้านำเข้า ขนแปรงนุ่มพิเศษ กําจัดคราบ",
+          "image": "th-11134207-81ztf-mjv460995rlydc",
+          "images": [
+            "th-11134207-81ztf-mjv460995rlydc",
+            "th-11134207-7r98p-lvu2slpk1ju8ae",
+            "th-11134207-7r98w-lvu2slpk2yeoc5",
+            "th-11134207-7r98v-lvu2slpk4cz45c",
+            "th-11134207-7r98u-lvu2slpk76402f",
+            "th-11134207-7r98z-lvu2slpk5rjk74",
+            "th-11134207-7r98x-lvu2slpkbdtceb",
+            "th-11134207-7r98r-lvu2slpk8kog4a",
+            "th-11134207-7r98v-lvu2slpk9z8w3d"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6khwb-lyhze6ewjpyge5",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khwb-lyhze6ewjpyge5",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khwb-lyhze6ewjpyge5",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khwb-lyhze6ewjpyge5",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6khwb-lyhze6ewjpyge5",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6khwb-lyhze6ewjpyge5",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "9k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "New Customers Price 1 Baht Pack Of 5 Nano Toothbrush Sticks Long Head, Imported Product, Extra Soft Bristles Remove Stains",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 0,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 25131372872,
+          "shopid": 276671426,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 25131372872,
+            "model_id": 217539874800,
+            "promotion_type": 502,
+            "promotion_id": 469532754264194,
+            "price": 0,
+            "strikethrough_price": 35000000,
+            "discount": 100,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1436680155983872,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1436680155983872,
+              "voucher_code": "WARAERW89",
+              "voucher_discount": 100000,
+              "time_info": {
+                "start_time": 1780725360,
+                "end_time": 1787986560,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 0,
+              "signature": "203c98b27f734c75764c45d9284134a03bf89a61669e5cfaf206a72c596050b4",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 35000000,
+            "model_selection_logic": null,
+            "promotion_price": 100000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 9852,
+            "monthly_sold_count": 617,
+            "historical_sold_count_text": "9k+ sold",
+            "monthly_sold_count_text": "617 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000028,
+            1001365,
+            1009116,
+            844931064601283,
+            822059879271430,
+            700640027,
+            844931086908638,
+            1428713,
+            1718087960,
+            1908622,
+            1000110,
+            822120593886220,
+            2073655,
+            2058593,
+            298643324,
+            700765086,
+            2098592,
+            2108635,
+            2103586,
+            298938367,
+            837903335771681,
+            2143613,
+            2103651,
+            998301024,
+            299103340,
+            1400845102,
+            1049107,
+            700960097,
+            2218676,
+            1015641,
+            298923318,
+            299048420,
+            998236066,
+            843623424279161,
+            298923351,
+            298623321,
+            700925001,
+            998286006,
+            2063618,
+            2058612,
+            2288631,
+            2288632,
+            2058592,
+            2063604,
+            2063592,
+            298893326
+          ],
+          "catid": 100001,
+          "shopee_verified": true,
+          "liked_count": 1518,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "waranya.shop&8693",
+            "shop_icon": null,
+            "shop_location": "จังหวัดกรุงเทพมหานคร"
+          },
+          "status": 1,
+          "ctime": 1716883376,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100001,
+              100019,
+              100134,
+              100438
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.886668419668682,
+            "rating_count": [
+              3803,
+              14,
+              9,
+              56,
+              236,
+              3488
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.16000081718774281.mp4",
+              "thumb_url": "th-11110105-7r98p-lwpbnommpdtb53",
+              "duration": 29,
+              "version": 2,
+              "vid": "th-11110105-6ke17-lwpbng90yenkdc",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.16003251738239016.mp4",
+                  "url": "https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.16003251738239016.mp4",
+                  "width": 720,
+                  "height": 1280
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.default.mp4",
+                "width": 540,
+                "height": 960
+              },
+              "mms_data": "{\"vid\":\"th-11110105-6ke17-lwpbng90yenkdc\",\"biz\":107,\"duration\":28581,\"create_time\":1718774276,\"update_time\":1743050353,\"serviceID\":2,\"cover\":\"https://down-tx-th.img.susercontent.com/th-11110105-6ke17-lwpbng90yenkdc_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.16003251738239016.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.16003251738239016.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1110043,\"abitrate\":125216,\"size\":4448161,\"fps\":29.99965,\"duration\":28581,\"update_time\":1738239037,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":423272,\"abitrate\":125174,\"size\":1979402,\"fps\":25.03506,\"duration\":28587,\"update_time\":1718774349,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.16003181738239016.mp4\",\"url\":\"https://down-aka-th.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6ke17-lwpbng90yenkdc.16003181738239016.mp4\",\"width\":720,\"height\":1280,\"bitrate\":661144,\"abitrate\":125216,\"size\":2848366,\"fps\":29.99965,\"duration\":28581,\"update_time\":1738239048,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": null,
+              "options": [
+                ""
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【ลูกค้าใหม่ราคา 1 บาท】【รับประกัน 5 ปี】หูฟังบลูทูธไร้สาย สไตล์ใหม่ หูฟังไร้สายพร้อมไมโครโฟน ลดเสียงรบกวน หูฟัง bluet",
+          "image": "th-11134207-81zto-mqoixy3gge8fc0",
+          "images": [
+            "th-11134207-81zto-mqoixy3gge8fc0",
+            "th-11134207-7quky-lhaavxbfnh9k25",
+            "th-11134207-7quky-lhaavxbfqaeg37",
+            "th-11134207-7qul4-lhaavxbfovu0eb",
+            "th-11134207-7qul1-lhaavxbfroywa9",
+            "th-11134207-7qul3-lhaavxbfm2p439",
+            "th-11134207-7qul0-lhaavxbft3jcba",
+            "th-11134207-7qukx-lhaavxbfui3s8d",
+            "th-11134207-81ztn-mqiq156dpwy6a0"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.4",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "80k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "New Customers Price 1 Baht, 5 Years Warranty, Wireless Bluetooth Headphones New Style Wireless Headphones With Microphone, Noise Reduction Bluet Headphones",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 0,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 21580254388,
+          "shopid": 276671426,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 21580254388,
+            "model_id": 196774668286,
+            "promotion_type": 502,
+            "promotion_id": 469532754264194,
+            "price": 0,
+            "strikethrough_price": 39900000,
+            "discount": 100,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1436680155983872,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1436680155983872,
+              "voucher_code": "WARAERW89",
+              "voucher_discount": 100000,
+              "time_info": {
+                "start_time": 1780725360,
+                "end_time": 1787986560,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 0,
+              "signature": "203c98b27f734c75764c45d9284134a03bf89a61669e5cfaf206a72c596050b4",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 39900000,
+            "model_selection_logic": null,
+            "promotion_price": 100000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 81934,
+            "monthly_sold_count": 10967,
+            "historical_sold_count_text": "80k+ sold",
+            "monthly_sold_count_text": "10k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1009116,
+            844931064601283,
+            1001365,
+            1000028,
+            1718087960,
+            1428713,
+            700640027,
+            844931086908638,
+            1908622,
+            1000110,
+            298643630,
+            2073655,
+            2058593,
+            298643324,
+            700765086,
+            2098592,
+            2108635,
+            2103586,
+            298938367,
+            837903335771681,
+            299103340,
+            700960097,
+            2218676,
+            1015641,
+            298923351,
+            299048420,
+            822059879271430,
+            298923318,
+            822120593886220,
+            1049107,
+            998236066,
+            843623424279161,
+            700810080,
+            700925001,
+            298623321,
+            298893326,
+            998286006,
+            2063618,
+            2058612,
+            2288631,
+            2288632,
+            2058592,
+            2063604,
+            2063592
+          ],
+          "catid": 100535,
+          "shopee_verified": true,
+          "liked_count": 10606,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "waranya.shop&8693",
+            "shop_icon": null,
+            "shop_location": "จังหวัดกรุงเทพมหานคร"
+          },
+          "status": 1,
+          "ctime": 1685185206,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100535,
+              100578
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.394856543037089,
+            "rating_count": [
+              17148,
+              1154,
+              478,
+              1298,
+              1731,
+              12487
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "สีของหูฟัง",
+              "options": [
+                "p5 สีดำ",
+                "p5 สีขาว"
+              ],
+              "images": [
+                "th-11134207-7qula-lhaavxbfxb8o85",
+                "th-11134207-7qul2-lhag39ki506g92"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "【1แถม1】อัดเกรดร หูฟังบลูทูธ หูฟังสเตอริโอ หูฟังไร้สาย แยกเสียงซ้ายขวา TWS bluetooth 5.3 headset Earphone  รองรับได้ทุกรุ",
+          "image": "th-11134207-81ztp-mjv3llqqsqo063",
+          "images": [
+            "th-11134207-81ztp-mjv3llqqsqo063",
+            "th-11134207-7r98x-lniediok6kpzee",
+            "th-11134207-7r992-lniediok7zafdf",
+            "th-11134207-7rase-m2s12bsn90ur55",
+            "th-11134207-7rasb-m2s12bsn90ek6d",
+            "th-11134207-7rasa-m2s14zbjgm8j21",
+            "th-11134207-7rasj-m2s14zbjglsc91",
+            "th-11134207-7rasd-m2s14zbjf77w94",
+            "th-11134207-7rasm-m2s15ucw03f007"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.6",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Buy 1 Get 1 Free Grade Compressed Bluetooth Headphones Stereo Headphones Wireless Headphones, Separate Left And Right Sounds, TWS Bluetooth 5.3 Headset Earphone, Supports All Models",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 7800000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 23059726875,
+          "shopid": 276671426,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 23059726875,
+            "model_id": 157087234158,
+            "promotion_type": 301,
+            "promotion_id": 915043756474368,
+            "price": 7800000,
+            "strikethrough_price": 19900000,
+            "discount": 61,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1436680155983872,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1436680155983872,
+              "voucher_code": "WARAERW89",
+              "voucher_discount": 100000,
+              "time_info": {
+                "start_time": 1780725360,
+                "end_time": 1787986560,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 0,
+              "signature": "203c98b27f734c75764c45d9284134a03bf89a61669e5cfaf206a72c596050b4",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 19900000,
+            "model_selection_logic": null,
+            "promotion_price": 7900000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 10810,
+            "monthly_sold_count": 390,
+            "historical_sold_count_text": "10k+ sold",
+            "monthly_sold_count_text": "390 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1009116,
+            844931064601283,
+            1001365,
+            1000028,
+            1718087960,
+            1428713,
+            700640027,
+            844931086908638,
+            1908622,
+            1000110,
+            298643630,
+            2073655,
+            2058593,
+            298643324,
+            700765086,
+            2098592,
+            2108635,
+            2103586,
+            298938367,
+            837903335771681,
+            299103340,
+            1400845102,
+            700960097,
+            2218676,
+            2103651,
+            2143613,
+            299048420,
+            822059879271430,
+            298923318,
+            822120593886220,
+            1049107,
+            998236066,
+            843623424279161,
+            298623321,
+            700925001,
+            2058592,
+            2063604,
+            2063618,
+            2058612,
+            2288631,
+            2288632,
+            998286006,
+            2063592,
+            298893326
+          ],
+          "catid": 100535,
+          "shopee_verified": true,
+          "liked_count": 1284,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "waranya.shop&8693",
+            "shop_icon": null,
+            "shop_location": "จังหวัดกรุงเทพมหานคร"
+          },
+          "status": 1,
+          "ctime": 1698743561,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100535,
+              100578
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.590979782270606,
+            "rating_count": [
+              3215,
+              114,
+              53,
+              180,
+              340,
+              2528
+            ]
+          },
+          "global_brand": null,
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "แบบสินค้า",
+              "options": [
+                "1แถม1 m10",
+                "1ชิ้น m10",
+                "1แถม1 m19",
+                "1ชิ้น m19",
+                "1แถม1 m19 pro",
+                "1ชิ้น m19 pro",
+                "1แถม1 m20",
+                "1ชิ้น m20",
+                "1แถม1 m90",
+                "1ชิ้น m90",
+                "1แถม1 m100",
+                "1ชิ้น m100"
+              ],
+              "images": [
+                "th-11134207-7r98s-luys8h5ddff9d8",
+                "th-11134207-7r98r-luys8h5detzpf3",
+                "th-11134207-7rasl-m2s0ebwhexcc73",
+                "th-11134207-7rasf-m2s0fmld36ab2e",
+                "th-11134207-7rasg-m2s0g3wtqt8z1a",
+                "th-11134207-7rash-m2s0gkn79b4j19",
+                "th-11134207-7rask-m2s0jz3030yb79",
+                "th-11134207-7rask-m2s0k3vl2gjwaf",
+                "th-11134207-7rasc-m2s0htiblrgsce",
+                "th-11134207-7rasb-m2s0itjgvk43c0",
+                "th-11134207-7rasi-m2s0kmg9vwwc3b",
+                "th-11134207-7rasm-m2s0wns5rdsjf1"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      }
+    ],
+    "item_tracking_infos": [
+      {
+        "item_id": 4687136918,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 21925832870,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 15426024166,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 25131372872,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 21580254388,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 23059726875,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      }
+    ],
+    "translation_status": 1
+  }
+}

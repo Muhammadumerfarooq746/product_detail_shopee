@@ -1,0 +1,2410 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 23285088262,
+      "shop_id": 451021432,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "COD-Hieen M10 TWS Wireless Bluetooth Earphone In Ear Headset Noise-Cancelling Bluetooth Headset 10D bass stereo HiFi HD LED Displa",
+      "image": "id-11134207-7r98u-lngx2i8gwku420",
+      "label_ids": [
+        700190019,
+        1213641,
+        844931086908638,
+        1015914,
+        700190087,
+        1400285055,
+        1000031,
+        298458395,
+        1428713,
+        1718087960,
+        1119699,
+        2018619,
+        298893311,
+        700830032,
+        298888358,
+        298938357,
+        298933384,
+        299108387,
+        299103323,
+        700810080,
+        2023641,
+        1718093079,
+        822059908662278,
+        825465608499232,
+        825465608497696,
+        1049122,
+        1059152,
+        700960097,
+        2098629
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 65536,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100535,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "IDR",
+      "brand": null,
+      "brand_id": 0,
+      "show_discount": 0,
+      "ctime": 1698652541,
+      "item_rating": {
+        "rating_star": 4.556742957223855
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "KOTA JAKARTA UTARA",
+      "attributes": [
+        {
+          "name": "Connection Type",
+          "value": "Wireless",
+          "id": 100408,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2530,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2909,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2538,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Others, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2867,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "No Warranty",
+          "id": 100121,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5577,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "No Warranty",
+          "id": 100370,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5576,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Custom Product",
+          "value": "No",
+          "id": 101219,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 7222,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Mystery Box",
+          "value": "No",
+          "id": 101291,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 11440,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Condition",
+          "value": "New",
+          "id": 100413,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 2497,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Material",
+          "value": "sesuai deskripsi",
+          "id": 100134,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Input Voltage",
+          "value": "220V",
+          "id": 100323,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 0,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Certificate No. (POSTEL)",
+          "value": "-",
+          "id": 101255,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "💫Welcome to Hieen story!\n1.  All supplies are available.\n2.  Guarantee brand quality, you can buy with confidence.\n3.  Ready stock Products, shipping in 24 hours.\n4.  Dispatch from Bankn. Under normal circumstances, you can receive packages on 1-3 days.\n5.  If you have any questions, please contact customer service immediately.\n\nBarang sudah ada di Jakarta Utara dengan stok banyak dan bisa dikirim cepat.\n🧑🎤 Berlaku untuk produk-produk berikut.\n✅ Kompatibel dengan Android/iPhone\n✅ Kompatibel dengan PC/Laptop\n✅ Untuk perangkat berkemampuan Bluetooth\n\n🧑🎤Parameter produk\n⭐ 【Model】: M10\n⭐ 【Kualitas suara】: 10D Bass HiFi Stereo\n⭐ 【Nama Produk】: Headset Bluetooth Nirkabel\n⭐[Metode pemakaian]: Di telinga\n⭐ 【Versi Bluetooth】: 5.1\n⭐ 【Earphone】: 80mAh\n⭐ 【power bank】: 3800mAh\n⭐ 【Antarmuka pengisian daya】:  M10,M19,M30,F9-5:USB Mirco      (G36-G42:TYPE-C)\n⭐【Peralatan yang berlaku】: Ponsel/komputer/perangkat Bluetooth\n⭐【Tingkat tahan air】: IPX7\n⭐【Jarak komunikasi】: 15m\n\n\n🧑🎤Detail operasi\n⭐1. Putar/Jeda (Kiri/Kanan x 1)\n⭐2. Volume + (R x 3)\n⭐3. Volume - (P x 3)\n⭐4. Lewati ke lagu sebelumnya (panjang x 2)\n⭐5. Lewati ke lagu berikutnya (R x 2)\n⭐6. Jawab/Akhir (Kiri/Kanan x 1)\n⭐7. Seri pemanggilan (kiri/kanan x 2 detik)\n\nDi dalam kotak (kemasan):\n1 x TWS Bluetooth headset (telinga kiri dan kanan)\n1 wadah pengisi daya\n1 x kabel pengisi daya USB\n1 x Panduan Pengguna\n\n#Bluetooth Headset   #earphone wireless\n#earphone bluetooth   #earphone wireless\n#headphone bluetooth   #earphone wireless\n#headphone                     #bluetooth\n#earphone                        #earphone tws\n#earphone                         #earphone stereo\nearphone wireless             #earphone stereo gaming ",
+      "categories": [
+        {
+          "catid": 100535,
+          "display_name": "Audio",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100578,
+          "display_name": "Earphone, Headphone, & Headset",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11044364,
+          "display_name": "Computer & Accessories",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044445,
+          "display_name": "Gaming",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044448,
+          "display_name": "Gaming Headset",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": true,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "title_type": 1,
+      "authorized_brand_name": null,
+      "is_sexual": false,
+      "models": [
+        {
+          "item_id": 23285088262,
+          "status": 1,
+          "current_promotion_reserved_stock": null,
+          "name": "hitam",
+          "promotion_id": 907205474320384,
+          "price": 2890000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": null,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2,
+            "sku_image": ""
+          },
+          "price_before_discount": 6000000000,
+          "model_id": 184703984400,
+          "stock": null,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": null,
+          "is_lowest_price_at_shopee": true,
+          "name_tr": "Black",
+          "is_clickable": true,
+          "is_grayout": false,
+          "has_stock": true
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "warna",
+          "options": [
+            "hitam"
+          ],
+          "images": [
+            "id-11134207-7r992-lw8c1wc5rzpmb7"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0
+          ],
+          "name_tr": "Color",
+          "options_tr": [
+            "Black"
+          ],
+          "selling_points": [
+            "M10"
+          ],
+          "selling_points_tr": [
+            "M10"
+          ]
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": null,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": null,
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": null,
+      "normal_stock": null,
+      "current_promotion_reserved_stock": null,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 2890000000,
+      "raw_discount": 0,
+      "hidden_price_display": null,
+      "price_min": 2890000000,
+      "price_max": 2890000000,
+      "price_before_discount": 6000000000,
+      "price_min_before_discount": 6000000000,
+      "price_max_before_discount": 6000000000,
+      "other_stock": null,
+      "discount_stock": null,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": null,
+      "drug_details": null,
+      "selected_real_models": null,
+      "size_tier_variation_idx": null,
+      "is_fashion_item": false,
+      "social_proof_label": null,
+      "title_tr": "COD-Hieen M10 TWS Wireless Bluetooth Earphone In Ear Headset Noise-Cancelling Bluetooth Headset 10D bass stereo HiFi HD LED Displa",
+      "description_tr": "💫Welcome to Hieen story!\n1.  All supplies are available.\n2.  Guarantee brand quality, you can buy with confidence.\n3.  Ready stock Products, shipping in 24 hours.\n4.  Dispatch from Bankn. Under normal circumstances, you can receive packages on 1-3 days.\n5.  If you have any questions, please contact customer service immediately.\n\nThe goods are already in North Jakarta with lots of stock and can be sent quickly.\n🧑🎤 Valid for the following products.\n✅ Compatible with Android/iPhone\n✅ Compatible with PC/Laptop\n✅ For Bluetooth enabled devices\n\n🧑🎤Product Parameters\n⭐ 【Model】: M10\n⭐ 【Sound quality】: 10D Bass HiFi Stereo\n⭐ 【Product Name】: Wireless Bluetooth Headset\n⭐[Wearing method]: In the ear\n⭐ 【Bluetooth Version】: 5.1\n⭐ 【Earphone】: 80mAh\n⭐ 【power bank】: 3800mAh\n⭐ 【Charging interface】: M10,M19,M30,F9-5:USB Mirco (G36-G42:TYPE-C)\n⭐【Applicable equipment】: Mobile phone/computer/Bluetooth device\n⭐【Waterproof level】: IPX7\n⭐【Communication distance】: 15m\n\n\n🧑🎤Operation details\n⭐1. Rotate/Pause (Left/Right x 1)\n⭐2. Volume + (R x 3)\n⭐3. Volume - (L x 3)\n⭐4. Skip to previous song (length x 2)\n⭐5. Skip to the next song (R x 2)\n⭐6. Answer/End (Left/Right x 1)\n⭐7. Calling series (left/right x 2 seconds)\n\nIn the box (packaging):\n1 x TWS Bluetooth headset (left and right ears)\n1 charging container\n1 x USB charging cable\n1 x User Manual\n\n#Bluetooth Headset   #earphone Wireless wireless\n#earphone Bluetooth   #earphone Wireless wireless\n#headphone Bluetooth   #earphone Wireless wireless\n#headphone                     #bluetooth\n#earphone                        #earphone Tws tws\n#earphone                         #earphone Stereo stereo\nWireless earphones             #earphone Stereo gaming ",
+      "rich_text_description_tr": null,
+      "stock_display": null,
+      "max_quantity_display": "IN STOCK",
+      "disclaimer": null
+    },
+    "account": {
+      "user_id": null,
+      "is_new_user": null,
+      "default_address": {
+        "state": "DKI JAKARTA",
+        "city": "KOTA JAKARTA PUSAT",
+        "district": "MENTENG",
+        "town": "",
+        "zip_code": "",
+        "address": null,
+        "region": null,
+        "longitude": null,
+        "latitude": null,
+        "vn_data_version": ""
+      },
+      "adult_consent": null,
+      "birth_timestamp": null
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16000081717745871.mp4",
+        "thumb_url": "id-11110105-7r98v-lw8c24xj906e77",
+        "duration": 40,
+        "version": 2,
+        "vid": "id-11110105-6ke17-lw8c22oshesq6b",
+        "formats": [
+          {
+            "format": 1600432,
+            "defn": "V360P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4",
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "format": 1600671,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4",
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "format": 1600673,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4",
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "format": 1600433,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4",
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "format": 1600435,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4",
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "format": 1600434,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4",
+            "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.default.mp4",
+          "width": 960,
+          "height": 540
+        },
+        "mms_data": "{\"vid\":\"id-11110105-6ke17-lw8c22oshesq6b\",\"biz\":107,\"duration\":39636,\"create_time\":1717745868,\"update_time\":1741067471,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7r98v-lw8c24xj906e77\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4\",\"width\":640,\"height\":360,\"bitrate\":230717,\"abitrate\":32147,\"size\":1326890,\"fps\":25,\"duration\":39636,\"update_time\":1773902782,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4\",\"width\":960,\"height\":540,\"bitrate\":627852,\"abitrate\":32147,\"size\":3293879,\"fps\":25,\"duration\":39636,\"update_time\":1773689078,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4\",\"width\":960,\"height\":540,\"bitrate\":991610,\"abitrate\":32147,\"size\":5094479,\"fps\":25,\"duration\":39636,\"update_time\":1773852208,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4\",\"width\":960,\"height\":540,\"bitrate\":509774,\"abitrate\":32147,\"size\":2706820,\"fps\":25,\"duration\":39636,\"update_time\":1773902792,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4\",\"width\":1280,\"height\":720,\"bitrate\":1238357,\"abitrate\":48197,\"size\":6388993,\"fps\":25.00063,\"duration\":39636,\"update_time\":1773902824,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4\",\"width\":1280,\"height\":720,\"bitrate\":683460,\"abitrate\":48197,\"size\":3645176,\"fps\":25,\"duration\":39636,\"update_time\":1773902806,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":484829,\"abitrate\":128179,\"size\":3064051,\"fps\":25.02528,\"duration\":39638,\"update_time\":1717745927,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003151773689044.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003151773689044.mp4\",\"width\":640,\"height\":360,\"bitrate\":280965,\"abitrate\":32147,\"size\":1580119,\"fps\":25,\"duration\":39636,\"update_time\":1773689061,\"codec\":\"H265\"},{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004361773902750.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004361773902750.mp4\",\"width\":640,\"height\":360,\"bitrate\":173574,\"abitrate\":32147,\"size\":1047686,\"fps\":25,\"duration\":39636,\"update_time\":1773902769,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003161729432160.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003161729432160.mp4\",\"width\":960,\"height\":540,\"bitrate\":552989,\"abitrate\":128111,\"size\":3409868,\"fps\":25,\"duration\":39637,\"update_time\":1729432205,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004371773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004371773902776.mp4\",\"width\":960,\"height\":540,\"bitrate\":260284,\"abitrate\":32147,\"size\":1476418,\"fps\":25,\"duration\":39636,\"update_time\":1773902798,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004381773902777.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004381773902777.mp4\",\"width\":1280,\"height\":720,\"bitrate\":439118,\"abitrate\":48197,\"size\":2440271,\"fps\":25.00063,\"duration\":39636,\"update_time\":1773902833,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004391773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004391773902776.mp4\",\"width\":1280,\"height\":720,\"bitrate\":483199,\"abitrate\":48197,\"size\":2658248,\"fps\":25.00063,\"duration\":39636,\"update_time\":1773902811,\"codec\":\"H265\"},{\"format\":1600746,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16007461774448301.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16007461774448301.mp4\",\"width\":1280,\"height\":720,\"bitrate\":404277,\"abitrate\":48197,\"size\":2267991,\"fps\":25.00063,\"duration\":39636,\"update_time\":1774448349,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+        "item_cover": null
+      },
+      "images": [
+        "id-11134207-7r98u-lngx2i8gwku420"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "hitam",
+          "image": "id-11134207-7r992-lw8c1wc5rzpmb7",
+          "summed_stock": null,
+          "display_indicator": 0,
+          "show_find_similar": null,
+          "name_tr": "Black",
+          "selling_point": "M10",
+          "selling_point_tr": "M10",
+          "gallery_image": "id-11134207-7r992-lw8c1wc5rzpmb7"
+        }
+      ],
+      "sorted_variation_image_index_list": [],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": false,
+      "show_find_similar": null,
+      "try_it_on": null,
+      "show_find_similar_for_selection": false,
+      "beautycam": null,
+      "unavailable_item_recommendation": null,
+      "models": [
+        {
+          "tier_index": [
+            0
+          ],
+          "gallery_image": "id-11134207-7r992-lw8c1wc5rzpmb7"
+        }
+      ],
+      "gallery_contents": [
+        {
+          "image": null,
+          "video": {
+            "video_id": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16000081717745871.mp4",
+            "thumb_url": "id-11110105-7r98v-lw8c24xj906e77",
+            "duration": 40,
+            "version": 2,
+            "vid": "id-11110105-6ke17-lw8c22oshesq6b",
+            "formats": [
+              {
+                "format": 1600432,
+                "defn": "V360P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4",
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "format": 1600671,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4",
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4",
+                "width": 960,
+                "height": 540
+              },
+              {
+                "format": 1600673,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4",
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4",
+                "width": 960,
+                "height": 540
+              },
+              {
+                "format": 1600433,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4",
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4",
+                "width": 960,
+                "height": 540
+              },
+              {
+                "format": 1600435,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4",
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "format": 1600434,
+                "defn": "V720P",
+                "profile": "MP4",
+                "path": "api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4",
+                "url": "https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4",
+                "width": 1280,
+                "height": 720
+              }
+            ],
+            "default_format": {
+              "format": 1600323,
+              "defn": "V540P",
+              "profile": "MP4",
+              "path": "",
+              "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.default.mp4",
+              "width": 960,
+              "height": 540
+            },
+            "mms_data": "{\"vid\":\"id-11110105-6ke17-lw8c22oshesq6b\",\"biz\":107,\"duration\":39636,\"create_time\":1717745868,\"update_time\":1741067471,\"serviceID\":2,\"cover\":\"https://down-tx-id.img.susercontent.com/id-11110105-7r98v-lw8c24xj906e77\",\"cover_list\":[],\"formats\":[{\"format\":1600432,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004321773902776.mp4\",\"width\":640,\"height\":360,\"bitrate\":230717,\"abitrate\":32147,\"size\":1326890,\"fps\":25,\"duration\":39636,\"update_time\":1773902782,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006711773689062.mp4\",\"width\":960,\"height\":540,\"bitrate\":627852,\"abitrate\":32147,\"size\":3293879,\"fps\":25,\"duration\":39636,\"update_time\":1773689078,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16006731773852191.mp4\",\"width\":960,\"height\":540,\"bitrate\":991610,\"abitrate\":32147,\"size\":5094479,\"fps\":25,\"duration\":39636,\"update_time\":1773852208,\"codec\":\"H264\"},{\"format\":1600433,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004331773902776.mp4\",\"width\":960,\"height\":540,\"bitrate\":509774,\"abitrate\":32147,\"size\":2706820,\"fps\":25,\"duration\":39636,\"update_time\":1773902792,\"codec\":\"H264\"},{\"format\":1600435,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004351773902776.mp4\",\"width\":1280,\"height\":720,\"bitrate\":1238357,\"abitrate\":48197,\"size\":6388993,\"fps\":25.00063,\"duration\":39636,\"update_time\":1773902824,\"codec\":\"H264\"},{\"format\":1600434,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004341773902776.mp4\",\"width\":1280,\"height\":720,\"bitrate\":683460,\"abitrate\":48197,\"size\":3645176,\"fps\":25,\"duration\":39636,\"update_time\":1773902806,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":484829,\"abitrate\":128179,\"size\":3064051,\"fps\":25.02528,\"duration\":39638,\"update_time\":1717745927,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003151773689044.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003151773689044.mp4\",\"width\":640,\"height\":360,\"bitrate\":280965,\"abitrate\":32147,\"size\":1580119,\"fps\":25,\"duration\":39636,\"update_time\":1773689061,\"codec\":\"H265\"},{\"format\":1600436,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004361773902750.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004361773902750.mp4\",\"width\":640,\"height\":360,\"bitrate\":173574,\"abitrate\":32147,\"size\":1047686,\"fps\":25,\"duration\":39636,\"update_time\":1773902769,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003161729432160.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16003161729432160.mp4\",\"width\":960,\"height\":540,\"bitrate\":552989,\"abitrate\":128111,\"size\":3409868,\"fps\":25,\"duration\":39637,\"update_time\":1729432205,\"codec\":\"H265\"},{\"format\":1600437,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004371773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004371773902776.mp4\",\"width\":960,\"height\":540,\"bitrate\":260284,\"abitrate\":32147,\"size\":1476418,\"fps\":25,\"duration\":39636,\"update_time\":1773902798,\"codec\":\"H265\"},{\"format\":1600438,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004381773902777.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004381773902777.mp4\",\"width\":1280,\"height\":720,\"bitrate\":439118,\"abitrate\":48197,\"size\":2440271,\"fps\":25.00063,\"duration\":39636,\"update_time\":1773902833,\"codec\":\"H265\"},{\"format\":1600439,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004391773902776.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16004391773902776.mp4\",\"width\":1280,\"height\":720,\"bitrate\":483199,\"abitrate\":48197,\"size\":2658248,\"fps\":25.00063,\"duration\":39636,\"update_time\":1773902811,\"codec\":\"H265\"},{\"format\":1600746,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16007461774448301.mp4\",\"url\":\"https://down-tx-id.vod.susercontent.com/api/v4/11110105/mms/id-11110105-6ke17-lw8c22oshesq6b.16007461774448301.mp4\",\"width\":1280,\"height\":720,\"bitrate\":404277,\"abitrate\":48197,\"size\":2267991,\"fps\":25.00063,\"duration\":39636,\"update_time\":1774448349,\"codec\":\"H265\"}]},\"ab_test\":\"\"}",
+            "item_cover": null
+          }
+        },
+        {
+          "image": {
+            "url": "id-11134207-7r98u-lngx2i8gwku420",
+            "promotion_image_type": null,
+            "label_content": null,
+            "cmt_id": null
+          },
+          "video": null
+        }
+      ]
+    },
+    "product_price": {
+      "discount": 52,
+      "installment_info": null,
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 2890000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": 6000000000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": [
+        {
+          "type": 0,
+          "text": "Free Returns",
+          "color": "#26AA99",
+          "display": "free_return",
+          "exclusive_price": null,
+          "promotion_id": null,
+          "voucher_ext_info": null
+        }
+      ],
+      "hide_discount": false,
+      "discount_text": "-52%",
+      "show_final_price_indicator": null,
+      "final_price_vouchers": null,
+      "has_final_price": true,
+      "final_price_info": null,
+      "price_subtext": null,
+      "price_model": {
+        "price_single_model_id": 184703984400,
+        "price_min_model_id": null,
+        "price_max_model_id": null
+      },
+      "price_promotion": {
+        "price_single_promotion_id": 907205474320384,
+        "price_single_promotion_type": 301,
+        "price_min_promotion_id": null,
+        "price_min_promotion_type": null,
+        "price_max_promotion_id": null,
+        "price_max_promotion_type": null
+      },
+      "instalment_cta_action": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false,
+      "show_description_translation_button": null
+    },
+    "product_review": {
+      "rating_star": 4.556742957223855,
+      "rating_count": [
+        33728,
+        1549,
+        671,
+        1678,
+        3367,
+        26463
+      ],
+      "total_rating_count": 33728,
+      "historical_sold": null,
+      "global_sold": null,
+      "liked": false,
+      "liked_count": 6249,
+      "cmt_count": 33671,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": {
+        "type": 1
+      },
+      "historical_sold_display": null,
+      "global_sold_display": null,
+      "sold_count_display": null
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      }
+    },
+    "age_gate": {
+      "kyc": null,
+      "adult_consent": null
+    },
+    "shipping_meta": {
+      "show_fufilled_by_shopee": null,
+      "show_cod": null,
+      "show_mart": false,
+      "show_next_day_delivery": false
+    },
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": true
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "KOTA JAKARTA UTARA",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 8005,
+          "name": "Hemat Kargo",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 350000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784356250,
+            "estimated_delivery_date_to": 1784535339,
+            "estimated_delivery_time_min": 2,
+            "estimated_delivery_time_max": 4,
+            "delay_message": null,
+            "is_fastest_edt_channel": true,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Guaranteed to get by 18 - 20 Jul",
+            "formatted_edt_text": [
+              {
+                "template": "{pdp_guaranteed_get_by_date_range}",
+                "format": null,
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "pdp_guaranteed_get_by_date_range",
+                    "value": {
+                      "value_str": "Guaranteed to get by 18 - 20 Jul",
+                      "value_int": null
+                    },
+                    "format": [
+                      2
+                    ],
+                    "text_color": null,
+                    "text_hex_color": "#26aa99",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "regular",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 1000000000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": null,
+            "text": null,
+            "max_coins_cap": null,
+            "coin_cap": 0
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":43,\"edt_max_hours\":93,\"edt_min_minutes\":2573,\"edt_max_minutes\":5558,\"edt_display_identifier\":327817,\"buyer_address_hash\":\"K2C6ypZ\",\"is_cache_edt\":false}"
+        },
+        {
+          "channel_id": 8003,
+          "name": "Reguler",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 650000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784354755,
+            "estimated_delivery_date_to": 1784537050,
+            "estimated_delivery_time_min": 2,
+            "estimated_delivery_time_max": 4,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Guaranteed to get by 18 - 20 Jul",
+            "formatted_edt_text": [
+              {
+                "template": "{pdp_guaranteed_get_by_date_range}",
+                "format": null,
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "pdp_guaranteed_get_by_date_range",
+                    "value": {
+                      "value_str": "Guaranteed to get by 18 - 20 Jul",
+                      "value_int": null
+                    },
+                    "format": null,
+                    "text_color": null,
+                    "text_hex_color": "#000000de",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "regular",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 1000000000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": null,
+            "text": null,
+            "max_coins_cap": null,
+            "coin_cap": 0
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":43,\"edt_max_hours\":94,\"edt_min_minutes\":2548,\"edt_max_minutes\":5586,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"K2C6ypZ\",\"is_cache_edt\":false}"
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 8005,
+        "name": "Hemat Kargo",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": ""
+        },
+        "price_before_discount": {
+          "single_value": 350000000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1784356250,
+          "estimated_delivery_date_to": 1784535339,
+          "estimated_delivery_time_min": 2,
+          "estimated_delivery_time_max": 4,
+          "delay_message": "",
+          "is_fastest_edt_channel": true,
+          "sla_message": "",
+          "show_edt": true,
+          "edt_text": "Guaranteed to get by 18 - 20 Jul",
+          "formatted_edt_text": [
+            {
+              "template": "{pdp_guaranteed_get_by_date_range}",
+              "format": [],
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "pdp_guaranteed_get_by_date_range",
+                  "value": {
+                    "value_str": "Guaranteed to get by 18 - 20 Jul",
+                    "value_int": null
+                  },
+                  "format": [
+                    2
+                  ],
+                  "text_color": null,
+                  "text_hex_color": "#26aa99",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ],
+          "formatted_pre_order_text": null,
+          "formatted_fbs_description_text": null,
+          "show_edt_as_header": false
+        },
+        "channel_promotion_infos": [],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": null,
+        "lowest_bpsf_promotion_rule": null,
+        "service_type_info": "regular",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": {
+          "type": 1,
+          "amount": 1000000000,
+          "is_guaranteed_edt": true,
+          "compensation_amount": {
+            "value": 1000000000
+          },
+          "text": "",
+          "max_coins_cap": null,
+          "coin_cap": 0
+        },
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": {
+            "text": "Get up to {compensation_amount} if order arrives late",
+            "gdt_max": null,
+            "compensation_amount": {
+              "value": 1000000000
+            },
+            "max_coins_cap": null,
+            "coins_amount": null,
+            "coin_interval_in_minutes": null
+          },
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0,
+        "hide_shipping_fee": null,
+        "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":43,\"edt_max_hours\":93,\"edt_min_minutes\":2573,\"edt_max_minutes\":5558,\"edt_display_identifier\":327685,\"buyer_address_hash\":\"K2C6ypZ\",\"is_cache_edt\":false}"
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": false,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": {
+        "type": null,
+        "amount": null,
+        "is_guaranteed_edt": null,
+        "compensation_amount": {
+          "value": 1000000000
+        },
+        "text": "Get up to {compensation_amount} discount voucher if your order arrives late.",
+        "max_coins_cap": null,
+        "coin_cap": null
+      },
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": {
+          "edt": {
+            "template": "{pdp_guaranteed_get_by_date_range}",
+            "format": null,
+            "attributes": [
+              {
+                "type": 1,
+                "key": "pdp_guaranteed_get_by_date_range",
+                "value": {
+                  "value_str": "Guaranteed to get by 18 - 20 Jul",
+                  "value_int": null
+                },
+                "format": [
+                  6
+                ],
+                "text_color": null,
+                "text_hex_color": "#000000de",
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "shipping_fee": null,
+          "late_delivery_compensation": {
+            "template": "Get up to {compensation_amount} if order arrives late",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "compensation_amount",
+                "value": {
+                  "value_str": null,
+                  "value_int": 1000000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null,
+                "url": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "fbs_description": null,
+          "display_edt_text_first_line": true,
+          "should_wrap_edt_text_by_attribute": false
+        },
+        "highlight_free_shipping": false
+      },
+      "formatted_pre_order_text": null,
+      "has_free_return": null,
+      "model_id": 184703984400,
+      "delivery_address": {
+        "state": "DKI JAKARTA",
+        "city": "KOTA JAKARTA PUSAT",
+        "district": "MENTENG",
+        "town": null,
+        "zip_code": null,
+        "address": null,
+        "region": null,
+        "longitude": 106.8392111,
+        "latitude": -6.1937297,
+        "vn_data_version": null
+      }
+    },
+    "shop_vouchers": [
+      {
+        "promotionid": 1423606736240640,
+        "voucher_code": "STUD88",
+        "signature": "2b6cd8b9d334b953ea9e80ecd7a8e27eff6951e8b9c765c4d33d187c905fd2c6",
+        "use_type": 0,
+        "platform_type": null,
+        "voucher_market_type": 1,
+        "min_spend": 3800000000,
+        "used_price": 20000000,
+        "current_spend": null,
+        "product_limit": false,
+        "quota_type": 1,
+        "percentage_claimed": 0,
+        "percentage_used": 34,
+        "start_time": 1779166860,
+        "end_time": 1787205660,
+        "collect_time": 0,
+        "claim_start_time": 0,
+        "valid_days": 0,
+        "reward_type": 0,
+        "reward_percentage": 0,
+        "reward_value": 20000000,
+        "reward_cap": 0,
+        "coin_earned": null,
+        "title": null,
+        "use_link": null,
+        "icon_hash": "5b927d612755ebcea8a80454cd79ddd3",
+        "icon_text": "studio_watch",
+        "icon_url": null,
+        "customised_labels": [],
+        "customised_product_scope_tags": null,
+        "shop_id": 451021432,
+        "shop_name": "studio_watch",
+        "is_shop_preferred": true,
+        "is_shop_official": false,
+        "shop_count": null,
+        "ui_display_type": null,
+        "customised_mall_name": null,
+        "small_icon_list": null,
+        "dp_category_name": null,
+        "invalid_message_code": null,
+        "invalid_message": null,
+        "display_labels": null,
+        "wallet_redeemable": false,
+        "customer_reference_id": "SHOP-B2135B2AB20022280000001100545005",
+        "fully_redeemed": null,
+        "has_expired": null,
+        "disabled": null,
+        "voucher_external_market_type": null,
+        "now_food_extra_info": null,
+        "airpay_opv_extra_info": null,
+        "partner_extra_info": null,
+        "discount_value": 20000000,
+        "discount_percentage": 0,
+        "discount_cap": 0,
+        "coin_percentage": null,
+        "coin_cap": null,
+        "usage_limit": null,
+        "used_count": null,
+        "left_count": null,
+        "shopee_wallet_only": false,
+        "new_user_only": null,
+        "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+        "shop_logo": "5b927d612755ebcea8a80454cd79ddd3",
+        "error_code": 9,
+        "is_claimed_before": false,
+        "customised_product_scope_tag_image_hash": null,
+        "usage_limit_per_user": 1,
+        "remaining_usage_limit": 1,
+        "action": null,
+        "sub_icon_text": null,
+        "is_customised_icon": null,
+        "fixed_flag": null,
+        "customised_flag": null,
+        "fsv_voucher_card_ui_info": null,
+        "min_item_quantity": null
+      }
+    ],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 100000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Brand",
+          "value": "-",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 1,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Connection Type",
+          "value": "Wireless",
+          "id": 100408,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Earphone, Headphone, & Headset Type",
+          "value": "In Ear",
+          "id": 100519,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Gaming Focused",
+          "value": "Yes",
+          "id": 100381,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Audio Compatibility",
+          "value": "Mobile, Others, PC & Laptop",
+          "id": 100516,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Duration",
+          "value": "No Warranty",
+          "id": 100121,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Warranty Type",
+          "value": "No Warranty",
+          "id": 100370,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Custom Product",
+          "value": "No",
+          "id": 101219,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Mystery Box",
+          "value": "No",
+          "id": 101291,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Condition",
+          "value": "New",
+          "id": 100413,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Material",
+          "value": "sesuai deskripsi",
+          "id": 100134,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Input Voltage",
+          "value": "220V",
+          "id": 100323,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Certificate No. (POSTEL)",
+          "value": "-",
+          "id": 101255,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        },
+        {
+          "name": "Ships From",
+          "value": "KOTA JAKARTA UTARA",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6,
+          "item_attribute_type": null,
+          "name_tr": null,
+          "value_tr": null
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11044364,
+          "display_name": "Computer & Accessories",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044445,
+          "display_name": "Gaming",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11044448,
+          "display_name": "Gaming Headset",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 451021432,
+      "userid": 451041009,
+      "last_active_time": 1784201174,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "5b927d612755ebcea8a80454cd79ddd3",
+        "username": "studio_watch",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": null,
+      "item_count": 302,
+      "rating_star": 4.541137,
+      "response_rate": 61,
+      "session_info": null,
+      "name": "studio_watch",
+      "ctime": 1621932763,
+      "response_time": 11337,
+      "follower_count": 20913,
+      "show_official_shop_label": false,
+      "rating_bad": 4781,
+      "rating_good": 96732,
+      "rating_normal": 8016,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": null,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false,
+      "shop_location_tr": "",
+      "sold_total_display": null,
+      "is_outlet": false,
+      "display_fbs_logo": false,
+      "is_chatroom_online": null,
+      "outlet_shop": null,
+      "vacation_status": null,
+      "display_shopee_choice_tick": false,
+      "is_smeter_shop": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": true,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": false,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": false,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null,
+      "display_fashion_attributes": null,
+      "display_fashion_review_section": null,
+      "display_fashion_first_screen": null,
+      "enable_fashion_review_improvements": null,
+      "display_fbs_floating_counter": null,
+      "display_shipping_drawer_new_free_shipping_text": false,
+      "display_shipping_drawer_new_free_shipping_ui": false,
+      "shift_featured_videos_above_review_ratings_section": null,
+      "enable_fashion_featured_videos_improvements": null,
+      "hide_shipping_channel_promotion_text": false,
+      "expand_size_guide_section_by_default": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": null,
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null,
+      "ineligible_user_platform_exclusive_sku": null
+    },
+    "installment_drawer": {
+      "priority": [
+        0,
+        1
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": [
+        {
+          "text": "Free Return",
+          "type": null,
+          "id": 17
+        },
+        {
+          "text": "COD-Cek Dulu",
+          "type": null,
+          "id": 19
+        }
+      ]
+    },
+    "service_drawer": {
+      "services": [
+        {
+          "title": "Free Return",
+          "description": "You can request a refund if you change your mind after purchasing this product.",
+          "type": null,
+          "free_return": null,
+          "insurance": null,
+          "id": 17,
+          "redirection_url": "https://shopee.co.id/m/bebas-pengembalian",
+          "icon": "id-11134258-7rasi-m3bt2bbi3gdb9c",
+          "insurance_drawer": null,
+          "product_type": 0
+        },
+        {
+          "title": "COD-Cek Dulu",
+          "description": "Pay your order on the spot. You have the right to open and inspect the items before making payment to the courier.",
+          "type": null,
+          "free_return": null,
+          "insurance": null,
+          "id": 19,
+          "redirection_url": "https://shopee.co.id/m/tentang-cod-cekdulu",
+          "icon": "id-11134258-7rask-m3bt2tx0vov326",
+          "insurance_drawer": null,
+          "product_type": 0
+        }
+      ]
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "💫Welcome to Hieen story!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1.  All supplies are available.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2.  Guarantee brand quality, you can buy with confidence.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3.  Ready stock Products, shipping in 24 hours.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4.  Dispatch from Bankn. Under normal circumstances, you can receive packages on 1-3 days.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5.  If you have any questions, please contact customer service immediately.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Barang sudah ada di Jakarta Utara dengan stok banyak dan bisa dikirim cepat.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "🧑🎤 Berlaku untuk produk-produk berikut.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "✅ Kompatibel dengan Android/iPhone",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "✅ Kompatibel dengan PC/Laptop",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "✅ Untuk perangkat berkemampuan Bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🧑🎤Parameter produk",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Model】: M10",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Kualitas suara】: 10D Bass HiFi Stereo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Nama Produk】: Headset Bluetooth Nirkabel",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐[Metode pemakaian]: Di telinga",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Versi Bluetooth】: 5.1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Earphone】: 80mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【power bank】: 3800mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Antarmuka pengisian daya】:  M10,M19,M30,F9-5:USB Mirco      (G36-G42:TYPE-C)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐【Peralatan yang berlaku】: Ponsel/komputer/perangkat Bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐【Tingkat tahan air】: IPX7",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐【Jarak komunikasi】: 15m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "🧑🎤Detail operasi",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐1. Putar/Jeda (Kiri/Kanan x 1)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐2. Volume + (R x 3)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐3. Volume - (P x 3)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐4. Lewati ke lagu sebelumnya (panjang x 2)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐5. Lewati ke lagu berikutnya (R x 2)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐6. Jawab/Akhir (Kiri/Kanan x 1)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐7. Seri pemanggilan (kiri/kanan x 2 detik)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "Di dalam kotak (kemasan):",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 x TWS Bluetooth headset (telinga kiri dan kanan)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 wadah pengisi daya",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 x kabel pengisi daya USB",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 x Panduan Pengguna",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "#Bluetooth Headset   #earphone wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#earphone bluetooth   #earphone wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#headphone bluetooth   #earphone wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#headphone                     #bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#earphone                        #earphone tws",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#earphone                         #earphone stereo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "earphone wireless             #earphone stereo gaming ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": ""
+    },
+    "selected_tiers": {
+      "0": 0
+    },
+    "size_info": null,
+    "size_recommendation": null,
+    "translation_status": 2,
+    "product_description_tr": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "💫Welcome to Hieen story!",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1.  All supplies are available.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2.  Guarantee brand quality, you can buy with confidence.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "3.  Ready stock Products, shipping in 24 hours.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "4.  Dispatch from Bankn. Under normal circumstances, you can receive packages on 1-3 days.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "5.  If you have any questions, please contact customer service immediately.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "The goods are already in North Jakarta with lots of stock and can be sent quickly.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "🧑🎤 Valid for the following products.",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "✅ Compatible with Android/iPhone",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "✅ Compatible with PC/Laptop",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "✅ For Bluetooth enabled devices",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "🧑🎤Product Parameters",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Model】: M10",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Sound quality】: 10D Bass HiFi Stereo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Product Name】: Wireless Bluetooth Headset",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐[Wearing method]: In the ear",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Bluetooth Version】: 5.1",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Earphone】: 80mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【power bank】: 3800mAh",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐ 【Charging interface】: M10,M19,M30,F9-5:USB Mirco (G36-G42:TYPE-C)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐【Applicable equipment】: Mobile phone/computer/Bluetooth device",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐【Waterproof level】: IPX7",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐【Communication distance】: 15m",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 2
+        },
+        {
+          "type": 0,
+          "text": "🧑🎤Operation details",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐1. Rotate/Pause (Left/Right x 1)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐2. Volume + (R x 3)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐3. Volume - (L x 3)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐4. Skip to previous song (length x 2)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐5. Skip to the next song (R x 2)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐6. Answer/End (Left/Right x 1)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "⭐7. Calling series (left/right x 2 seconds)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "In the box (packaging):",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 x TWS Bluetooth headset (left and right ears)",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 charging container",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 x USB charging cable",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "1 x User Manual",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "#Bluetooth Headset   #earphone Wireless wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#earphone Bluetooth   #earphone Wireless wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#headphone Bluetooth   #earphone Wireless wireless",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#headphone                     #bluetooth",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#earphone                        #earphone Tws tws",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "#earphone                         #earphone Stereo stereo",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "Wireless earphones             #earphone Stereo gaming ",
+          "img_id": null,
+          "ratio": null,
+          "description_type": 1,
+          "empty_paragraph_count": null
+        }
+      ],
+      "source_language": null
+    },
+    "default_warnings": null,
+    "bcrs_disclaimer": null,
+    "top_banner": null,
+    "bottom_banner": null
+  }
+}

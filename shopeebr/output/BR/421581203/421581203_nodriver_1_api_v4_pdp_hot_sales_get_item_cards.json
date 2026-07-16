@@ -1,0 +1,1579 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "source": 1,
+    "card_set": {
+      "layout_id": 10,
+      "element_toggle": {
+        "atc_button": false,
+        "feedback_button": false
+      },
+      "card_set_name": "FTSS TPFS card"
+    },
+    "item_cards": [
+      {
+        "item_card_displayed_asset": {
+          "name": "Kit Até 10 Cuecas Boxers Masculina de Microfibra Lisas Sem Estampas",
+          "image": "br-11134207-820lp-mmgrh55zedq890",
+          "images": [
+            "br-11134207-820lp-mmgrh55zedq890",
+            "br-11134207-820mb-mlff7194cj5yc9",
+            "br-11134207-81z1k-mf1ezuqqn0g79a",
+            "br-11134207-820mb-mlff7194b4li57",
+            "br-11134207-7r98o-mdi2e9myyegpf7",
+            "br-11134207-820lk-mlff71945ibq79",
+            "br-11134207-820lr-mlff71946ww6bd",
+            "br-11134207-820m1-mlff719443rae3",
+            "br-11134207-7r98o-mdi2e9mywzw9e5"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": true
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.7",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "60mil+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Kit of up to 10 Men's Microfiber Boxer Briefs, Plain, Without Prints",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2345000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 23598287287,
+          "shopid": 421581203,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 23598287287,
+            "model_id": 189172416768,
+            "promotion_type": 202,
+            "promotion_id": 936382613102592,
+            "price": 2345000,
+            "strikethrough_price": 3500000,
+            "discount": 33,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 3500000,
+            "model_selection_logic": null,
+            "promotion_price": 2345000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 66935,
+            "monthly_sold_count": 1079,
+            "historical_sold_count_text": "60mil+ sold",
+            "monthly_sold_count_text": "1mil+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            1000022,
+            298513406,
+            1400065024,
+            700065053,
+            822062091122182,
+            595473041,
+            835343123222554,
+            648011521,
+            298788369,
+            1718397968,
+            298818315,
+            1823810,
+            1823833,
+            700810080,
+            1718388139
+          ],
+          "catid": 100011,
+          "shopee_verified": true,
+          "liked_count": 50496,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Lovic Meias e Variedades",
+            "shop_icon": null,
+            "shop_location": "São Paulo"
+          },
+          "status": 1,
+          "ctime": 1741497219,
+          "flag": 131072,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100011,
+              100055,
+              100247
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.731240121091971,
+            "rating_count": [
+              37327,
+              652,
+              437,
+              1700,
+              2713,
+              31825
+            ]
+          },
+          "global_brand": {
+            "brand_id": 2413615,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.16000081764029585.mp4",
+              "thumb_url": "br-11110105-6v65c-mhgx3osduewx63_cover",
+              "duration": 24,
+              "version": 2,
+              "vid": "br-11110105-6v65c-mhgx3osduewx63",
+              "formats": [
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.16000081764029585.mp4",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.16000081764029585.mp4",
+                  "width": 720,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.default.mp4",
+                "width": 540,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"br-11110105-6v65c-mhgx3osduewx63\",\"biz\":107,\"duration\":24040,\"create_time\":1764029581,\"update_time\":1764029588,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6v65c-mhgx3osduewx63_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.16000081764029585.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.16000081764029585.mp4\",\"width\":720,\"height\":720,\"bitrate\":578183,\"abitrate\":128446,\"size\":2144489,\"fps\":25,\"duration\":24040,\"update_time\":1764029594,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":368518,\"abitrate\":32539,\"size\":1226610,\"fps\":25,\"duration\":24040,\"update_time\":1764029599,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.16003091764029594.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65c-mhgx3osduewx63.16003091764029594.mp4\",\"width\":720,\"height\":720,\"bitrate\":293267,\"abitrate\":128446,\"size\":1291200,\"fps\":25,\"duration\":24040,\"update_time\":1764029611,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "QUERO LEVAR",
+              "options": [
+                "KIT 10 CUECAS",
+                "KIT 4 CUECAS"
+              ],
+              "images": [
+                "br-11134207-7r98o-m9xnklqh4qbd4d",
+                "br-11134207-7r98o-m9xnklqh64vt1c"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Tamanho",
+              "options": [
+                "P/M VESTE 38-42",
+                "G/GG VESTE 42- 44"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Kit 10 ou 4 Calcinha Importada box Infantil menina Estampada",
+          "image": "br-11134207-820lm-ml8gh1nnu7es95",
+          "images": [
+            "br-11134207-820lm-ml8gh1nnu7es95",
+            "br-11134207-81z1k-mfj196skgohza4",
+            "br-11134207-81z1k-mf1ezuqqfzlz0c",
+            "br-11134207-7r98o-mbeldoa2yk8p31",
+            "br-11134207-81ztc-mjeypl0ijuo66e",
+            "br-11134207-81ztc-mjeypl0iig3qa3",
+            "br-11134207-81ztc-mjeypl0il98m6e",
+            "br-11134207-81ztc-mjeypl0ih1ja54",
+            "br-11134207-81z1k-mfj196sfwc1x4d"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": true
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "40mil+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Kit 10 or 4 Imported Printed Boxer Briefs for Girls",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2397000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 22398677566,
+          "shopid": 421581203,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 22398677566,
+            "model_id": 169406943261,
+            "promotion_type": 301,
+            "promotion_id": 471957762159010,
+            "price": 2397000,
+            "strikethrough_price": 4500000,
+            "discount": 47,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 4500000,
+            "model_selection_logic": null,
+            "promotion_price": 2397000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 45333,
+            "monthly_sold_count": 559,
+            "historical_sold_count_text": "40mil+ sold",
+            "monthly_sold_count_text": "559 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000022,
+            298513406,
+            844931064601283,
+            700065053,
+            1400065024,
+            822062091122182,
+            595473041,
+            648011521,
+            835343123222554,
+            700810080,
+            298788369,
+            1718397968,
+            298818315,
+            1823810,
+            1823833,
+            1718388139
+          ],
+          "catid": 100633,
+          "shopee_verified": true,
+          "liked_count": 85330,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Lovic Meias e Variedades",
+            "shop_icon": null,
+            "shop_location": "São Paulo"
+          },
+          "status": 1,
+          "ctime": 1750872467,
+          "flag": 131072,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100633,
+              100691,
+              101049
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.902852824485169,
+            "rating_count": [
+              26465,
+              110,
+              84,
+              437,
+              1005,
+              24829
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1145795,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.16000081763511715.mp4",
+              "thumb_url": "br-11110105-6v65e-mh8d48npuzgl21_cover",
+              "duration": 31,
+              "version": 2,
+              "vid": "br-11110105-6v65e-mh8d48npuzgl21",
+              "formats": [
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.16000081763511715.mp4",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.16000081763511715.mp4",
+                  "width": 720,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.default.mp4",
+                "width": 540,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"br-11110105-6v65e-mh8d48npuzgl21\",\"biz\":107,\"duration\":31040,\"create_time\":1763511711,\"update_time\":1763511716,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6v65e-mh8d48npuzgl21_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.16000081763511715.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.16000081763511715.mp4\",\"width\":720,\"height\":720,\"bitrate\":615901,\"abitrate\":128255,\"size\":2914385,\"fps\":25,\"duration\":31040,\"update_time\":1763511724,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":407279,\"abitrate\":32371,\"size\":1733131,\"fps\":25,\"duration\":31040,\"update_time\":1763511728,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.16003091763511725.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v65e-mh8d48npuzgl21.16003091763511725.mp4\",\"width\":720,\"height\":720,\"bitrate\":354752,\"abitrate\":128255,\"size\":1904229,\"fps\":25,\"duration\":31040,\"update_time\":1763511739,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "QUERO LEVAR",
+              "options": [
+                "KIT 10 CALCINHAS",
+                "KIT 4 CALCINHAS"
+              ],
+              "images": [
+                "br-11134207-7r98o-mbfjhjg2wf3s61",
+                "br-11134207-7r98o-mbfjhjg2xto8cf"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Tamanho",
+              "options": [
+                "2-4 ANOS",
+                "4-6 ANOS",
+                "6-8 ANOS",
+                "8-10 ANOS"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Kit Até 10 Calcinhas Boxer Infantil Conforto Diário Cores Sortidas Tecido Macio",
+          "image": "br-11134207-820li-ml8gh1nmo2dj42",
+          "images": [
+            "br-11134207-820li-ml8gh1nmo2dj42",
+            "br-11134207-81ztc-mjeypl0io2dic5",
+            "br-11134207-81ztc-mjeypl0iqviec4",
+            "br-11134207-81ztc-mjeypl0ipgxy6c",
+            "br-11134207-81z1k-mfj196sq8kjp71",
+            "br-11134207-81z1k-mf1ezuqqn0g79a",
+            "br-11134207-81ztc-mjeypl0isa2u15",
+            "br-11134207-81z1k-mfj196sq75z9b5",
+            "br-11134207-81z1k-mdxapy7opddu0e"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6va20-mlajfq2ug5xr08",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6va20-mlajfq2ug5xr08",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6va20-mlajfq2ug5xr08",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6va20-mlajfq2ug5xr08",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6va20-mlajfq2ug5xr08",
+              "thumb_url": null,
+              "duration": 5000,
+              "version": 2,
+              "vid": "sg-11110113-6va20-mlajfq2ug5xr08",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": true
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10mil+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Kit of Up to 10 Children's Boxer Panties, Daily Comfort, Assorted Colors, Soft Fabric",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2495000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 23898839539,
+          "shopid": 421581203,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 23898839539,
+            "model_id": 159548295621,
+            "promotion_type": 202,
+            "promotion_id": 936382613102592,
+            "price": 2495000,
+            "strikethrough_price": 3000000,
+            "discount": 17,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 3000000,
+            "model_selection_logic": null,
+            "promotion_price": 2495000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 19784,
+            "monthly_sold_count": 226,
+            "historical_sold_count_text": "10mil+ sold",
+            "monthly_sold_count_text": "226 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000022,
+            298513406,
+            844931064601283,
+            700065053,
+            1400065024,
+            822062091122182,
+            595473041,
+            648011521,
+            835343123222554,
+            298788369,
+            1718397968,
+            298818315,
+            1823810,
+            1823833,
+            1718388139
+          ],
+          "catid": 100633,
+          "shopee_verified": true,
+          "liked_count": 17549,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Lovic Meias e Variedades",
+            "shop_icon": null,
+            "shop_location": "São Paulo"
+          },
+          "status": 1,
+          "ctime": 1756307816,
+          "flag": 131072,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100633,
+              100691,
+              101049
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.923467630853994,
+            "rating_count": [
+              11616,
+              43,
+              24,
+              149,
+              347,
+              11053
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1145795,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.16000081761145683.mp4",
+              "thumb_url": "br-11110105-6v5dk-mg5a17hblsskc0_cover",
+              "duration": 28,
+              "version": 2,
+              "vid": "br-11110105-6v5dk-mg5a17hblsskc0",
+              "formats": [
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.16000081761145683.mp4",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.16000081761145683.mp4",
+                  "width": 720,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.default.mp4",
+                "width": 540,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"br-11110105-6v5dk-mg5a17hblsskc0\",\"biz\":107,\"duration\":27840,\"create_time\":1761145677,\"update_time\":1761145686,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6v5dk-mg5a17hblsskc0_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.16000081761145683.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.16000081761145683.mp4\",\"width\":720,\"height\":720,\"bitrate\":338207,\"abitrate\":128388,\"size\":1648498,\"fps\":25,\"duration\":27840,\"update_time\":1761145692,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":217029,\"abitrate\":32464,\"size\":892992,\"fps\":25,\"duration\":27840,\"update_time\":1761145698,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.16003091761145693.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6v5dk-mg5a17hblsskc0.16003091761145693.mp4\",\"width\":720,\"height\":720,\"bitrate\":147590,\"abitrate\":128388,\"size\":988149,\"fps\":25,\"duration\":27840,\"update_time\":1761145702,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "QUERO LEVAR",
+              "options": [
+                "KIT 10 CALCINHAS",
+                "KIT 5 CALCINHAS",
+                "KIT 3 CALCINHAS"
+              ],
+              "images": [
+                "br-11134207-81z1k-mdxapy7tjjszdf",
+                "br-11134207-81z1k-mdxapy7tkydf66",
+                "br-11134207-81z1k-mdxapy7tmcxv6d"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Tamanho",
+              "options": [
+                "2-4 ANOS",
+                "4-6 ANOS",
+                "6-8 ANOS",
+                "8-10 ANOS"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Kit Até 12 Pares Meias Adulto Soquete Confortavel Bichinhos Divertida Cano Curto Tamanho único 35-40",
+          "image": "br-11134207-7r98o-m6bpj2mu096t0d",
+          "images": [
+            "br-11134207-7r98o-m6bpj2mu096t0d",
+            "br-11134207-7r98o-m6bpj2mtyumd85",
+            "br-11134207-7r98o-m6bpj2mu1nr9fb",
+            "br-11134207-7r98o-m6bpj2mtw1hh6a",
+            "br-11134207-7r98o-lzmas3xz6l5h5b",
+            "br-11134207-7r98o-lzmas3xz7zpxb5",
+            "br-11134207-7r98o-lzmas3xyzkb969",
+            "br-11134207-7r98o-lzmas3xz0yvpb8"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": true
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "4mil+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Kit Up to 12 Pairs of Adult Socks, Comfortable, Fun, Short Shaft, One Size 35-40",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 1997000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 21497797961,
+          "shopid": 421581203,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 21497797961,
+            "model_id": 209171523492,
+            "promotion_type": 301,
+            "promotion_id": 851858654938112,
+            "price": 1997000,
+            "strikethrough_price": 3990000,
+            "discount": 50,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 3990000,
+            "model_selection_logic": null,
+            "promotion_price": 1997000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 4755,
+            "monthly_sold_count": 146,
+            "historical_sold_count_text": "4mil+ sold",
+            "monthly_sold_count_text": "146 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            844931064601283,
+            1000022,
+            298513406,
+            700065053,
+            822062091122182,
+            835343123222554,
+            1400065024,
+            595473041,
+            648011521,
+            298818315,
+            1823810,
+            1823833,
+            1718388139
+          ],
+          "catid": 100017,
+          "shopee_verified": true,
+          "liked_count": 5941,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Lovic Meias e Variedades",
+            "shop_icon": null,
+            "shop_location": "São Paulo"
+          },
+          "status": 1,
+          "ctime": 1725158843,
+          "flag": 131072,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100017,
+              100118,
+              100417
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.8968673002463925,
+            "rating_count": [
+              2841,
+              13,
+              14,
+              37,
+              125,
+              2652
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1800383,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/br-11110105-6kfkq-m4i9j3zpjl118d.16000081735780889.mp4",
+              "thumb_url": "br-11110105-6kfkq-m4i9j3zpjl118d_cover",
+              "duration": 20,
+              "version": 2,
+              "vid": "br-11110105-6kfkq-m4i9j3zpjl118d",
+              "formats": [
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/br-11110105-6kfkq-m4i9j3zpjl118d.16000081735780889.mp4",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m4i9j3zpjl118d.16000081735780889.mp4",
+                  "width": 480,
+                  "height": 848
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m4i9j3zpjl118d.default.mp4",
+                "width": 480,
+                "height": 848
+              },
+              "mms_data": "{\"vid\":\"br-11110105-6kfkq-m4i9j3zpjl118d\",\"biz\":107,\"duration\":19993,\"create_time\":1735780887,\"update_time\":1735780891,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfkq-m4i9j3zpjl118d_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkq-m4i9j3zpjl118d.16000081735780889.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m4i9j3zpjl118d.16000081735780889.mp4\",\"width\":480,\"height\":848,\"bitrate\":576663,\"abitrate\":65560,\"size\":1617802,\"fps\":25,\"duration\":19991,\"update_time\":1735780896,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkq-m4i9j3zpjl118d.default.mp4\",\"width\":480,\"height\":848,\"bitrate\":490721,\"abitrate\":64673,\"size\":1401586,\"fps\":25,\"duration\":19991,\"update_time\":1735780981,\"codec\":\"H264\"},\"extend_formats\":{},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "KIT",
+              "options": [
+                "06 PARES",
+                "12 PARES"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Cor",
+              "options": [
+                "SORTIDAS"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Conjunto Infantil Juvenil Moda Praia Menino Camisa Manga Longa e Sunga + Touca com Proteção UV50+",
+          "image": "br-11134207-81z1k-mhfi9kex6qdg97",
+          "images": [
+            "br-11134207-81z1k-mhfi9kex6qdg97",
+            "br-11134207-81z1k-mgu97e5t1c0450",
+            "br-11134207-81z1k-mgu97e5qt9mobf",
+            "br-11134207-81z1k-mgu97e5w8ikne8",
+            "br-11134207-81z1k-mgu97e5ti6tg99",
+            "br-11134207-81z1k-mgu97e5tjldw75",
+            "br-11134207-81z1k-mgu97e5tgs9047"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": true
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "273 sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Children's Youth Beachwear Set for Boys: Long Sleeve Shirt and Swim Trunks + Cap with UV50+ Protection",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 5697000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": {
+              "strikethrough_price": null,
+              "price": null,
+              "hidden_price_display_text": null,
+              "final_price_hint_text": "after voucher"
+            }
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 23893973391,
+          "shopid": 421581203,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 23893973391,
+            "model_id": 169410839550,
+            "promotion_type": 301,
+            "promotion_id": 913841299308544,
+            "price": 5697000,
+            "strikethrough_price": 10000000,
+            "discount": 43,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": 1454426078326784,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": {
+              "promotion_id": 1454426078326784,
+              "voucher_code": "1383027871",
+              "voucher_discount": 300000,
+              "time_info": {
+                "start_time": 1782874800,
+                "end_time": 1785553199,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 5000000,
+              "signature": "a8b56615355a3451d219e61cb3aeb3c5372ea4b323f6c866c567c7b3abd2037f",
+              "signature_source": 16
+            },
+            "original_price": 10000000,
+            "model_selection_logic": null,
+            "promotion_price": 5997000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 273,
+            "monthly_sold_count": 2,
+            "historical_sold_count_text": "273 sold",
+            "monthly_sold_count_text": "2 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000022,
+            298513406,
+            844931064601283,
+            700065053,
+            1400065024,
+            822062091122182,
+            595473041,
+            648011521,
+            835343123222554,
+            298818315,
+            1823810,
+            1823833,
+            1718388139,
+            1718388158
+          ],
+          "catid": 100633,
+          "shopee_verified": true,
+          "liked_count": 222,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Lovic Meias e Variedades",
+            "shop_icon": null,
+            "shop_location": "São Paulo"
+          },
+          "status": 1,
+          "ctime": 1762658907,
+          "flag": 131072,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100633,
+              100690,
+              101042
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.943262411347518,
+            "rating_count": [
+              141,
+              0,
+              0,
+              2,
+              4,
+              135
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1145793,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Cor",
+              "options": [
+                "Azul Claro",
+                "Azul Escuro",
+                "Azul Royal"
+              ],
+              "images": [
+                "br-11134207-81z1k-mgu97e5qw2rkb5",
+                "br-11134207-81z1k-mgu97e5qxhc067",
+                "br-11134207-81z1k-mgu97e5qyvwga1"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Tamanho",
+              "options": [
+                "2 ANOS",
+                "4 ANOS",
+                "6 ANOS",
+                "8 ANOS",
+                "10 ANOS",
+                "12 ANOS",
+                "14 ANOS",
+                "16 ANOS"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Kit Até 24 Pares de Meias Pretas Soquete Cano Curto Masculina Feminina Unissex",
+          "image": "br-11134207-820mg-mm34akim8a9w22",
+          "images": [
+            "br-11134207-820mg-mm34akim8a9w22",
+            "br-11134207-7r98o-m6ek1l4velon00",
+            "br-11134207-7r98o-m6ek1l4vd7479c",
+            "br-11134207-7r98o-m6ek1l4m03frc9",
+            "br-11134207-7r98o-m6ek1l4lkmkn25",
+            "br-11134207-7r98o-m6ek1l4lgevb9c",
+            "br-11134207-7r98o-m6ek1l4vadzbae",
+            "br-11134207-7r98o-m6ek1l4ldlqf78"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": true
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10mil+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Kit Up to 24 Pairs of Black Ankle Socks for Men, Women, Unisex",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2595000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 22798212093,
+          "shopid": 421581203,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 22798212093,
+            "model_id": 169403420398,
+            "promotion_type": 202,
+            "promotion_id": 936382613102592,
+            "price": 2595000,
+            "strikethrough_price": 3800000,
+            "discount": 32,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 3800000,
+            "model_selection_logic": null,
+            "promotion_price": 2595000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 14002,
+            "monthly_sold_count": 271,
+            "historical_sold_count_text": "10mil+ sold",
+            "monthly_sold_count_text": "271 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000022,
+            298513406,
+            844931064601283,
+            700065053,
+            1400065024,
+            822062091122182,
+            595473041,
+            835343123222554,
+            648011521,
+            700810080,
+            298818315,
+            1823810,
+            1823833,
+            1718388139
+          ],
+          "catid": 100011,
+          "shopee_verified": true,
+          "liked_count": 8611,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Lovic Meias e Variedades",
+            "shop_icon": null,
+            "shop_location": "São Paulo"
+          },
+          "status": 1,
+          "ctime": 1739920033,
+          "flag": 131072,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100011,
+              100062
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.90769916765755,
+            "rating_count": [
+              6728,
+              26,
+              20,
+              106,
+              245,
+              6331
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1145793,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.16000081739919983.mp4",
+              "thumb_url": "br-11110105-6kfko-m6en23kmkmzr95_cover",
+              "duration": 18,
+              "version": 2,
+              "vid": "br-11110105-6kfko-m6en23kmkmzr95",
+              "formats": [
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.16000081739919983.mp4",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.16000081739919983.mp4",
+                  "width": 720,
+                  "height": 1280
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.default.mp4",
+                "width": 540,
+                "height": 960
+              },
+              "mms_data": "{\"vid\":\"br-11110105-6kfko-m6en23kmkmzr95\",\"biz\":107,\"duration\":17692,\"create_time\":1739919980,\"update_time\":1739919983,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-6kfko-m6en23kmkmzr95_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.16000081739919983.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.16000081739919983.mp4\",\"width\":720,\"height\":1280,\"bitrate\":469954,\"abitrate\":64729,\"size\":1195621,\"fps\":25,\"duration\":17693,\"update_time\":1739919993,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":389014,\"abitrate\":64729,\"size\":1017125,\"fps\":25,\"duration\":17693,\"update_time\":1739920081,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.16003091739920076.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfko-m6en23kmkmzr95.16003091739920076.mp4\",\"width\":720,\"height\":1280,\"bitrate\":176145,\"abitrate\":64729,\"size\":550497,\"fps\":25,\"duration\":17693,\"update_time\":1739920090,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Cor",
+              "options": [
+                "PRETA"
+              ],
+              "images": [
+                "br-11134207-7r98o-m6ek1l4l9e139e"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "QUERO LEVAR",
+              "options": [
+                "24 PARES",
+                "18 PARES",
+                "12 PARES"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "Kit Até 24 Pares de Meias Soquetes Masculino Feminino Unissex Para o Dia a Dia",
+          "image": "br-11134207-81z1k-mgcprgrbmjnk7b",
+          "images": [
+            "br-11134207-81z1k-mgcprgrbmjnk7b",
+            "br-11134207-7r98o-lzhox2g2tpa957",
+            "br-11134207-81z1k-mf1ezuqqn0g79a",
+            "br-11134207-7r98o-lzhox2g2wif5b5",
+            "br-11134207-7r98o-lzhox2g2xwzle1",
+            "br-11134207-7r98o-lyof4tq6w08x75",
+            "br-11134207-7r98o-lzhox2g2zbk100",
+            "br-11134207-7r98o-lywyj5inw8x172",
+            "br-11134207-7r98o-lyol29rvtqo17b"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": true
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10mil+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": "Kit Up to 24 Pairs of Men's and Women's Unisex Ankle Socks for Everyday Use",
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 1797000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 19599230940,
+          "shopid": 421581203,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 19599230940,
+            "model_id": 219161680878,
+            "promotion_type": 301,
+            "promotion_id": 864240802399232,
+            "price": 1797000,
+            "strikethrough_price": 1900000,
+            "discount": 5,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 1900000,
+            "model_selection_logic": null,
+            "promotion_price": 1797000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 11236,
+            "monthly_sold_count": 18,
+            "historical_sold_count_text": "10mil+ sold",
+            "monthly_sold_count_text": "18 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000022,
+            298513406,
+            844931064601283,
+            700065053,
+            822062091122182,
+            835343123222554,
+            595473041,
+            1400065024,
+            648011521,
+            298818315,
+            1823810,
+            1823833,
+            700810080,
+            1718388139
+          ],
+          "catid": 100011,
+          "shopee_verified": true,
+          "liked_count": 5723,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "Lovic Meias e Variedades",
+            "shop_icon": null,
+            "shop_location": "São Paulo"
+          },
+          "status": 1,
+          "ctime": 1711938517,
+          "flag": 131072,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100011,
+              100062
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.864551773302441,
+            "rating_count": [
+              5611,
+              37,
+              28,
+              123,
+              282,
+              5141
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1145793,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.16000081728526177.mp4",
+              "thumb_url": "br-11110105-7r98o-m16f4wpn9jtk8f",
+              "duration": 14,
+              "version": 2,
+              "vid": "br-11110105-6kfkp-m16f4twdde1a92",
+              "formats": [
+                {
+                  "format": 1600008,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.16000081728526177.mp4",
+                  "url": "https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.16000081728526177.mp4",
+                  "width": 720,
+                  "height": 938
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.default.mp4",
+                "width": 540,
+                "height": 704
+              },
+              "mms_data": "{\"vid\":\"br-11110105-6kfkp-m16f4twdde1a92\",\"biz\":107,\"duration\":13677,\"create_time\":1728526175,\"update_time\":1728526177,\"serviceID\":2,\"cover\":\"https://down-ws-br.img.susercontent.com/br-11110105-7r98o-m16f4wpn9jtk8f\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.16000081728526177.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.16000081728526177.mp4\",\"width\":720,\"height\":938,\"bitrate\":199481,\"abitrate\":12423,\"size\":373169,\"fps\":25,\"duration\":13677,\"update_time\":1728526185,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.default.mp4\",\"width\":540,\"height\":704,\"bitrate\":180994,\"abitrate\":12423,\"size\":341739,\"fps\":25,\"duration\":13677,\"update_time\":1728526188,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.16003091728526185.mp4\",\"url\":\"https://down-tx-br.vod.susercontent.com/api/v4/11110105/mms/br-11110105-6kfkp-m16f4twdde1a92.16003091728526185.mp4\",\"width\":720,\"height\":938,\"bitrate\":146051,\"abitrate\":12423,\"size\":284938,\"fps\":25,\"duration\":13677,\"update_time\":1728526193,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "QUANTIDADE",
+              "options": [
+                "06 Pares",
+                "12 Pares",
+                "24 Pares"
+              ],
+              "images": [
+                "br-11134207-7r98o-ltkdphiprbjddb",
+                "br-11134207-7r98o-ltkdphipsq3tfb",
+                "br-11134207-7r98o-ltkdphipu4o91c"
+              ],
+              "properties": null,
+              "type": 0
+            },
+            {
+              "name": "Cor",
+              "options": [
+                "BRANCO",
+                "PRETO",
+                "SORTIDAS"
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      }
+    ],
+    "item_tracking_infos": [
+      {
+        "item_id": 23598287287,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 22398677566,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 23898839539,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 21497797961,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 23893973391,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 22798212093,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      },
+      {
+        "item_id": 19599230940,
+        "is_seller_configured": true,
+        "recommendation_info": null,
+        "ads_tms_info": null,
+        "ads_id": null
+      }
+    ],
+    "translation_status": 1
+  }
+}

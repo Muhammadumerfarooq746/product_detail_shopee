@@ -1,0 +1,70 @@
+[
+  {
+    "region": "vn",
+    "domain": "shopee.vn",
+    "supported": true,
+    "test_url": "https://shopee.vn/product/550942423/24322062261",
+    "sample_title": "Khăn giấy cao cấp treo tường TopGia Tiểu hạ 10bịch"
+  },
+  {
+    "region": "th",
+    "domain": "shopee.co.th",
+    "supported": true,
+    "test_url": "https://shopee.co.th/product/1373799899/26916591882",
+    "sample_title": "แพมเพิสเด็ก 1 แถม 1 Penbose แพมเพิส Baby Pants ผ้า"
+  },
+  {
+    "region": "id",
+    "domain": "shopee.co.id",
+    "supported": false,
+    "error": "no active worker for site id"
+  },
+  {
+    "region": "sg",
+    "domain": "shopee.sg",
+    "supported": false,
+    "error": "no active worker for site sg"
+  },
+  {
+    "region": "tw",
+    "domain": "shopee.tw",
+    "supported": false,
+    "error": "no active worker for site tw"
+  },
+  {
+    "region": "ph",
+    "domain": "shopee.ph",
+    "supported": false,
+    "error": "no active worker for site ph"
+  },
+  {
+    "region": "my",
+    "domain": "shopee.com.my",
+    "supported": false,
+    "error": "no active worker for site my"
+  },
+  {
+    "region": "br",
+    "domain": "shopee.com.br",
+    "supported": false,
+    "error": "no active worker for site br"
+  },
+  {
+    "region": "mx",
+    "domain": "shopee.com.mx",
+    "supported": false,
+    "error": "no active worker for site mx"
+  },
+  {
+    "region": "co",
+    "domain": "shopee.com.co",
+    "supported": false,
+    "error": "no active worker for site co"
+  },
+  {
+    "region": "cl",
+    "domain": "shopee.cl",
+    "supported": false,
+    "error": "no active worker for site cl"
+  }
+]

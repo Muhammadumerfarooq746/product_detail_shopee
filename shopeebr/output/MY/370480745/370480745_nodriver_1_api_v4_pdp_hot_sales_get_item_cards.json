@@ -1,0 +1,1869 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "source": 2,
+    "card_set": {
+      "layout_id": 10,
+      "element_toggle": {
+        "atc_button": false,
+        "feedback_button": false
+      },
+      "card_set_name": "FTSS TPFS card"
+    },
+    "item_cards": [
+      {
+        "item_card_displayed_asset": {
+          "name": "Dessini Italy Pencincang Bawang Daging Mesin Capsule Cutter Spin Chopper Meat Grinder (900ml) RS-1686",
+          "image": "sg-11134201-823pg-mop0sx5c5xccc1",
+          "images": [
+            "sg-11134201-823pg-mop0sx5c5xccc1",
+            "d7ec2b1dc41636cdc3a69bd08f65c762",
+            "a94101780db2d7b55acbb749f3690fdc",
+            "303a25160b3d6892132bcdab5b4fc1ab",
+            "95cc32ade393f956301133ec3ddbf6ec",
+            "a1f4db160d2976a5a73a82930005bd6f",
+            "7a2c7bf61a08a5c3b96e36b78d6f374e"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "100k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 980000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 8161414992,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 8161414992,
+            "model_id": 78835675226,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 980000,
+            "strikethrough_price": 3500000,
+            "discount": 72,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 3500000,
+            "model_selection_logic": null,
+            "promotion_price": 980000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 183845,
+            "monthly_sold_count": 2472,
+            "historical_sold_count_text": "100k+ sold",
+            "monthly_sold_count_text": "2k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000084,
+            1143716,
+            700190083,
+            825249635454464,
+            844931064601283,
+            1523620,
+            1119699,
+            844931086908638,
+            1118580,
+            700025130,
+            1006343,
+            1718087960,
+            1428713,
+            1000114,
+            700695014,
+            1118579,
+            1073699,
+            998061066,
+            2108630,
+            1004885,
+            700805080,
+            298988385,
+            299103322,
+            700960097,
+            1588631,
+            700810080,
+            1400025181,
+            1115141,
+            822059822081036,
+            827294065221646,
+            827294065223694,
+            298803373,
+            299043410,
+            2298656,
+            700815066,
+            839709477894685,
+            1958617,
+            700635078,
+            998031039
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 43065,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1622459395,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100041,
+              100203
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.926076469537252,
+            "rating_count": [
+              67203,
+              313,
+              161,
+              531,
+              2195,
+              64003
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1146436,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Variation",
+              "options": [
+                "Red",
+                "Knife",
+                "Purple",
+                "Blue"
+              ],
+              "images": [
+                "sg-11134201-823p9-mop0t8hw0bv3a0",
+                "303a25160b3d6892132bcdab5b4fc1ab",
+                "sg-11134201-823q3-mop0tcp6k07520",
+                "sg-11134201-823pw-mop0te0sr28213"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "DESSINI ITALY 25 IN 1 Electric Digital Pressure Cooker Non-stick Inner Pot Rice Multi Cooker Steamer Periuk Tekanan (6L)",
+          "image": "sg-11134201-823p4-mogqlduerz0pce",
+          "images": [
+            "sg-11134201-823p4-mogqlduerz0pce",
+            "sg-11134201-7rdyu-mbta40bkr7sp62",
+            "sg-11134201-7rdvh-mbta40nidyyh84",
+            "sg-11134201-7rdxi-mbta3z0eoaj2c2",
+            "sg-11134201-7rdwj-mbta3zzxb4m4d1",
+            "sg-11134201-7rdxc-mbta3zp3o5lib8",
+            "sg-11134201-7rdy5-mbta3zcw60staa",
+            "7a2c7bf61a08a5c3b96e36b78d6f374e"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "80k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 9192000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 11500398059,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 11500398059,
+            "model_id": 91664885488,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 9192000,
+            "strikethrough_price": 31800000,
+            "discount": 71,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1451164757020672,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1451164757020672,
+              "voucher_code": "QWH0COFQ",
+              "voucher_discount": 2298000,
+              "time_info": {
+                "start_time": 1784030400,
+                "end_time": 1784995140,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 10000000,
+              "signature": "e24f63803f98038140a8ea85520073926300e59f272403525342d99ea38b76ee",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 31800000,
+            "model_selection_logic": null,
+            "promotion_price": 11490000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 87559,
+            "monthly_sold_count": 3303,
+            "historical_sold_count_text": "80k+ sold",
+            "monthly_sold_count_text": "3k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000084,
+            1143716,
+            700190083,
+            844931064601283,
+            1119699,
+            844931086908638,
+            1006343,
+            1118580,
+            700025130,
+            1718087960,
+            1428713,
+            1000114,
+            700695014,
+            1118579,
+            1073699,
+            1004885,
+            998061066,
+            2108630,
+            700805080,
+            298988385,
+            299073376,
+            299103322,
+            1400025181,
+            1115141,
+            822059822081036,
+            299043410,
+            827294065223694,
+            827294065221646,
+            298803373,
+            2298656,
+            1588631,
+            700960097,
+            700815066,
+            839709477894685,
+            1958617,
+            700635078,
+            998031039
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 34733,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1619575970,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100041,
+              100205
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.892906776363333,
+            "rating_count": [
+              36027,
+              308,
+              189,
+              444,
+              1213,
+              33873
+            ]
+          },
+          "global_brand": {
+            "brand_id": 2042037,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.16000081725351467.mp4",
+              "thumb_url": "my-11110105-7r98o-lzpz4lbnsp0r4a",
+              "duration": 60,
+              "version": 2,
+              "vid": "my-11110105-6kgch-lzpz4f90k38p25",
+              "formats": [
+                {
+                  "format": 1600325,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.16003251727570303.mp4",
+                  "url": "https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.16003251727570303.mp4",
+                  "width": 720,
+                  "height": 720
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.default.mp4",
+                "width": 540,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"my-11110105-6kgch-lzpz4f90k38p25\",\"biz\":107,\"duration\":60181,\"create_time\":1725351462,\"update_time\":1725351469,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/my-11110105-7r98o-lzpz4lbnsp0r4a\",\"cover_list\":[],\"formats\":[{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.16003251727570303.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.16003251727570303.mp4\",\"width\":720,\"height\":720,\"bitrate\":540922,\"abitrate\":128128,\"size\":5097814,\"fps\":29.96985,\"duration\":60027,\"update_time\":1727570334,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":334555,\"abitrate\":64138,\"size\":3041935,\"fps\":25.01667,\"duration\":60023,\"update_time\":1725351587,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.16003181727570303.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/my-11110105-6kgch-lzpz4f90k38p25.16003181727570303.mp4\",\"width\":720,\"height\":720,\"bitrate\":331910,\"abitrate\":128112,\"size\":3532848,\"fps\":29.96985,\"duration\":60027,\"update_time\":1727570363,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Variation",
+              "options": [
+                "Pink",
+                "Red",
+                "Silver"
+              ],
+              "images": [
+                "sg-11134201-823om-mogqln0go9vtf3",
+                "sg-11134201-823qo-mogqlow5orv129",
+                "sg-11134201-823pc-mogqlquac3rg9b"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "DESSINI ITALY Electric Cooker Steamboat Hot Pot Non Stick Frying Wok Pan Rice Cooker with Steamer Periuk Masak Elektrik",
+          "image": "sg-11134201-822yv-mogkyh74ahogcc",
+          "images": [
+            "sg-11134201-822yv-mogkyh74ahogcc",
+            "sg-11134201-23020-5xjmp008v5mvcf",
+            "sg-11134201-23020-2aascva9v5mv0f",
+            "sg-11134201-23020-53y391b9v5mvdf",
+            "sg-11134201-23020-ibm2rqc9v5mv21",
+            "sg-11134201-23020-9dgykgd9v5mv25",
+            "sg-11134201-23020-enutb9d9v5mve0",
+            "sg-11134202-23020-lbve03rhw5mvfd"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "80k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 5180000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 22921888469,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 22921888469,
+            "model_id": 156583229052,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 5180000,
+            "strikethrough_price": 26500000,
+            "discount": 80,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1455433770094592,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1455433770094592,
+              "voucher_code": "8ZBZ0009",
+              "voucher_discount": 800000,
+              "time_info": {
+                "start_time": 1784030400,
+                "end_time": 1784995140,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 5000000,
+              "signature": "30068abb80e68671e9f3b3f3c75623a1072313a18ad2f9ac60b2a866f2c5e440",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 26500000,
+            "model_selection_logic": null,
+            "promotion_price": 5980000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 81468,
+            "monthly_sold_count": 2138,
+            "historical_sold_count_text": "80k+ sold",
+            "monthly_sold_count_text": "2k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000084,
+            1143716,
+            700190083,
+            844931064601283,
+            844931086908638,
+            1119699,
+            1428713,
+            1718087960,
+            1000114,
+            1006343,
+            1118580,
+            700025130,
+            700695014,
+            1073699,
+            1118579,
+            998061066,
+            2108630,
+            700805080,
+            298988385,
+            1004885,
+            299103322,
+            1588631,
+            1400025181,
+            1115141,
+            822059822081036,
+            827294065221646,
+            299043410,
+            827294065223694,
+            700960097,
+            839709477894685,
+            1958617,
+            700635078,
+            998031039
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 33720,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1675509452,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100041,
+              100204
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.919541560546423,
+            "rating_count": [
+              26000,
+              127,
+              70,
+              248,
+              871,
+              24684
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1146436,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": null,
+              "options": [
+                ""
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "DESSINI ITALY 3.0L Electric Rice Cooker Non Stick Aluminium Inner Pot with Steamer Pengukus Periuk Nasi Elektrik",
+          "image": "sg-11134201-822z7-mhztx7tvttz7bc",
+          "images": [
+            "sg-11134201-822z7-mhztx7tvttz7bc",
+            "sg-11134201-822wq-mhztx82v3h1c8f",
+            "sg-11134201-822wj-mhztx8df4we972",
+            "sg-11134201-822x2-mhztx8n9rxmsdf",
+            "sg-11134201-822y3-mhztx8vl8oow75",
+            "sg-11134201-822ze-mhztx94cs7bafc",
+            "sg-11134201-822yr-mhztx9bvvt3a27",
+            "sg-11134201-822ya-mhztx9lryrr55c",
+            "sg-11134201-822xj-mhztwtp7umfa9a"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "5k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 6180000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 42177073105,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 42177073105,
+            "model_id": 365265593282,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 6180000,
+            "strikethrough_price": 27900000,
+            "discount": 78,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1455433770094592,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1455433770094592,
+              "voucher_code": "8ZBZ0009",
+              "voucher_discount": 800000,
+              "time_info": {
+                "start_time": 1784030400,
+                "end_time": 1784995140,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 5000000,
+              "signature": "30068abb80e68671e9f3b3f3c75623a1072313a18ad2f9ac60b2a866f2c5e440",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 27900000,
+            "model_selection_logic": null,
+            "promotion_price": 6980000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 5101,
+            "monthly_sold_count": 2154,
+            "historical_sold_count_text": "5k+ sold",
+            "monthly_sold_count_text": "2k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            298988385,
+            700805080,
+            700190083,
+            1000084,
+            1143716,
+            998061066,
+            1000114,
+            1006343,
+            1718087960,
+            1428713,
+            844931086908638,
+            844931064601283,
+            1118580,
+            700025130,
+            700695014,
+            1073699,
+            1118579,
+            1119699,
+            1004885,
+            298803386,
+            299103322,
+            1588631,
+            700810080,
+            1400025181,
+            1115141,
+            822059822081036,
+            2298656,
+            298803373,
+            299043410,
+            700815066,
+            827294065223694,
+            827294065221646,
+            700960097,
+            1978602,
+            839709477894685,
+            1958617,
+            700635078,
+            998031039
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 1211,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1765174389,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100041,
+              100207
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.88277340957827,
+            "rating_count": [
+              1399,
+              12,
+              4,
+              22,
+              60,
+              1301
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1146436,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Variation",
+              "options": [
+                "Chili Red",
+                "Royal Blue",
+                "Luxury Black",
+                "Baby Pink"
+              ],
+              "images": [
+                "sg-11134201-822xe-mhztxa0ja2v7bb",
+                "sg-11134201-822x5-mhztxabp7itd76",
+                "sg-11134201-822wt-mhztxakd08hx1f",
+                "sg-11134201-822zx-mhztxatrhngi09"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "DESSINI ITALY 250mL USB Rechargeable Capsule Cutter Spin Chopper Blender Grinder Mixer Mincer Juicer Pengisar Pengadun",
+          "image": "sg-11134201-7qve1-lk4td58h7w966c",
+          "images": [
+            "sg-11134201-7qve1-lk4td58h7w966c",
+            "sg-11134201-7qvft-lk4td5c340xg8e",
+            "sg-11134201-7qvd7-lk4td5g8wjav3c",
+            "sg-11134201-7qve2-lk4td5keqghq2d",
+            "sg-11134201-7qvfw-lk4td5oakrpybf",
+            "sg-11134201-7qve9-lk4td5tucnfbb5",
+            "sg-11134201-7qvd9-lk4td5yu5ce6a6",
+            "sg-11134201-7qveg-lk4td63k18yfbe",
+            "sg-11134202-7qvg4-lk4t6i1x8f0l8f"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "70k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 1240000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 22376046615,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 22376046615,
+            "model_id": 39336244317,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 1240000,
+            "strikethrough_price": 5900000,
+            "discount": 79,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 5900000,
+            "model_selection_logic": null,
+            "promotion_price": 1240000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 79089,
+            "monthly_sold_count": 2568,
+            "historical_sold_count_text": "70k+ sold",
+            "monthly_sold_count_text": "2k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000084,
+            1143716,
+            700190083,
+            844931064601283,
+            844931086908638,
+            1119699,
+            1118580,
+            700025130,
+            1428713,
+            1718087960,
+            1000114,
+            700695014,
+            1118579,
+            1073699,
+            1004885,
+            1006343,
+            998061066,
+            2108630,
+            298803386,
+            700805080,
+            298988385,
+            822059822081036,
+            827294065221646,
+            827294065223694,
+            298803373,
+            299043410,
+            1400025181,
+            1115141,
+            299103322,
+            700960097,
+            2298656,
+            700815066,
+            1588631,
+            700810080,
+            839709477894685,
+            1958617,
+            700635078,
+            998031039
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 18315,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1691381953,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100041,
+              100203
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.906302909034939,
+            "rating_count": [
+              26004,
+              156,
+              83,
+              277,
+              1008,
+              24480
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1146436,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Variation",
+              "options": [
+                "White",
+                "Pink",
+                "Blue",
+                "Green"
+              ],
+              "images": [
+                "sg-11134201-7qve1-lk4td58h7w966c",
+                "sg-11134201-7qvet-lk4td6hzdbpz60",
+                "sg-11134201-7qvde-lk4td6w4slvb1d",
+                "sg-11134201-7qvcq-lk4td714lb7i65"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "DESSINI ITALY 5.0L Electric Rice Cooker Non Stick Aluminium Inner Pot with Steamer Pengukus Periuk Nasi Elektrik",
+          "image": "sg-11134201-822zy-mhztxo20p8nc30",
+          "images": [
+            "sg-11134201-822zy-mhztxo20p8nc30",
+            "sg-11134201-822yf-mhztxopmu22tb0",
+            "sg-11134201-822wj-mhztx8df4we972",
+            "sg-11134201-822x2-mhztx8n9rxmsdf",
+            "sg-11134201-822y3-mhztx8vl8oow75",
+            "sg-11134201-822ze-mhztxpi8rlz9e1",
+            "sg-11134201-822xz-mhztxppq3ymac7",
+            "sg-11134201-822ya-mhztx9lryrr55c",
+            "sg-11134201-822x5-mhztxco6gow8ce"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": {
+            "can_display": true
+          },
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "9k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 7633000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": {
+            "icon_type": 1,
+            "icon": {
+              "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+              "width": 48,
+              "height": 48
+            }
+          }
+        },
+        "item_data": {
+          "itemid": 56202752733,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 56202752733,
+            "model_id": 302236633106,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 7633000,
+            "strikethrough_price": 35900000,
+            "discount": 79,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": 1455433769308160,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": {
+              "promotion_id": 1455433769308160,
+              "voucher_code": "8ZBZ0010",
+              "voucher_discount": 1347000,
+              "time_info": {
+                "start_time": 1784030400,
+                "end_time": 1784995140,
+                "valid_duration": null
+              },
+              "groups": null,
+              "min_spend": 7500000,
+              "signature": "de42aae4f070b8fadda6d6d12b2a9b56c9be18bc4aa1cd09534cba9b406a7a8e",
+              "signature_source": 16
+            },
+            "recommended_platform_voucher_info": null,
+            "original_price": 35900000,
+            "model_selection_logic": null,
+            "promotion_price": 8980000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 9504,
+            "monthly_sold_count": 7080,
+            "historical_sold_count_text": "9k+ sold",
+            "monthly_sold_count_text": "7k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000084,
+            298988385,
+            1000114,
+            700190083,
+            1143716,
+            700805080,
+            998061066,
+            1006343,
+            1718087960,
+            1428713,
+            844931086908638,
+            844931064601283,
+            1118580,
+            700025130,
+            700695014,
+            1073699,
+            1118579,
+            1119699,
+            1004885,
+            299103322,
+            1588631,
+            700810080,
+            298803386,
+            1400025181,
+            1115141,
+            822059822081036,
+            299043410,
+            700815066,
+            827294065223694,
+            827294065221646,
+            2298656,
+            298803373,
+            700960097,
+            839709477894685,
+            1958617,
+            700635078,
+            998031039
+          ],
+          "catid": 100010,
+          "shopee_verified": false,
+          "liked_count": 1713,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1765174410,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100010,
+              100041,
+              100207
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.930555555555555,
+            "rating_count": [
+              1800,
+              8,
+              5,
+              16,
+              46,
+              1725
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1146436,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": "Variation",
+              "options": [
+                "Chili Red",
+                "Royal Blue",
+                "Luxury Black",
+                "Baby Pink"
+              ],
+              "images": [
+                "sg-11134201-822yk-mhztxq5csmbm72",
+                "sg-11134201-822z8-mhztxqkhj4sk60",
+                "sg-11134201-822wh-mhztxqzdc0sk40",
+                "sg-11134201-822x3-mhztuyj75c79a9"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "DESSINI ITALY Granite Aluminium Non Stick Casserole Pot Bowl Deep Fry Pan Cookware Tool (12 Pcs)",
+          "image": "80d1ce119eb6efbb2aad9f82d6921d57",
+          "images": [
+            "80d1ce119eb6efbb2aad9f82d6921d57",
+            "8ea84eb58400c0f5d2844f73c494df1e",
+            "174120156b3538aa630ea4d0ddb9d055",
+            "fa053102d2d0fe493001bd0e9aeea49e",
+            "e23d1136a6ca159e9f895bb47c55361d",
+            "ab4314071df86e695408662448e2cb84",
+            "f7521329b7888d7eddae678f13295515"
+          ],
+          "shop_location": null,
+          "highlight_videos": [
+            {
+              "video_id": "sg-11110113-6jrp7-lk4rmfe3au2fb4",
+              "thumb_url": null,
+              "duration": 4750,
+              "version": 2,
+              "vid": "sg-11110113-6jrp7-lk4rmfe3au2fb4",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": "sg-11110113-6jrp7-lk4rmfe3au2fb4",
+              "thumb_url": null,
+              "duration": 4750,
+              "version": 2,
+              "vid": "sg-11110113-6jrp7-lk4rmfe3au2fb4",
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            },
+            {
+              "video_id": null,
+              "thumb_url": null,
+              "duration": null,
+              "version": 2,
+              "vid": null,
+              "formats": null,
+              "default_format": null,
+              "mms_data": null
+            }
+          ],
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": 2,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "4.9",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "200k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 15980000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 9212054157,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 9212054157,
+            "model_id": 53596224781,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 15980000,
+            "strikethrough_price": 35000000,
+            "discount": 54,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 35000000,
+            "model_selection_logic": null,
+            "promotion_price": 15980000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 238144,
+            "monthly_sold_count": 876,
+            "historical_sold_count_text": "200k+ sold",
+            "monthly_sold_count_text": "876 Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000084,
+            1143716,
+            700190083,
+            825249635454464,
+            844931064601283,
+            1523620,
+            844931086908638,
+            1119699,
+            1718087960,
+            1428713,
+            1118580,
+            700025130,
+            1000114,
+            700695014,
+            1118579,
+            1073699,
+            1006343,
+            1004885,
+            1400025181,
+            1115141,
+            822059822081036,
+            827294065223694,
+            298803373,
+            998061066,
+            2108630,
+            700805080,
+            298803386,
+            298988385,
+            827294065221646,
+            299043410,
+            299073376,
+            299103322,
+            700960097,
+            2298656,
+            700815066,
+            700810080,
+            998031039
+          ],
+          "catid": 100636,
+          "shopee_verified": false,
+          "liked_count": 81439,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1611882603,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100636,
+              100717,
+              101219
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.88506058034007,
+            "rating_count": [
+              107509,
+              899,
+              571,
+              1521,
+              4128,
+              100390
+            ]
+          },
+          "global_brand": {
+            "brand_id": 1146436,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": [
+            {
+              "video_id": "9dcde673c55fec2a5d452faa420dc37d",
+              "thumb_url": "7adfa85e39b6324209f5da034e461f24",
+              "duration": 60,
+              "version": 2,
+              "vid": "sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337",
+              "formats": [
+                {
+                  "format": 1600408,
+                  "defn": "V360P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004081781601743.mp4",
+                  "url": "https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004081781601743.mp4",
+                  "width": 360,
+                  "height": 360
+                },
+                {
+                  "format": 1600409,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004091781601742.mp4",
+                  "url": "https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004091781601742.mp4",
+                  "width": 540,
+                  "height": 540
+                },
+                {
+                  "format": 1600410,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004101781601743.mp4",
+                  "url": "https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004101781601743.mp4",
+                  "width": 720,
+                  "height": 720
+                },
+                {
+                  "format": 1600411,
+                  "defn": "V720P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004111781601743.mp4",
+                  "url": "https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004111781601743.mp4",
+                  "width": 720,
+                  "height": 720
+                },
+                {
+                  "format": 1600568,
+                  "defn": "V1080P",
+                  "profile": "MP4",
+                  "path": "api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16005681781601742.mp4",
+                  "url": "https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16005681781601742.mp4",
+                  "width": 1080,
+                  "height": 1080
+                }
+              ],
+              "default_format": {
+                "format": 1600323,
+                "defn": "V540P",
+                "profile": "MP4",
+                "path": null,
+                "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.default.mp4",
+                "width": 540,
+                "height": 540
+              },
+              "mms_data": "{\"vid\":\"sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337\",\"biz\":107,\"duration\":63104,\"create_time\":1676011091,\"update_time\":1730348917,\"serviceID\":2,\"cover\":\"https://down-ws-my.img.susercontent.com/sg-11110105-23020-3h2dbmck7cnv0c\",\"cover_list\":[],\"formats\":[{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004081781601743.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004081781601743.mp4\",\"width\":360,\"height\":360,\"bitrate\":159585,\"abitrate\":32085,\"size\":1551566,\"fps\":25,\"duration\":63081,\"update_time\":1781601752,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004091781601742.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004091781601742.mp4\",\"width\":540,\"height\":540,\"bitrate\":265051,\"abitrate\":32085,\"size\":2382127,\"fps\":25,\"duration\":63081,\"update_time\":1781601755,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004101781601743.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004101781601743.mp4\",\"width\":720,\"height\":720,\"bitrate\":461094,\"abitrate\":48128,\"size\":4052459,\"fps\":25,\"duration\":63081,\"update_time\":1781601771,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004111781601743.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004111781601743.mp4\",\"width\":720,\"height\":720,\"bitrate\":649807,\"abitrate\":48128,\"size\":5538505,\"fps\":25.0004,\"duration\":63081,\"update_time\":1781601765,\"codec\":\"H264\"},{\"format\":1600568,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16005681781601742.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16005681781601742.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":1522746,\"abitrate\":64171,\"size\":12539246,\"fps\":25.0004,\"duration\":63081,\"update_time\":1781601801,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":364196,\"abitrate\":32165,\"size\":3177744,\"fps\":25,\"duration\":63082,\"update_time\":1772895554,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004121781601643.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004121781601643.mp4\",\"width\":360,\"height\":360,\"bitrate\":134644,\"abitrate\":32085,\"size\":1359025,\"fps\":25,\"duration\":63081,\"update_time\":1781601666,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004131781601744.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004131781601744.mp4\",\"width\":540,\"height\":540,\"bitrate\":198787,\"abitrate\":32085,\"size\":1864120,\"fps\":25,\"duration\":63081,\"update_time\":1781601776,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004141781601743.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004141781601743.mp4\",\"width\":720,\"height\":720,\"bitrate\":318232,\"abitrate\":48128,\"size\":2931249,\"fps\":25.0004,\"duration\":63081,\"update_time\":1781601785,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004151781601743.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16004151781601743.mp4\",\"width\":720,\"height\":720,\"bitrate\":336746,\"abitrate\":48128,\"size\":3077041,\"fps\":25.0004,\"duration\":63081,\"update_time\":1781601780,\"codec\":\"H265\"},{\"format\":1600569,\"defn\":\"V1080P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16005691781601743.mp4\",\"url\":\"https://down-tx-my.vod.susercontent.com/api/v4/11110105/mms/sg_44c894f2-0102-4444-ac39-4e0dd581a660_000337.16005691781601743.mp4\",\"width\":1080,\"height\":1080,\"bitrate\":819278,\"abitrate\":64171,\"size\":7003445,\"fps\":25.0004,\"duration\":63081,\"update_time\":1781601826,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+            }
+          ],
+          "tier_variations": [
+            {
+              "name": "Variation",
+              "options": [
+                "Black",
+                "Blue",
+                "Brown",
+                "Dark Purple",
+                "Green",
+                "Light Purple",
+                "Maroon",
+                "Pink",
+                "Red",
+                "Rose Gold",
+                "Orange",
+                "Grey",
+                "Yellow",
+                "White"
+              ],
+              "images": [
+                "87b81502f151cb68ecd484f801b7711a",
+                "916f56ef5ae365ca17f8e4efb870c9e7",
+                "312b00cf1561cee1f5cac08f621c43b1",
+                "566955fc2c1ac06ee4092bc31afd72d4",
+                "04238ba2015975fe6b4b6e067a14791a",
+                "8aac629901315f7321b513fed5db16c5",
+                "59cf15e5112ee801c509436b751fef00",
+                "be527099be5e79589970c3693b20793b",
+                "20eba8eea89d7fee9a0b5474eea95428",
+                "c92c695372f7781c2e630f91fe884d8b",
+                "sg-11134202-7qve4-li9xnwnccm3u9f",
+                "sg-11134202-7qvfx-li9xo3mg55al98",
+                "sg-11134202-7qve6-li9xo7h6i4xf8d",
+                "sg-11134201-7rasm-mab2rm4pgbyie4"
+              ],
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      },
+      {
+        "item_card_displayed_asset": {
+          "name": "DESSINI ITALY 4 IN 1 Kitchen Knife Scissor Cutting Cleaver Storage Holder Cutlery Organizer / Alatan Dapur Pisau",
+          "image": "sg-11134201-7rdw9-lxuogpon9a3k0f",
+          "images": [
+            "sg-11134201-7rdw9-lxuogpon9a3k0f",
+            "sg-11134201-7rdxz-lxuogqcs9yoa9c",
+            "sg-11134201-7rdym-lxuogqkty6a4f4",
+            "sg-11134201-7rdwi-lxuogqsbom86af",
+            "sg-11134201-7rdxq-lxuogqzjco2xef",
+            "sg-11134201-7rdws-lxuogr7l0w5ma1",
+            "sg-11134201-7rdvv-lxuogrqg9a3qd2",
+            "sg-11134201-7rdy0-lxuogrxnyq14fd",
+            "sg-11134202-7rdw3-lxuogbde7ae8fd"
+          ],
+          "shop_location": null,
+          "highlight_videos": null,
+          "item_card_mask": {
+            "mask_type": null,
+            "mask_text": null,
+            "pre_kyc_text": "Age Verification Required",
+            "post_kyc_text": "Restricted Item",
+            "enable_age_gate_label": false
+          },
+          "icon_in_image": {
+            "icon_type": null,
+            "ads_text": "Ad"
+          },
+          "image_overlay": null,
+          "seller_flag": null,
+          "promotion_label_list": null,
+          "icon_in_price": null,
+          "discount_tag": null,
+          "voucher_applied_icon": null,
+          "rating": {
+            "rating_text": "5.0",
+            "icon": {
+              "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+              "width": 10,
+              "height": 10
+            },
+            "rating_type": 1
+          },
+          "sold_count": {
+            "text": "10k+ sold"
+          },
+          "estimated_delivery_time": null,
+          "free_badge": null,
+          "find_similar": null,
+          "long_image": null,
+          "long_images": null,
+          "top_product_badge": null,
+          "name_tr": null,
+          "shop_location_tr": null,
+          "display_price": {
+            "price": 2980000,
+            "strikethrough_price": null,
+            "hidden_price_display_text": null,
+            "display_price_type": 0,
+            "installment_price": null,
+            "display_price_asset": null
+          },
+          "final_price_icon": null
+        },
+        "item_data": {
+          "itemid": 25033640237,
+          "shopid": 370480745,
+          "is_adult": false,
+          "need_kyc": false,
+          "adult_age_threshold": null,
+          "item_card_display_price": {
+            "item_id": 25033640237,
+            "model_id": 215248488144,
+            "promotion_type": 201,
+            "promotion_id": 473078799086763,
+            "price": 2980000,
+            "strikethrough_price": 12000000,
+            "discount": 75,
+            "hidden_price_display_text": null,
+            "recommended_shop_voucher_promotion_id": null,
+            "recommended_platform_voucher_promotion_id": null,
+            "recommended_shop_voucher_info": null,
+            "recommended_platform_voucher_info": null,
+            "original_price": 12000000,
+            "model_selection_logic": null,
+            "promotion_price": 2980000,
+            "pix_discount_info": null,
+            "recommended_ads_voucher_info": null
+          },
+          "item_card_display_sold_count": {
+            "historical_sold_count": 12662,
+            "monthly_sold_count": 1028,
+            "historical_sold_count_text": "10k+ sold",
+            "monthly_sold_count_text": "1k+ Sold/Month"
+          },
+          "is_sold_out": false,
+          "is_preview": false,
+          "label_ids": [
+            1000084,
+            1143716,
+            700190083,
+            844931064601283,
+            844931086908638,
+            1718087960,
+            1428713,
+            1119699,
+            1000114,
+            1006343,
+            1118580,
+            700025130,
+            700695014,
+            1073699,
+            1118579,
+            998061066,
+            2108630,
+            1004885,
+            700805080,
+            298988385,
+            299103322,
+            1400025181,
+            1115141,
+            822059822081036,
+            827294065223694,
+            299043410,
+            827294065221646,
+            298803373,
+            700960097,
+            2298656,
+            700815066,
+            1588631,
+            839709477894685,
+            1958617,
+            700635078,
+            998031039
+          ],
+          "catid": 100636,
+          "shopee_verified": false,
+          "liked_count": 5918,
+          "item_type": 0,
+          "reference_item_id": null,
+          "shop_data": {
+            "shop_name": "DESSINI Official Store",
+            "shop_icon": null,
+            "shop_location": "Selangor"
+          },
+          "status": 1,
+          "ctime": 1721277731,
+          "flag": 196608,
+          "item_status": "normal",
+          "global_cat": {
+            "catid": [
+              100636,
+              100717,
+              101228
+            ]
+          },
+          "overlay_images": null,
+          "item_rating": {
+            "rating_star": 4.9587824984147115,
+            "rating_count": [
+              3154,
+              6,
+              1,
+              17,
+              69,
+              3061
+            ]
+          },
+          "global_brand": {
+            "brand_id": 2042037,
+            "display_name": null
+          },
+          "platform_voucher": null,
+          "video_info_list": null,
+          "tier_variations": [
+            {
+              "name": null,
+              "options": [
+                ""
+              ],
+              "images": null,
+              "properties": null,
+              "type": 0
+            }
+          ],
+          "ad_voucher_signature": null,
+          "is_sexual": false
+        }
+      }
+    ],
+    "item_tracking_infos": [
+      {
+        "item_id": 8161414992,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:1.072147},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:8161414992",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 11500398059,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:SICF4|spop_v1,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:0.916671},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:11500398059",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 22921888469,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:0.891359},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:22921888469",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 42177073105,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:0.882755},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:42177073105",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 22376046615,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:0.774905},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:22376046615",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 56202752733,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:SICF4|spop_v1,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:0.764068},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:56202752733",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 9212054157,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:0.719466},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:9212054157",
+        "ads_tms_info": "",
+        "ads_id": 0
+      },
+      {
+        "item_id": 25033640237,
+        "is_seller_configured": null,
+        "recommendation_info": "AB:702043|701011|651208|495846|452596|452577|452563|452537|452507|452491|452392|450325|450308|450307|450288|450286|450275|428043|97855|97823|97816|97804|97795|97778|97764|91713|91002|81096|81084|80812|80714|80705|79138|77124|62530|62516|40290|40280|40266,REQID:b11ba3af56b8ca6b79d623f6eee72a00,BND:product_detail_page_ftss,QUES:spop_v1|SICF4,RNK:gpu_shopv5unifymmoe_egov1_my@MY_2137501:{SCORE:0.703837},SECKEY:from_same_shop,ROI:0,DT:1784201530364,SK:b11ba3af56b8ca6b79d623f6eee72a00,CARDID:25033640237",
+        "ads_tms_info": "",
+        "ads_id": 0
+      }
+    ],
+    "translation_status": 0
+  }
+}

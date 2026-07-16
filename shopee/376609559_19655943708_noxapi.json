@@ -1,0 +1,713 @@
+{
+  "success": true,
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "item_id": 19655943708,
+    "product_url": "https://shopee.vn/product/376609559/19655943708",
+    "title": "Giá Treo Quần Áo Kim Loại Đơn Giản Chắc Chắn Tiện Lợi Đa Dạng Mẫu Mã",
+    "images": [
+      "https://cf.shopee.vn/file/sg-11134201-22100-moe26sx4quivac",
+      "https://cf.shopee.vn/file/vn-11134207-7r98o-lqlhtk1vfz1zab",
+      "https://cf.shopee.vn/file/vn-11134207-7r98o-lqlhtk1vvf0y90",
+      "https://cf.shopee.vn/file/vn-11134207-7r98o-lqlhtk1wavjr47",
+      "https://cf.shopee.vn/file/vn-11134207-7r98o-lqlhtk1vu0qf11",
+      "https://cf.shopee.vn/file/vn-11134207-7r98o-lqlhtk1vwtvb16",
+      "https://cf.shopee.vn/file/vn-11134207-7r98o-lqp0pqke95ivab",
+      "https://cf.shopee.vn/file/vn-11134207-7ras8-m2iyofygecvo62",
+      "https://cf.shopee.vn/file/vn-11134207-7ras8-m2iyofygfrg43c"
+    ],
+    "video_url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/vn-11110105-6ke16-lqx07rixshj8a7.default.mp4",
+    "currency": "VND",
+    "brand": null,
+    "brand_id": null,
+    "fe_category_path": [
+      {
+        "catid": 11036670,
+        "display_name": "Nhà Cửa & Đời Sống",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11111665,
+        "display_name": "Chăm sóc nhà cửa và giặt ủi",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11111701,
+        "display_name": "Dây phơi & Giá phơi",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
+    "category_path": [
+      {
+        "catid": 100636,
+        "display_name": "Nhà cửa & Đời sống",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 100716,
+        "display_name": "Dụng cụ chăm sóc nhà cửa",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 101200,
+        "display_name": "Dây phơi & giá phơi quần áo",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
+    "category_id": "101200",
+    "attributes": [
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100121,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Hạn bảo hành",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 776,
+        "value": "1 tháng",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100828,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Trọng lượng được hỗ trợ",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 0,
+        "value": "20kg",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100942,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Kích thước (dài x rộng x cao)",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 0,
+        "value": "110 x 24 x 150",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 101067,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Tên tổ chức chịu trách nhiệm sản xuất",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 0,
+        "value": "sandecor21",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 101068,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Địa chỉ tổ chức chịu trách nhiệm sản xuất",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 0,
+        "value": "hà đông",
+        "value_tr": null
+      }
+    ],
+    "flash_sale": null,
+    "is_pre_order": false,
+    "rating_star": 4.759996639784946,
+    "has_lowest_price_guarantee": false,
+    "sold_count": 0,
+    "global_sold_count": 50589,
+    "local_sold_count": 0,
+    "sold": 24680,
+    "historical_sold_display": "50k+",
+    "global_sold_display": "50k+",
+    "sold_count_display": "50k+",
+    "liked_count": 9168,
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Kho",
+          "value": "CÒN HÀNG"
+        },
+        {
+          "name": "Hạn bảo hành",
+          "value": "1 tháng"
+        },
+        {
+          "name": "Trọng lượng được hỗ trợ",
+          "value": "20kg"
+        },
+        {
+          "name": "Kích thước (dài x rộng x cao)",
+          "value": "110 x 24 x 150"
+        },
+        {
+          "name": "Tên tổ chức chịu trách nhiệm sản xuất",
+          "value": "sandecor21"
+        },
+        {
+          "name": "Địa chỉ tổ chức chịu trách nhiệm sản xuất",
+          "value": "hà đông"
+        },
+        {
+          "name": "Gửi từ",
+          "value": "Hà Nội"
+        }
+      ]
+    },
+    "product_review": {
+      "rating_star": 4.759996639784946,
+      "liked_count": 9168,
+      "cmt_count": 11653,
+      "rating_count": [
+        11913,
+        266,
+        120,
+        316,
+        833,
+        10378
+      ],
+      "historical_sold": 50589,
+      "global_sold": 50589,
+      "sold_count": 0,
+      "historical_sold_display": "50k+",
+      "global_sold_display": "50k+",
+      "sold_count_display": "50k+"
+    },
+    "price_info": {
+      "price": 8300000000,
+      "price_min": 8300000000,
+      "price_max": 41500000000
+    },
+    "bundle_deal_info": null,
+    "description": "Hàng nhập khẩu khác biệt rất lớn so với hàng sản xuất tại Việt Nam\n\nTHÔNG TIN SẢN PHẨM :\n- Chất liệu: Kim lọai\n- Kích thước : 110 x 54 x 128 (cm)\n- Mầu sắc: Đen , Trắng\n\nCÔNG DỤNG: \n- Dùng để treo và cất giữ quần áo trong phòng ngủ thay thế tủ đồ.\n- Shop thời trang treo các sản phẩm quần áo .\n- Phù hợp với các căn hộ nhỏ, chung cư, dịch vụ homestay,...\n- Dễ dàng tháo lắp, di chuyển & tùy biến mục đích sử dụng theo ý muốn.\n- Kệ thiết kế gồm 3 ngăn 4 tầng giúp sắp xếp nhiều đồ dùng, quần áo gia đình.\n- Ngoài quần áo, sản phẩm còn thuận tiện đặt để các loại chăn màn, túi xách, giày dép…\n- Khung bằng sắt sơn tĩnh điện chắc chắn, ngăn để đồ bằng vải không dệt bền đẹp.\n- Kiểu dáng nhỏ gọn, đẹp mắt, phù hợp với nhiều không gian nhà ở.\n- Kệ treo quần áo đa năng là sản phẩm mới, được thiết kế hiện đại, nhỏ gọn, tiện dụng chắc chắn với nhiều tầng giúp bạn treo và để được rất nhiều quần áo, chăn màn, túi xách,cùng các vật dụng gia đình.\n\nHƯỚNG DẪN SỬ DỤNG:\n- Sản phẩm tự lắp ráp, nguyên kiện bao gồm bộ dụng cụ lắp ráp, hình ảnh & Video hướng dẫn sử dụng.\n\nCHÍNH SÁCH BẢO HÀNH:\n- Bảo hành 1 đổi 1 miễn phí trong vòng 7 ngày nếu sản phẩm có lỗi kĩ thuật.\n- Bảo hành chất lượng sản phẩm 12 tháng.\n- Chăm sóc & tư vấn trọn đời.\n\n#noithat #vhome #noithatlaprap #noithatkieuhan #noithathanquoc #giatreodo #caytreodo #ketreodo #giatreoquanao #giatreodo #ahanger2fm#kechua #giakego #kegochua #noithathanquoc #noithatkieuhan #ke #quanao #treo ",
+    "desc_obj": null,
+    "comment_count": 11653,
+    "delivery_info": {
+      "area_from": "Hà Nội",
+      "is_free_shipping": null,
+      "postage": 0,
+      "price_info_default": {
+        "price": -1,
+        "price_min": -1,
+        "price_max": -1,
+        "free_shipping_threshold": "",
+        "warning": ""
+      }
+    },
+    "shop_info": {
+      "shop_id": 376609559,
+      "shop_name": "SAN decor21",
+      "shop_url": "https://shopee.vn/shop/376609559",
+      "shop_location": "Hà Nội",
+      "shopee_verified": false,
+      "is_cb": false,
+      "is_official_shop": false,
+      "is_mart": false,
+      "is_preferred_plus_seller": false,
+      "all_items_count": 232
+    },
+    "shop_vouchers": null,
+    "size_chart": "",
+    "sku_props": [
+      {
+        "pid": "1",
+        "prop_name": "Phân loại",
+        "values": [
+          {
+            "vid": "1",
+            "name": "2 Giàn 2 Tầng",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfp40ih9a"
+          },
+          {
+            "vid": "2",
+            "name": "2 Giàn 1 Tầng",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfp5f2xa3"
+          },
+          {
+            "vid": "3",
+            "name": "1 Giàn 1 Tầng",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfp6tnd14"
+          },
+          {
+            "vid": "4",
+            "name": "1 Giàn 2 Tầng",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfp887tbf"
+          },
+          {
+            "vid": "5",
+            "name": "Kệ Giày 4T",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfp9ms905"
+          },
+          {
+            "vid": "6",
+            "name": "2G1T (Mã 13/14+B.Xe)",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lyne1fg12qapae"
+          },
+          {
+            "vid": "7",
+            "name": "2G1T To Có B.xe",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfpcfx51f"
+          },
+          {
+            "vid": "8",
+            "name": "2G2T To Có B.xe",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfpduhlb2"
+          },
+          {
+            "vid": "9",
+            "name": "Kệ 6T",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfpf9216e"
+          },
+          {
+            "vid": "10",
+            "name": "Kệ 5T",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwgtfpgnmhae"
+          },
+          {
+            "vid": "11",
+            "name": "Giày 5T Có Nắp_77cm",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7ras8-m19izwk2ij4o39"
+          },
+          {
+            "vid": "12",
+            "name": "A2T Có Bánh Xe",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwlhn303h55f"
+          },
+          {
+            "vid": "13",
+            "name": "Kệ Góc V",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lrdwlhn31i1l57"
+          },
+          {
+            "vid": "14",
+            "name": "2G2T (Mã 22/23+B.Xe)",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7r98o-lyne388y8s69ad"
+          },
+          {
+            "vid": "15",
+            "name": "2G1T Nối Nhựa",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7ras8-m2iyoyfjehteef"
+          },
+          {
+            "vid": "16",
+            "name": "1G1T Nối Nhựa",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7ras8-m2iyp13jglo4f9"
+          },
+          {
+            "vid": "17",
+            "name": "2G1T Thanh Ngang",
+            "imageUrl": "https://cf.shopee.vn/file/vn-11134207-7ras8-m2iyp3otjliqf1"
+          }
+        ]
+      }
+    ],
+    "skus": [
+      {
+        "skuid": "138858352435",
+        "sale_price": 15000000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:13",
+        "props_names": "Kệ Góc V,Trắng",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "138858352423",
+        "sale_price": 41500000000,
+        "origin_price": 0,
+        "stock": 9682,
+        "props_ids": "1:8",
+        "props_names": "2G2T To Có B.xe,Đen",
+        "discount": 0,
+        "sold_count": 485,
+        "status": 1
+      },
+      {
+        "skuid": "217970414973",
+        "sale_price": 19900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:15",
+        "props_names": "2G1T Nối Nhựa,Trắng",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "246334332080",
+        "sale_price": 26900000000,
+        "origin_price": 32000000000,
+        "stock": 2264,
+        "props_ids": "1:14",
+        "props_names": "2G2T (Mã 22/23+B.Xe),Đen",
+        "discount": 0,
+        "sold_count": 366,
+        "status": 1
+      },
+      {
+        "skuid": "138858352414",
+        "sale_price": 12200000000,
+        "origin_price": 16000000000,
+        "stock": 9623,
+        "props_ids": "1:3",
+        "props_names": "1 Giàn 1 Tầng,Trắng",
+        "discount": 0,
+        "sold_count": 782,
+        "status": 1
+      },
+      {
+        "skuid": "138858352422",
+        "sale_price": 29900000000,
+        "origin_price": 39900000000,
+        "stock": 9936,
+        "props_ids": "1:7",
+        "props_names": "2G1T To Có B.xe,Trắng",
+        "discount": 0,
+        "sold_count": 99,
+        "status": 1
+      },
+      {
+        "skuid": "138858352429",
+        "sale_price": 15000000000,
+        "origin_price": 20500000000,
+        "stock": 9844,
+        "props_ids": "1:11",
+        "props_names": "Giày 5T Có Nắp_77cm,Đen",
+        "discount": 0,
+        "sold_count": 70,
+        "status": 1
+      },
+      {
+        "skuid": "138858352412",
+        "sale_price": 16200000000,
+        "origin_price": 25000000000,
+        "stock": 8197,
+        "props_ids": "1:2",
+        "props_names": "2 Giàn 1 Tầng,Trắng",
+        "discount": 0,
+        "sold_count": 2511,
+        "status": 1
+      },
+      {
+        "skuid": "138858352427",
+        "sale_price": 9900000000,
+        "origin_price": 16900000000,
+        "stock": 9992,
+        "props_ids": "1:10",
+        "props_names": "Kệ 5T,Đen",
+        "discount": 0,
+        "sold_count": 23,
+        "status": 1
+      },
+      {
+        "skuid": "138858352434",
+        "sale_price": 9500000000,
+        "origin_price": 15000000000,
+        "stock": 9392,
+        "props_ids": "1:13",
+        "props_names": "Kệ Góc V,Đen",
+        "discount": 0,
+        "sold_count": 84,
+        "status": 1
+      },
+      {
+        "skuid": "217970414976",
+        "sale_price": 19900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:17",
+        "props_names": "2G1T Thanh Ngang,Đen",
+        "discount": 0,
+        "sold_count": 167,
+        "status": 1
+      },
+      {
+        "skuid": "138858352431",
+        "sale_price": 20500000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:11",
+        "props_names": "Giày 5T Có Nắp_77cm,Trắng",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "217970414975",
+        "sale_price": 15900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:16",
+        "props_names": "1G1T Nối Nhựa,Trắng",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "138858352409",
+        "sale_price": 22200000000,
+        "origin_price": 31500000000,
+        "stock": 57775,
+        "props_ids": "1:1",
+        "props_names": "2 Giàn 2 Tầng,Đen",
+        "discount": 0,
+        "sold_count": 4992,
+        "status": 1
+      },
+      {
+        "skuid": "138858352419",
+        "sale_price": 18900000000,
+        "origin_price": 21500000000,
+        "stock": 1591,
+        "props_ids": "1:6",
+        "props_names": "2G1T (Mã 13/14+B.Xe),Đen",
+        "discount": 0,
+        "sold_count": 376,
+        "status": 1
+      },
+      {
+        "skuid": "138858352421",
+        "sale_price": 29900000000,
+        "origin_price": 39900000000,
+        "stock": 9804,
+        "props_ids": "1:7",
+        "props_names": "2G1T To Có B.xe,Đen",
+        "discount": 0,
+        "sold_count": 357,
+        "status": 1
+      },
+      {
+        "skuid": "138858352425",
+        "sale_price": 11000000000,
+        "origin_price": 17900000000,
+        "stock": 9970,
+        "props_ids": "1:9",
+        "props_names": "Kệ 6T,Đen",
+        "discount": 0,
+        "sold_count": 59,
+        "status": 1
+      },
+      {
+        "skuid": "217970414972",
+        "sale_price": 15900000000,
+        "origin_price": 19900000000,
+        "stock": 7847,
+        "props_ids": "1:15",
+        "props_names": "2G1T Nối Nhựa,Đen",
+        "discount": 0,
+        "sold_count": 985,
+        "status": 1
+      },
+      {
+        "skuid": "138858352433",
+        "sale_price": 20500000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:12",
+        "props_names": "A2T Có Bánh Xe,Trắng",
+        "discount": 0,
+        "sold_count": 44,
+        "status": 1
+      },
+      {
+        "skuid": "138858352410",
+        "sale_price": 22200000000,
+        "origin_price": 31500000000,
+        "stock": 79906,
+        "props_ids": "1:1",
+        "props_names": "2 Giàn 2 Tầng,Trắng",
+        "discount": 0,
+        "sold_count": 831,
+        "status": 1
+      },
+      {
+        "skuid": "138858352426",
+        "sale_price": 17900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:9",
+        "props_names": "Kệ 6T,Trắng",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "138858352416",
+        "sale_price": 21200000000,
+        "origin_price": 29900000000,
+        "stock": 2389,
+        "props_ids": "1:4",
+        "props_names": "1 Giàn 2 Tầng,Trắng",
+        "discount": 0,
+        "sold_count": 124,
+        "status": 1
+      },
+      {
+        "skuid": "138858352411",
+        "sale_price": 16200000000,
+        "origin_price": 25000000000,
+        "stock": 350,
+        "props_ids": "1:2",
+        "props_names": "2 Giàn 1 Tầng,Đen",
+        "discount": 0,
+        "sold_count": 8139,
+        "status": 1
+      },
+      {
+        "skuid": "217970414977",
+        "sale_price": 19900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:17",
+        "props_names": "2G1T Thanh Ngang,Trắng",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "138858352428",
+        "sale_price": 16900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:10",
+        "props_names": "Kệ 5T,Trắng",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "138858352432",
+        "sale_price": 20500000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:12",
+        "props_names": "A2T Có Bánh Xe,Đen",
+        "discount": 0,
+        "sold_count": 132,
+        "status": 1
+      },
+      {
+        "skuid": "217970414974",
+        "sale_price": 11900000000,
+        "origin_price": 15900000000,
+        "stock": 8701,
+        "props_ids": "1:16",
+        "props_names": "1G1T Nối Nhựa,Đen",
+        "discount": 0,
+        "sold_count": 204,
+        "status": 1
+      },
+      {
+        "skuid": "138858352420",
+        "sale_price": 19800000000,
+        "origin_price": 21500000000,
+        "stock": 9865,
+        "props_ids": "1:6",
+        "props_names": "2G1T (Mã 13/14+B.Xe),Trắng",
+        "discount": 0,
+        "sold_count": 171,
+        "status": 1
+      },
+      {
+        "skuid": "246334332081",
+        "sale_price": 26900000000,
+        "origin_price": 32000000000,
+        "stock": 1903,
+        "props_ids": "1:14",
+        "props_names": "2G2T (Mã 22/23+B.Xe),Trắng",
+        "discount": 0,
+        "sold_count": 87,
+        "status": 1
+      },
+      {
+        "skuid": "138858352417",
+        "sale_price": 8300000000,
+        "origin_price": 9900000000,
+        "stock": 8970,
+        "props_ids": "1:5",
+        "props_names": "Kệ Giày 4T,Đen",
+        "discount": 0,
+        "sold_count": 496,
+        "status": 1
+      },
+      {
+        "skuid": "138858352424",
+        "sale_price": 38000000000,
+        "origin_price": 41500000000,
+        "stock": 1835,
+        "props_ids": "1:8",
+        "props_names": "2G2T To Có B.xe,Trắng",
+        "discount": 0,
+        "sold_count": 179,
+        "status": 1
+      },
+      {
+        "skuid": "138858352418",
+        "sale_price": 9900000000,
+        "origin_price": 0,
+        "stock": 0,
+        "props_ids": "1:5",
+        "props_names": "Kệ Giày 4T,Trắng",
+        "discount": 0,
+        "sold_count": 86,
+        "status": 1
+      },
+      {
+        "skuid": "138858352413",
+        "sale_price": 12200000000,
+        "origin_price": 16000000000,
+        "stock": 8714,
+        "props_ids": "1:3",
+        "props_names": "1 Giàn 1 Tầng,Đen",
+        "discount": 0,
+        "sold_count": 2664,
+        "status": 1
+      },
+      {
+        "skuid": "138858352415",
+        "sale_price": 20500000000,
+        "origin_price": 29900000000,
+        "stock": 1819,
+        "props_ids": "1:4",
+        "props_names": "1 Giàn 2 Tầng,Đen",
+        "discount": 0,
+        "sold_count": 167,
+        "status": 1
+      }
+    ],
+    "stock": 280369,
+    "status": 1,
+    "content": ""
+  }
+}

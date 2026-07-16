@@ -1,0 +1,364 @@
+{
+  "success": true,
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "item_id": 26916591882,
+    "product_url": "https://shopee.co.th/product/1373799899/26916591882",
+    "title": "แพมเพิสเด็ก 1 แถม 1 Penbose แพมเพิส Baby Pants ผ้าอ้อมเด็ก Diaper S/M/L/XL/XXL/XXXL เด็ก ผ้าอ้อม",
+    "images": [
+      "https://cf.shopee.co.th/file/th-11134207-7rasj-m27ve0pcmeap85",
+      "https://cf.shopee.co.th/file/th-11134207-7rasi-m27vefgz0fj88e",
+      "https://cf.shopee.co.th/file/th-11134207-7rask-m27vei09c92921",
+      "https://cf.shopee.co.th/file/th-11134207-7rash-m27vekb7xfvo2e",
+      "https://cf.shopee.co.th/file/th-11134207-7rasb-m27vem4fa0v532",
+      "https://cf.shopee.co.th/file/th-11134207-7rasc-m27veqrqh6lg5e",
+      "https://cf.shopee.co.th/file/th-11134207-7rasf-m27vesm1s541cd",
+      "https://cf.shopee.co.th/file/th-11134207-7rasm-m27veul2w71gf0",
+      "https://cf.shopee.co.th/file/th-11134207-7rask-m27vex3988gx3b"
+    ],
+    "video_url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/th-11110105-6kgci-m27vf3wt8w4k41.default.mp4",
+    "currency": "THB",
+    "brand": "Penbose(เพนโบส)",
+    "brand_id": 4823533,
+    "fe_category_path": [
+      {
+        "catid": 11044960,
+        "display_name": "Baby & Toys",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11045218,
+        "display_name": "Diapers & Wipes",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11046127,
+        "display_name": "Tape & Pants Disposable Diapers",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
+    "category_path": [
+      {
+        "catid": 100632,
+        "display_name": "แม่และเด็ก",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 100683,
+        "display_name": "ผ้าอ้อมเด็ก",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 101003,
+        "display_name": "ผ้าอ้อมสำเร็จรูป",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
+    "category_id": "101003",
+    "attributes": [
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100128,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Diaper Size",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 1101,
+        "value": "Large (8-12kg)",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100132,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Diaper Type",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 1102,
+        "value": "Diaper Pants",
+        "value_tr": null
+      },
+      {
+        "brand_id": null,
+        "brand_option": null,
+        "full_url": null,
+        "id": 100022,
+        "is_timestamp": false,
+        "item_attribute_type": null,
+        "name": "Gender",
+        "name_tr": null,
+        "type": null,
+        "url": null,
+        "val_id": 674,
+        "value": "Unisex",
+        "value_tr": null
+      }
+    ],
+    "flash_sale": null,
+    "is_pre_order": false,
+    "rating_star": 4.8907466650570415,
+    "has_lowest_price_guarantee": false,
+    "sold_count": 0,
+    "global_sold_count": 0,
+    "local_sold_count": 0,
+    "sold": 0,
+    "historical_sold_display": "60k+",
+    "global_sold_display": "60k+",
+    "sold_count_display": "60k+",
+    "liked_count": 5823,
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stock",
+          "value": "IN STOCK"
+        },
+        {
+          "name": "Brand",
+          "value": "Penbose(เพนโบส)"
+        },
+        {
+          "name": "Diaper Size",
+          "value": "Large (8-12kg)"
+        },
+        {
+          "name": "Diaper Type",
+          "value": "Diaper Pants"
+        },
+        {
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "name": "Ships From",
+          "value": "จังหวัดกรุงเทพมหานคร"
+        }
+      ]
+    },
+    "product_review": {
+      "rating_star": 4.8907466650570415,
+      "liked_count": 5823,
+      "cmt_count": 16569,
+      "rating_count": [
+        16569,
+        82,
+        36,
+        265,
+        844,
+        15342
+      ],
+      "historical_sold": 0,
+      "global_sold": 0,
+      "sold_count": 0,
+      "historical_sold_display": "60k+",
+      "global_sold_display": "60k+",
+      "sold_count_display": "60k+"
+    },
+    "price_info": {
+      "price": 19700000,
+      "price_min": 19700000,
+      "price_max": 33900000
+    },
+    "bundle_deal_info": null,
+    "description": "เหตุใดจึงควรเลือก PENBOSE ?\n\nเราได้ยินคุณแม่หลายคนกังวลเกี่ยวกับแบรนด์ผ้าอ้อมแบบดั้งเดิม\n\nหลังจากที่ใช้เวลาหลายปีในการพัฒนาสิ่งที่เราเชื่อว่าเป็นผ้าอ้อมที่ดีที่สุดและปลอดภัยที่สุดสำหรับทารกที่เรารัก ต่อไปนี้คือข้อดีหลักๆ ที่ลูกน้อยของคุณจะต้องชอบ\n\nผ้าอ้อมแห้งเร็ว PENBOSE มั่นใจว่าจะดูแลลูกน้อยของคุณอย่างดีที่สุดที่พวกเขาสมควรได้รับโดยมอบความสบายด้วยเทคโนโลยีดูดซับพิเศษเพื่อป้องกันการระคายเคืองผิวหนังและผื่นผ้าอ้อม\n\nส่วนที่ดีที่สุดคือ ผลิตจากผ้าหุ้มด้านนอกที่ระบายอากาศได้และมีตัวบ่งชี้ความชื้นเพื่อให้ผิวของลูกน้อยของคุณแห้งอยู่เสมอ ทำให้ PENBOSE เป็นเพื่อนที่ดีที่สุดของคุณทั้งกลางวันและกลางคืน!\n\n✅ อ่อนโยน ไม่ระคายเคือง\n\n✅ ออกแบบมาเพื่อดูแลผิวบอบบางแพ้ง่าย ปราศจากน้ำหอมและสารก่อภูมิแพ้\n\n✅ ผ้าอ้อมแบบบางพิเศษ 100% ให้ความสบายและ \n\n✅ ผ้าปูที่นอนด้านบนที่นุ่มเป็นพิเศษช่วยให้ลูกน้อยแห้งสบายตลอดทั้งคืน \n\n✅ การดูดซับคุณภาพเยี่ยมเพื่อกักเก็บความชื้นให้ห่างจากผิวของทารก\n\n✅ วัสดุดิบที่ระบายอากาศได้ดีช่วยปกป้องผิวของทารกและทำให้ทารกรู้สึกสบายตัว\n\n💗 คงความเปลือยเปล่าตามธรรมชาติของผิวที่อ่อนโยนเช่นเดิม\n\n💗 วัตถุดิบนำเข้าจากเทคโนโลยีขั้นสูงเพื่อให้การปกป้องที่ปลอดภัยสูง\n\n✅【ขนาดสินค้า】:\n\n👶🏻เทปติดผ้าอ้อม :\n\n- ขนาด :\n\nS / 50 ชิ้น ( 4-8กก. )\n\nM / 50 ชิ้น ( 6-11กก. )\n\nL / 50 ชิ้น ( 9-14กก. )\n\n👶🏻กางเกงผ้าอ้อม :\n\n- ขนาด :\n\nM / 50 ชิ้น ( 6-11กก. )\n\nL / 50 ชิ้น ( 9-14กก. )\n\nXL / 50 ชิ้น ( 12-17กก. )\n\nXXL / 50 ชิ้น ( ≥15กก. )\n\n3XL / 50 ชิ้น ( ≥17กก. )\n\n✅【ข้อมูลจำเพาะสินค้า】:\n\n👶🏻 หนึ่งแพ็ค\n\n#กางเกงผ้าอ้อม  #แพมเพิส #แพมเพิสเด็ก #ผ้าอ้อมเด็ก #ผ้าอ้อมสําเร็จรูป #ผ้าอ้อม #กางเกงผ้าอ้อมเด็ก #ผ้าอ้อมแบบกางเกง #Penbose",
+    "desc_obj": null,
+    "comment_count": 16569,
+    "delivery_info": {
+      "area_from": "จังหวัดกรุงเทพมหานคร",
+      "is_free_shipping": true,
+      "postage": 0,
+      "price_info_default": {
+        "price": -1,
+        "price_min": -1,
+        "price_max": -1,
+        "free_shipping_threshold": "",
+        "warning": ""
+      }
+    },
+    "shop_info": {
+      "shop_id": 1373799899,
+      "shop_name": "Penbose-TH",
+      "shop_url": "https://shopee.co.th/shop/1373799899",
+      "shop_location": "",
+      "shopee_verified": false,
+      "is_cb": false,
+      "is_official_shop": false,
+      "is_mart": false,
+      "is_preferred_plus_seller": false,
+      "all_items_count": 16
+    },
+    "shop_vouchers": null,
+    "size_chart": "",
+    "sku_props": [
+      {
+        "pid": "1",
+        "prop_name": "SIZE",
+        "values": [
+          {
+            "vid": "1",
+            "name": "แบบกางเกง M 100 ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rasm-m8cv9moh38qx2e"
+          },
+          {
+            "vid": "2",
+            "name": "แบบกางเกง L 100 ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rasa-m8cv9o1b3scv4e"
+          },
+          {
+            "vid": "3",
+            "name": "แบบกางเกง XL 100ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rasa-m8cv9qsd5mvde8"
+          },
+          {
+            "vid": "4",
+            "name": "แบบกางเกงXXL 100ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7ras9-m8cv9v8gkjtba1"
+          },
+          {
+            "vid": "5",
+            "name": "แบบกางเกง3XL 100ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rash-m8cv9xz8jzt56f"
+          },
+          {
+            "vid": "6",
+            "name": "เทป S 100 ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rask-m8cva05hj49bca"
+          },
+          {
+            "vid": "7",
+            "name": "เทป M 100 ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rasg-m8cva23yicy175"
+          },
+          {
+            "vid": "8",
+            "name": "เทป L 100 ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rasi-m8cva4vah07jca"
+          },
+          {
+            "vid": "9",
+            "name": "เทป S 60 ชิ้น",
+            "imageUrl": "https://cf.shopee.co.th/file/th-11134207-7rasb-m8cvac6vr9jd6a"
+          }
+        ]
+      }
+    ],
+    "skus": [
+      {
+        "skuid": "233421516854",
+        "sale_price": 30100000,
+        "origin_price": 80000000,
+        "stock": 0,
+        "props_ids": "1:1",
+        "props_names": "แบบกางเกง M 100 ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "233421516857",
+        "sale_price": 33900000,
+        "origin_price": 81600000,
+        "stock": 0,
+        "props_ids": "1:4",
+        "props_names": "แบบกางเกงXXL 100ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "233421516855",
+        "sale_price": 31100000,
+        "origin_price": 80000000,
+        "stock": 0,
+        "props_ids": "1:2",
+        "props_names": "แบบกางเกง L 100 ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "233421516850",
+        "sale_price": 33900000,
+        "origin_price": 81600000,
+        "stock": 0,
+        "props_ids": "1:5",
+        "props_names": "แบบกางเกง3XL 100ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "233421516853",
+        "sale_price": 30100000,
+        "origin_price": 80000000,
+        "stock": 0,
+        "props_ids": "1:8",
+        "props_names": "เทป L 100 ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "233421516856",
+        "sale_price": 33100000,
+        "origin_price": 80800000,
+        "stock": 0,
+        "props_ids": "1:3",
+        "props_names": "แบบกางเกง XL 100ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "243108405048",
+        "sale_price": 19700000,
+        "origin_price": 29900000,
+        "stock": 0,
+        "props_ids": "1:9",
+        "props_names": "เทป S 60 ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "233421516851",
+        "sale_price": 23900000,
+        "origin_price": 77600000,
+        "stock": 0,
+        "props_ids": "1:6",
+        "props_names": "เทป S 100 ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      },
+      {
+        "skuid": "233421516852",
+        "sale_price": 30100000,
+        "origin_price": 80000000,
+        "stock": 0,
+        "props_ids": "1:7",
+        "props_names": "เทป M 100 ชิ้น",
+        "discount": 0,
+        "sold_count": 0,
+        "status": 1
+      }
+    ],
+    "stock": 0,
+    "status": 1,
+    "content": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "region": "ID",
+  "shop_id": "451021432",
+  "item_id": "23285088262",
+  "product_url": "https://shopee.co.id/product/451021432/23285088262",
+  "page_title": "COD-Hieen M10 TWS Wireless Bluetooth Earphone In Ear Headset Noise-Cancelling Bluetooth Headset 10D bass stereo HiFi HD LED Displa | Shopee Indonesia",
+  "captured_count": 2,
+  "captured_urls": [
+    "https://shopee.co.id/api/v4/pdp/get_pc?item_id=23285088262&shop_id=451021432&tz_offset_in_minutes=300&detail_level=0&incoming_pdp_page_source=0&incoming_pdp_page_scenario=0",
+    "https://shopee.co.id/api/v4/pdp/hot_sales/get_item_cards?item_id=23285088262&limit=8&offset=0&shop_id=451021432"
+  ],
+  "cookies_file": "451021432_nodriver_cookies.json",
+  "cookie_count": 23,
+  "success": true,
+  "attempts": 1
+}
