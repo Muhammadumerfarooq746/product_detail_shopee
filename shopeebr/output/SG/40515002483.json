@@ -1,0 +1,4596 @@
+{
+  "region": "SG",
+  "shop_id": "268706552",
+  "item_id": "40515002483",
+  "product_url": "https://shopee.sg/product/268706552/40515002483",
+  "pdp_get_pc": {
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+      "item": {
+        "item_id": 40515002483,
+        "shop_id": 268706552,
+        "item_status": "normal",
+        "status": 1,
+        "item_type": 0,
+        "reference_item_id": "",
+        "title": "Zenyum Water Flosser Jet Nozzle Tips - 4pcs",
+        "image": "sg-11134207-7req3-mdu6eic12y5xca",
+        "label_ids": [
+          1000035,
+          22,
+          700025219,
+          298843359,
+          1400020252,
+          1400025225,
+          1400620060,
+          1400095021,
+          1007622,
+          1010074,
+          1428754,
+          1011653,
+          1015756,
+          1014936,
+          844931064601283,
+          822059734999051,
+          840681033054223,
+          843079680351338,
+          700445044,
+          700630038,
+          1718087960,
+          1428713,
+          1993633,
+          1988643,
+          1119699,
+          2018639,
+          2208609,
+          298733331,
+          298733330,
+          2213585,
+          2318721,
+          1718387964,
+          1718393030,
+          843158296243269,
+          822120593197072,
+          839720755463713,
+          843080294716568,
+          843080294718104,
+          298788312,
+          998031006,
+          814381247146502,
+          700815075,
+          298888328
+        ],
+        "is_adult": false,
+        "is_preview": false,
+        "flag": 268566528,
+        "is_service_by_shopee": true,
+        "condition": 1,
+        "cat_id": 100010,
+        "has_low_fulfillment_rate": false,
+        "is_live_streaming_price": null,
+        "currency": "SGD",
+        "brand": "Zenyum",
+        "brand_id": 1233278,
+        "show_discount": 20,
+        "ctime": 1756115988,
+        "item_rating": {
+          "rating_star": 4.333333333333333
+        },
+        "cb_option": 0,
+        "has_model_with_available_shopee_stock": true,
+        "shop_location": "SG",
+        "attributes": [
+          {
+            "name": "Safety Mark",
+            "value": "-",
+            "id": 100961,
+            "is_timestamp": false,
+            "brand_option": null,
+            "val_id": 0,
+            "url": null,
+            "brand_id": null,
+            "full_url": null,
+            "type": null,
+            "item_attribute_type": null,
+            "name_tr": null,
+            "value_tr": null
+          }
+        ],
+        "rich_text_description": {
+          "paragraph_list": [
+            {
+              "type": 0,
+              "text": "Includes: Zenyum Water Flosser Jet Nozzle Tips Set - 4pcs",
+              "img_id": null,
+              "ratio": null,
+              "description_type": 1,
+              "empty_paragraph_count": null
+            },
+            {
+              "type": 10001,
+              "text": null,
+              "img_id": null,
+              "ratio": null,
+              "description_type": 1,
+              "empty_paragraph_count": 1
+            },
+            {
+              "type": 1,
+              "text": null,
+              "img_id": "sg-11134208-7repn-mdvbska2s88z34",
+              "ratio": 0.567,
+              "description_type": 1,
+              "empty_paragraph_count": null
+            },
+            {
+              "type": 1,
+              "text": null,
+              "img_id": "sg-11134208-7reoj-mdvbska2qtoj61",
+              "ratio": 0.571,
+              "description_type": 1,
+              "empty_paragraph_count": null
+            },
+            {
+              "type": 1,
+              "text": null,
+              "img_id": "sg-11134208-7req1-mdvbska2pf431f",
+              "ratio": 0.611,
+              "description_type": 1,
+              "empty_paragraph_count": null
+            },
+            {
+              "type": 1,
+              "text": null,
+              "img_id": "sg-11134208-7repp-mdvbska2o0jnbd",
+              "ratio": 0.682,
+              "description_type": 1,
+              "empty_paragraph_count": null
+            },
+            {
+              "type": 1,
+              "text": null,
+              "img_id": "sg-11134208-7reom-mdvbska2mlz761",
+              "ratio": 0.902,
+              "description_type": 1,
+              "empty_paragraph_count": null
+            }
+          ],
+          "source_language": null
+        },
+        "invoice_option": null,
+        "is_category_failed": null,
+        "is_prescription_item": false,
+        "preview_info": null,
+        "show_prescription_feed": false,
+        "is_alcohol_product": false,
+        "is_infant_milk_formula_product": false,
+        "is_unavailable": false,
+        "is_partial_fulfilled": true,
+        "is_presale": false,
+        "is_presale_deposit_item": null,
+        "is_presale_deposit_made": null,
+        "description": "Includes: Zenyum Water Flosser Jet Nozzle Tips Set - 4pcs\n\n\n\n\n\n\n\n\n\n",
+        "categories": [
+          {
+            "catid": 100010,
+            "display_name": "Home Appliances",
+            "no_sub": false,
+            "is_default_subcat": false
+          },
+          {
+            "catid": 100038,
+            "display_name": "Small Household Appliances",
+            "no_sub": false,
+            "is_default_subcat": false
+          },
+          {
+            "catid": 100172,
+            "display_name": "Water Flossers",
+            "no_sub": true,
+            "is_default_subcat": false
+          }
+        ],
+        "fe_categories": [
+          {
+            "catid": 11027421,
+            "display_name": "Home Appliances",
+            "no_sub": false,
+            "is_default_subcat": false
+          },
+          {
+            "catid": 11027478,
+            "display_name": "Tools & Small Appliances",
+            "no_sub": false,
+            "is_default_subcat": false
+          },
+          {
+            "catid": 11027483,
+            "display_name": "Others",
+            "no_sub": true,
+            "is_default_subcat": false
+          }
+        ],
+        "item_has_video": false,
+        "presale_dday_start_time": null,
+        "is_lowest_price_at_shopee": null,
+        "display_description_disclosure_rsku_redirection": null,
+        "display_similar_sold": null,
+        "title_type": 1,
+        "authorized_brand_name": null,
+        "is_sexual": false,
+        "models": [
+          {
+            "item_id": 40515002483,
+            "status": 1,
+            "current_promotion_reserved_stock": null,
+            "name": "",
+            "promotion_id": 474268626464789,
+            "price": 3690000,
+            "price_stocks": [
+              {
+                "allocated_stock": null,
+                "stock_breakdown_by_location": null,
+                "promotion_type": 301
+              },
+              {
+                "allocated_stock": null,
+                "stock_breakdown_by_location": null,
+                "promotion_type": 0
+              }
+            ],
+            "current_promotion_has_reserve_stock": false,
+            "normal_stock": null,
+            "extinfo": {
+              "tier_index": [
+                0
+              ],
+              "is_pre_order": false,
+              "estimated_days": 1,
+              "sku_image": ""
+            },
+            "price_before_discount": 4590000,
+            "model_id": 261242556543,
+            "stock": null,
+            "has_gimmick_tag": false,
+            "key_measurement": null,
+            "sold": null,
+            "is_lowest_price_at_shopee": false,
+            "name_tr": null,
+            "is_clickable": true,
+            "is_grayout": false,
+            "has_stock": true
+          }
+        ],
+        "tier_variations": [
+          {
+            "name": "",
+            "options": [
+              ""
+            ],
+            "images": null,
+            "properties": null,
+            "type": 0,
+            "summed_stocks": null,
+            "display_indicators": [
+              0
+            ],
+            "name_tr": null,
+            "options_tr": null,
+            "selling_points": [
+              ""
+            ],
+            "selling_points_tr": null
+          }
+        ],
+        "size_chart": null,
+        "size_chart_info": null,
+        "welcome_package_type": null,
+        "is_free_gift": false,
+        "deep_discount": null,
+        "is_low_price_eligible": null,
+        "bundle_deal_info": null,
+        "add_on_deal_info": null,
+        "shipping_icon_type": 0,
+        "badge_icon_type": 11,
+        "spl_info": null,
+        "estimated_days": 1,
+        "is_pre_order": false,
+        "is_free_shipping": false,
+        "overall_purchase_limit": null,
+        "min_purchase_limit": 1,
+        "is_hide_stock": false,
+        "stock": null,
+        "normal_stock": null,
+        "current_promotion_reserved_stock": null,
+        "can_use_wholesale": false,
+        "wholesale_tier_list": [],
+        "price": 3690000,
+        "raw_discount": 20,
+        "hidden_price_display": null,
+        "price_min": 3690000,
+        "price_max": 3690000,
+        "price_before_discount": 4590000,
+        "price_min_before_discount": 4590000,
+        "price_max_before_discount": 4590000,
+        "other_stock": null,
+        "discount_stock": null,
+        "current_promotion_has_reserve_stock": false,
+        "complaint_policy": null,
+        "show_recycling_info": null,
+        "should_show_amp_tag": true,
+        "all_models_has_pre_order": false,
+        "is_item_inherited": false,
+        "max_quantity": null,
+        "drug_details": null,
+        "selected_real_models": null,
+        "size_tier_variation_idx": null,
+        "is_fashion_item": false,
+        "social_proof_label": null,
+        "title_tr": null,
+        "description_tr": null,
+        "rich_text_description_tr": null,
+        "stock_display": null,
+        "max_quantity_display": "56 pieces available",
+        "disclaimer": null
+      },
+      "account": {
+        "user_id": null,
+        "is_new_user": null,
+        "default_address": {
+          "state": "",
+          "city": "",
+          "district": "",
+          "town": "",
+          "zip_code": "",
+          "address": null,
+          "region": null,
+          "longitude": null,
+          "latitude": null,
+          "vn_data_version": ""
+        },
+        "adult_consent": null,
+        "birth_timestamp": null
+      },
+      "product_images": {
+        "video": null,
+        "images": [
+          "sg-11134207-7req3-mdu6eic12y5xca",
+          "sg-11134207-7repa-mdu6v75rx7jfb1",
+          "sg-11134207-7renf-mdu6v75rx71943",
+          "sg-11134207-7rep2-mdvdghrbdpv71b"
+        ],
+        "first_tier_variations": null,
+        "sorted_variation_image_index_list": [],
+        "overlay": {
+          "type": 0,
+          "image": "sg-11134258-822x1-mo58ebrvwc1ucf",
+          "preview_end_time": null,
+          "is_pre_order": null,
+          "description": ""
+        },
+        "makeup_preview": null,
+        "abnormal_status": "",
+        "promotion_images": [],
+        "long_images": null,
+        "shopee_video_info_list": [],
+        "shopee_video_rcmd_info": null,
+        "shopee_video_req_id": null,
+        "skincam": null,
+        "pdp_top_info_list": null,
+        "has_long_image": false,
+        "show_find_similar": null,
+        "try_it_on": null,
+        "show_find_similar_for_selection": false,
+        "beautycam": null,
+        "unavailable_item_recommendation": null,
+        "models": null,
+        "gallery_contents": [
+          {
+            "image": {
+              "url": "sg-11134207-7req3-mdu6eic12y5xca",
+              "promotion_image_type": null,
+              "label_content": null,
+              "cmt_id": null
+            },
+            "video": null
+          },
+          {
+            "image": {
+              "url": "sg-11134207-7repa-mdu6v75rx7jfb1",
+              "promotion_image_type": null,
+              "label_content": null,
+              "cmt_id": null
+            },
+            "video": null
+          },
+          {
+            "image": {
+              "url": "sg-11134207-7renf-mdu6v75rx71943",
+              "promotion_image_type": null,
+              "label_content": null,
+              "cmt_id": null
+            },
+            "video": null
+          },
+          {
+            "image": {
+              "url": "sg-11134207-7rep2-mdvdghrbdpv71b",
+              "promotion_image_type": null,
+              "label_content": null,
+              "cmt_id": null
+            },
+            "video": null
+          }
+        ]
+      },
+      "product_price": {
+        "discount": 31,
+        "installment_info": null,
+        "spl_installment_info": null,
+        "pack_size": "",
+        "hide_price": false,
+        "price": {
+          "single_value": 3180000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 4590000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "presale_price": null,
+        "lowest_past_price": null,
+        "labels": [
+          {
+            "type": 0,
+            "text": "Free Returns",
+            "color": "#26AA99",
+            "display": "free_return",
+            "exclusive_price": null,
+            "promotion_id": null,
+            "voucher_ext_info": null
+          }
+        ],
+        "hide_discount": true,
+        "discount_text": null,
+        "show_final_price_indicator": true,
+        "final_price_vouchers": [
+          {
+            "promotion_id": 1458359715373056,
+            "voucher_code": "SFC-1458359715373056",
+            "is_auto_claimed_just_now": false,
+            "groups": null,
+            "voucher_type": 1
+          },
+          {
+            "promotion_id": 1083016027054084,
+            "voucher_code": "NUZVOUCH123",
+            "is_auto_claimed_just_now": null,
+            "groups": [
+              "BAU new user voucher"
+            ],
+            "voucher_type": 2
+          }
+        ],
+        "has_final_price": true,
+        "final_price_info": {
+          "model_id": 261242556543,
+          "hint_text": "After Voucher",
+          "show_final_price_indicator": true,
+          "final_price_vouchers": {
+            "platform_voucher": {
+              "promotion_id": 1083016027054084,
+              "voucher_code": "NUZVOUCH123",
+              "is_auto_claimed_just_now": null,
+              "groups": [
+                "BAU new user voucher"
+              ],
+              "voucher_discount_type": 0,
+              "voucher_discount": 10000
+            },
+            "shop_voucher": {
+              "promotion_id": 1458359715373056,
+              "voucher_code": "SFC-1458359715373056",
+              "is_auto_claimed_just_now": false,
+              "groups": null,
+              "voucher_discount_type": 0,
+              "voucher_discount": 500000
+            },
+            "ads_voucher": null
+          },
+          "payment_channel_discount": null,
+          "final_price_icon_type": 1
+        },
+        "price_subtext": null,
+        "price_model": {
+          "price_single_model_id": 261242556543,
+          "price_min_model_id": null,
+          "price_max_model_id": null
+        },
+        "price_promotion": {
+          "price_single_promotion_id": 474268626464789,
+          "price_single_promotion_type": 301,
+          "price_min_promotion_id": null,
+          "price_min_promotion_type": null,
+          "price_max_promotion_id": null,
+          "price_max_promotion_type": null
+        },
+        "instalment_cta_action": null
+      },
+      "flash_sale": null,
+      "flash_sale_preview": null,
+      "deep_discount": null,
+      "exclusive_price": null,
+      "exclusive_price_cta": null,
+      "product_meta": {
+        "show_lowest_price_guarantee": null,
+        "show_original_guarantee": null,
+        "show_best_price_guarantee": false,
+        "show_official_shop_label_in_title": true,
+        "show_shopee_verified_label": false,
+        "show_lowest_installment_guarantee": null,
+        "hide_sharing_button": false,
+        "hide_sold_count": false,
+        "show_description_translation_button": null
+      },
+      "product_review": {
+        "rating_star": 4.333333333333333,
+        "rating_count": [
+          6,
+          0,
+          0,
+          2,
+          0,
+          4
+        ],
+        "total_rating_count": 6,
+        "historical_sold": null,
+        "global_sold": null,
+        "liked": false,
+        "liked_count": 45,
+        "cmt_count": 6,
+        "should_move_ratings_above": null,
+        "review_rcmd_exp_group": null,
+        "display_global_sold": false,
+        "hide_rating": false,
+        "hide_buyer_gallery": false,
+        "hide_reviews": false,
+        "hide_other_product_reviews_in_shop": false,
+        "sold_count_disclosure": null,
+        "historical_sold_display": null,
+        "global_sold_display": null,
+        "sold_count_display": null
+      },
+      "promotion_info": {
+        "spl": null,
+        "spl_lite": null,
+        "installment": null,
+        "wholesale": null,
+        "insurance": null,
+        "item_installment_eligibility": {
+          "is_cc_installment_payment_eligible": false,
+          "is_non_cc_installment_payment_eligible": false
+        }
+      },
+      "age_gate": {
+        "kyc": null,
+        "adult_consent": null
+      },
+      "shipping_meta": {
+        "show_fufilled_by_shopee": null,
+        "show_cod": null,
+        "show_mart": false,
+        "show_next_day_delivery": false
+      },
+      "product_shipping": {
+        "free_shipping": {
+          "min_spend": null,
+          "has_fss": false
+        },
+        "shipping_fee_info": {
+          "ship_from_location": "SG",
+          "price": {
+            "single_value": -1,
+            "range_min": 0,
+            "range_max": 199000,
+            "price_mask": null
+          },
+          "shipping_icon_type": 0,
+          "warning": null
+        },
+        "show_shipping_to": false,
+        "ungrouped_channel_infos": [
+          {
+            "channel_id": 10077,
+            "name": "Same Day Delivery (Order by 12 noon)",
+            "price": {
+              "single_value": 199000,
+              "range_min": -1,
+              "range_max": -1,
+              "price_mask": null
+            },
+            "price_before_discount": null,
+            "channel_delivery_info": {
+              "has_edt": true,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1784373489,
+              "estimated_delivery_date_to": 1784373489,
+              "estimated_delivery_time_min": 1,
+              "estimated_delivery_time_max": 1,
+              "delay_message": "Excludes Public Holiday",
+              "is_fastest_edt_channel": true,
+              "sla_message": "",
+              "show_edt": true,
+              "edt_text": "Guaranteed to get by tomorrow",
+              "formatted_edt_text": [
+                {
+                  "template": "{pdp_guaranteed_get_by_tomorrow}",
+                  "format": null,
+                  "attributes": [
+                    {
+                      "type": 1,
+                      "key": "pdp_guaranteed_get_by_tomorrow",
+                      "value": {
+                        "value_str": "Guaranteed to get by tomorrow",
+                        "value_int": null
+                      },
+                      "format": [
+                        2
+                      ],
+                      "text_color": null,
+                      "text_hex_color": "#26aa99",
+                      "url": null
+                    }
+                  ],
+                  "text_color": null,
+                  "text_hex_color": null
+                }
+              ],
+              "formatted_pre_order_text": null,
+              "formatted_fbs_description_text": null,
+              "show_edt_as_header": false
+            },
+            "channel_promotion_infos": [],
+            "warning": null,
+            "shipping_icon_type": null,
+            "lowest_bpsf_promotion_rule": null,
+            "service_type_info": "same_day",
+            "is_integrated_channel": true,
+            "late_delivery_compensation": {
+              "type": 1,
+              "amount": 200000,
+              "is_guaranteed_edt": true,
+              "compensation_amount": null,
+              "text": null,
+              "max_coins_cap": null,
+              "coin_cap": 0
+            },
+            "is_sst_included": false,
+            "display_text": {
+              "late_delivery_compensation": {
+                "text": "Get a {compensation_amount} voucher if your order arrives late.",
+                "gdt_max": null,
+                "compensation_amount": {
+                  "value": 200000
+                },
+                "max_coins_cap": null,
+                "coins_amount": null,
+                "coin_interval_in_minutes": null
+              },
+              "direct_delivery": null,
+              "fulfilled_by_shopee": null,
+              "spx_instant_delivery": null
+            },
+            "rule_type": 0,
+            "is_xdd_channel": true,
+            "show_shopee_plus_icon": false,
+            "xdd_value": 100,
+            "hide_shipping_fee": null,
+            "edt_tracking_info": "{\"edt_min\":1,\"edt_max\":1,\"edt_min_hours\":24,\"edt_max_hours\":24,\"edt_min_minutes\":1440,\"edt_max_minutes\":1440,\"edt_display_identifier\":263305,\"buyer_address_hash\":\"RQLcHR8\",\"is_cache_edt\":false}"
+          },
+          {
+            "channel_id": 1003,
+            "name": "Doorstep Delivery",
+            "price": {
+              "single_value": 0,
+              "range_min": -1,
+              "range_max": -1,
+              "price_mask": null
+            },
+            "price_before_discount": {
+              "single_value": 199000,
+              "range_min": -1,
+              "range_max": -1,
+              "price_mask": null
+            },
+            "channel_delivery_info": {
+              "has_edt": true,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1784546289,
+              "estimated_delivery_date_to": 1784546289,
+              "estimated_delivery_time_min": 3,
+              "estimated_delivery_time_max": 3,
+              "delay_message": null,
+              "is_fastest_edt_channel": false,
+              "sla_message": "",
+              "show_edt": true,
+              "edt_text": "Guaranteed to get by 20 Jul",
+              "formatted_edt_text": [
+                {
+                  "template": "{pdp_guaranteed_get_by_date_exact}",
+                  "format": null,
+                  "attributes": [
+                    {
+                      "type": 1,
+                      "key": "pdp_guaranteed_get_by_date_exact",
+                      "value": {
+                        "value_str": "Guaranteed to get by 20 Jul",
+                        "value_int": null
+                      },
+                      "format": null,
+                      "text_color": null,
+                      "text_hex_color": "#000000de",
+                      "url": null
+                    }
+                  ],
+                  "text_color": null,
+                  "text_hex_color": null
+                }
+              ],
+              "formatted_pre_order_text": null,
+              "formatted_fbs_description_text": null,
+              "show_edt_as_header": false
+            },
+            "channel_promotion_infos": [
+              {
+                "rule_id": 385381413568812,
+                "type": 1,
+                "display_mode": null,
+                "discount_off": null,
+                "min_spend": {
+                  "single_value": 0,
+                  "range_min": -1,
+                  "range_max": -1,
+                  "price_mask": null
+                },
+                "cap": null
+              }
+            ],
+            "warning": null,
+            "shipping_icon_type": null,
+            "lowest_bpsf_promotion_rule": null,
+            "service_type_info": "same_day",
+            "is_integrated_channel": true,
+            "late_delivery_compensation": {
+              "type": 1,
+              "amount": 200000,
+              "is_guaranteed_edt": true,
+              "compensation_amount": null,
+              "text": null,
+              "max_coins_cap": null,
+              "coin_cap": 0
+            },
+            "is_sst_included": false,
+            "display_text": {
+              "late_delivery_compensation": {
+                "text": "Get a {compensation_amount} voucher if your order arrives late.",
+                "gdt_max": null,
+                "compensation_amount": {
+                  "value": 200000
+                },
+                "max_coins_cap": null,
+                "coins_amount": null,
+                "coin_interval_in_minutes": null
+              },
+              "direct_delivery": null,
+              "fulfilled_by_shopee": null,
+              "spx_instant_delivery": null
+            },
+            "rule_type": 0,
+            "is_xdd_channel": true,
+            "show_shopee_plus_icon": false,
+            "xdd_value": 1,
+            "hide_shipping_fee": null,
+            "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":3,\"edt_min_hours\":72,\"edt_max_hours\":72,\"edt_min_minutes\":4320,\"edt_max_minutes\":4320,\"edt_display_identifier\":294921,\"buyer_address_hash\":\"RQLcHR8\",\"is_cache_edt\":false}"
+          },
+          {
+            "channel_id": 1001,
+            "name": "Doorstep Delivery",
+            "price": {
+              "single_value": 199000,
+              "range_min": -1,
+              "range_max": -1,
+              "price_mask": null
+            },
+            "price_before_discount": null,
+            "channel_delivery_info": {
+              "has_edt": true,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1784632689,
+              "estimated_delivery_date_to": 1784632689,
+              "estimated_delivery_time_min": 4,
+              "estimated_delivery_time_max": 4,
+              "delay_message": null,
+              "is_fastest_edt_channel": false,
+              "sla_message": "",
+              "show_edt": true,
+              "edt_text": "Guaranteed to get by 21 Jul",
+              "formatted_edt_text": [
+                {
+                  "template": "{pdp_guaranteed_get_by_date_exact}",
+                  "format": null,
+                  "attributes": [
+                    {
+                      "type": 1,
+                      "key": "pdp_guaranteed_get_by_date_exact",
+                      "value": {
+                        "value_str": "Guaranteed to get by 21 Jul",
+                        "value_int": null
+                      },
+                      "format": null,
+                      "text_color": null,
+                      "text_hex_color": "#000000de",
+                      "url": null
+                    }
+                  ],
+                  "text_color": null,
+                  "text_hex_color": null
+                }
+              ],
+              "formatted_pre_order_text": null,
+              "formatted_fbs_description_text": null,
+              "show_edt_as_header": false
+            },
+            "channel_promotion_infos": [],
+            "warning": null,
+            "shipping_icon_type": null,
+            "lowest_bpsf_promotion_rule": null,
+            "service_type_info": "Standard",
+            "is_integrated_channel": true,
+            "late_delivery_compensation": {
+              "type": 1,
+              "amount": 200000,
+              "is_guaranteed_edt": true,
+              "compensation_amount": null,
+              "text": null,
+              "max_coins_cap": null,
+              "coin_cap": 0
+            },
+            "is_sst_included": false,
+            "display_text": {
+              "late_delivery_compensation": {
+                "text": "Get a {compensation_amount} voucher if your order arrives late.",
+                "gdt_max": null,
+                "compensation_amount": {
+                  "value": 200000
+                },
+                "max_coins_cap": null,
+                "coins_amount": null,
+                "coin_interval_in_minutes": null
+              },
+              "direct_delivery": null,
+              "fulfilled_by_shopee": null,
+              "spx_instant_delivery": null
+            },
+            "rule_type": 0,
+            "is_xdd_channel": false,
+            "show_shopee_plus_icon": false,
+            "xdd_value": null,
+            "hide_shipping_fee": null,
+            "edt_tracking_info": "{\"edt_min\":4,\"edt_max\":4,\"edt_min_hours\":96,\"edt_max_hours\":96,\"edt_min_minutes\":5760,\"edt_max_minutes\":5760,\"edt_display_identifier\":294921,\"buyer_address_hash\":\"RQLcHR8\",\"is_cache_edt\":false}"
+          }
+        ],
+        "grouped_channel_infos_by_service_type": [
+          {
+            "name": "Self Collection",
+            "channel_infos": [
+              {
+                "channel_id": 10099,
+                "name": "Collection Points",
+                "price": {
+                  "single_value": 0,
+                  "range_min": -1,
+                  "range_max": -1,
+                  "price_mask": null
+                },
+                "price_before_discount": null,
+                "channel_delivery_info": {
+                  "has_edt": true,
+                  "display_mode": "edt_by_date",
+                  "estimated_delivery_date_from": 1784546289,
+                  "estimated_delivery_date_to": 1784546289,
+                  "estimated_delivery_time_min": 3,
+                  "estimated_delivery_time_max": 3,
+                  "delay_message": null,
+                  "is_fastest_edt_channel": false,
+                  "sla_message": "",
+                  "show_edt": true,
+                  "edt_text": "Guaranteed to get by 20 Jul",
+                  "formatted_edt_text": [
+                    {
+                      "template": "{pdp_guaranteed_get_by_date_exact}",
+                      "format": null,
+                      "attributes": [
+                        {
+                          "type": 1,
+                          "key": "pdp_guaranteed_get_by_date_exact",
+                          "value": {
+                            "value_str": "Guaranteed to get by 20 Jul",
+                            "value_int": null
+                          },
+                          "format": null,
+                          "text_color": null,
+                          "text_hex_color": "#000000de",
+                          "url": null
+                        }
+                      ],
+                      "text_color": null,
+                      "text_hex_color": null
+                    }
+                  ],
+                  "formatted_pre_order_text": null,
+                  "formatted_fbs_description_text": null,
+                  "show_edt_as_header": false
+                },
+                "channel_promotion_infos": null,
+                "warning": null,
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "self_collection",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": {
+                  "type": 1,
+                  "amount": 100000,
+                  "is_guaranteed_edt": true,
+                  "compensation_amount": null,
+                  "text": null,
+                  "max_coins_cap": null,
+                  "coin_cap": 0
+                },
+                "is_sst_included": false,
+                "display_text": {
+                  "late_delivery_compensation": {
+                    "text": "Get a {compensation_amount} voucher if your order arrives late.",
+                    "gdt_max": null,
+                    "compensation_amount": {
+                      "value": 100000
+                    },
+                    "max_coins_cap": null,
+                    "coins_amount": null,
+                    "coin_interval_in_minutes": null
+                  },
+                  "direct_delivery": null,
+                  "fulfilled_by_shopee": null,
+                  "spx_instant_delivery": null
+                },
+                "rule_type": 0,
+                "is_xdd_channel": false,
+                "show_shopee_plus_icon": false,
+                "xdd_value": null,
+                "hide_shipping_fee": null,
+                "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":3,\"edt_min_hours\":72,\"edt_max_hours\":72,\"edt_min_minutes\":4320,\"edt_max_minutes\":4320,\"edt_display_identifier\":294921,\"buyer_address_hash\":\"RQLcHR8\",\"is_cache_edt\":false}"
+              },
+              {
+                "channel_id": 10330,
+                "name": "SPX Express Lockers",
+                "price": {
+                  "single_value": 0,
+                  "range_min": -1,
+                  "range_max": -1,
+                  "price_mask": null
+                },
+                "price_before_discount": null,
+                "channel_delivery_info": {
+                  "has_edt": true,
+                  "display_mode": "edt_by_date",
+                  "estimated_delivery_date_from": 1784373489,
+                  "estimated_delivery_date_to": 1784546289,
+                  "estimated_delivery_time_min": 1,
+                  "estimated_delivery_time_max": 3,
+                  "delay_message": null,
+                  "is_fastest_edt_channel": false,
+                  "sla_message": "",
+                  "show_edt": true,
+                  "edt_text": "Guaranteed to get by 18 Jul - 20 Jul",
+                  "formatted_edt_text": [
+                    {
+                      "template": "{pdp_guaranteed_get_by_date_range}",
+                      "format": null,
+                      "attributes": [
+                        {
+                          "type": 1,
+                          "key": "pdp_guaranteed_get_by_date_range",
+                          "value": {
+                            "value_str": "Guaranteed to get by 18 Jul - 20 Jul",
+                            "value_int": null
+                          },
+                          "format": null,
+                          "text_color": null,
+                          "text_hex_color": "#000000de",
+                          "url": null
+                        }
+                      ],
+                      "text_color": null,
+                      "text_hex_color": null
+                    }
+                  ],
+                  "formatted_pre_order_text": null,
+                  "formatted_fbs_description_text": null,
+                  "show_edt_as_header": false
+                },
+                "channel_promotion_infos": null,
+                "warning": null,
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "self_collection",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": {
+                  "type": 1,
+                  "amount": 100000,
+                  "is_guaranteed_edt": true,
+                  "compensation_amount": null,
+                  "text": null,
+                  "max_coins_cap": null,
+                  "coin_cap": 0
+                },
+                "is_sst_included": false,
+                "display_text": {
+                  "late_delivery_compensation": {
+                    "text": "Get a {compensation_amount} voucher if your order arrives late.",
+                    "gdt_max": null,
+                    "compensation_amount": {
+                      "value": 100000
+                    },
+                    "max_coins_cap": null,
+                    "coins_amount": null,
+                    "coin_interval_in_minutes": null
+                  },
+                  "direct_delivery": null,
+                  "fulfilled_by_shopee": null,
+                  "spx_instant_delivery": null
+                },
+                "rule_type": 0,
+                "is_xdd_channel": false,
+                "show_shopee_plus_icon": false,
+                "xdd_value": null,
+                "hide_shipping_fee": null,
+                "edt_tracking_info": "{\"edt_min\":1,\"edt_max\":3,\"edt_min_hours\":24,\"edt_max_hours\":72,\"edt_min_minutes\":1440,\"edt_max_minutes\":4320,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"RQLcHR8\",\"is_cache_edt\":false}"
+              }
+            ]
+          }
+        ],
+        "also_available_channel_name": "Doorstep Delivery",
+        "pre_selected_shipping_channel": {
+          "channel_id": 10077,
+          "name": "Same Day Delivery (Order by 12 noon)",
+          "price": {
+            "single_value": 199000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": ""
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1784373489,
+            "estimated_delivery_date_to": 1784373489,
+            "estimated_delivery_time_min": 1,
+            "estimated_delivery_time_max": 1,
+            "delay_message": "Excludes Public Holiday",
+            "is_fastest_edt_channel": true,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Guaranteed to get by tomorrow",
+            "formatted_edt_text": [
+              {
+                "template": "{pdp_guaranteed_get_by_tomorrow}",
+                "format": [],
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "pdp_guaranteed_get_by_tomorrow",
+                    "value": {
+                      "value_str": "Guaranteed to get by tomorrow",
+                      "value_int": null
+                    },
+                    "format": [
+                      2
+                    ],
+                    "text_color": null,
+                    "text_hex_color": "#26aa99",
+                    "url": null
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "formatted_pre_order_text": null,
+            "formatted_fbs_description_text": null,
+            "show_edt_as_header": false
+          },
+          "channel_promotion_infos": [],
+          "warning": {
+            "type": "",
+            "warning_msg": ""
+          },
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "same_day",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 200000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": {
+              "value": 200000
+            },
+            "text": "",
+            "max_coins_cap": null,
+            "coin_cap": 0
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": {
+              "text": "Get a {compensation_amount} voucher if your order arrives late.",
+              "gdt_max": null,
+              "compensation_amount": {
+                "value": 200000
+              },
+              "max_coins_cap": null,
+              "coins_amount": null,
+              "coin_interval_in_minutes": null
+            },
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": true,
+          "show_shopee_plus_icon": false,
+          "xdd_value": 100,
+          "hide_shipping_fee": null,
+          "edt_tracking_info": "{\"edt_min\":1,\"edt_max\":1,\"edt_min_hours\":24,\"edt_max_hours\":24,\"edt_min_minutes\":1440,\"edt_max_minutes\":1440,\"edt_display_identifier\":263173,\"buyer_address_hash\":\"RQLcHR8\",\"is_cache_edt\":false}"
+        },
+        "show_grouped_channel_first": false,
+        "is_item_with_price_range": false,
+        "also_available_channel_icon_type": 1,
+        "pre_order_text": "",
+        "selected_late_delivery_compensation_for_drawer": null,
+        "shipping_info_text": {
+          "text_template": null,
+          "shipping_fee": null,
+          "edt_from": null,
+          "edt_to": null,
+          "show_shipping_fee_suffix": false,
+          "formatted_text": {
+            "edt": {
+              "template": "{pdp_guaranteed_get_by_tomorrow}",
+              "format": null,
+              "attributes": [
+                {
+                  "type": 1,
+                  "key": "pdp_guaranteed_get_by_tomorrow",
+                  "value": {
+                    "value_str": "Guaranteed to get by tomorrow",
+                    "value_int": null
+                  },
+                  "format": [
+                    6
+                  ],
+                  "text_color": null,
+                  "text_hex_color": "#000000de",
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            },
+            "shipping_fee": null,
+            "late_delivery_compensation": {
+              "template": "Get a {compensation_amount} voucher if your order arrives late.",
+              "format": null,
+              "attributes": [
+                {
+                  "type": 2,
+                  "key": "compensation_amount",
+                  "value": {
+                    "value_str": null,
+                    "value_int": 200000
+                  },
+                  "format": null,
+                  "text_color": null,
+                  "text_hex_color": null,
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            },
+            "fbs_description": null,
+            "display_edt_text_first_line": true,
+            "should_wrap_edt_text_by_attribute": false
+          },
+          "highlight_free_shipping": false
+        },
+        "formatted_pre_order_text": null,
+        "has_free_return": null,
+        "model_id": 261242556543,
+        "delivery_address": {
+          "state": "",
+          "city": "",
+          "district": null,
+          "town": null,
+          "zip_code": null,
+          "address": null,
+          "region": null,
+          "longitude": 103.819836,
+          "latitude": 1.352083,
+          "vn_data_version": null
+        }
+      },
+      "shop_vouchers": [
+        {
+          "promotionid": 1458359715373056,
+          "voucher_code": "SFC-1458359715373056",
+          "signature": "f7d1803787290d862bcc0858986d927382a05a7da9e8a91f4f2ab6f4438d7706",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 600000,
+          "used_price": 500000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 0,
+          "percentage_claimed": 2,
+          "percentage_used": 10,
+          "start_time": 1783309253,
+          "end_time": 1790783993,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 0,
+          "reward_value": 500000,
+          "reward_cap": 0,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [
+            {
+              "content": "Member exclusive"
+            }
+          ],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-D332F064A60822280000001104541154",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 500000,
+          "discount_percentage": 0,
+          "discount_cap": 0,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 0,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1458354136948736,
+          "voucher_code": "SFC-1458354136948736",
+          "signature": "2638f46393520c6fef3fd82f62fc654086f845ebc5e06b3fd75f4581ce3c323c",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 1000,
+          "used_price": 200000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 0,
+          "percentage_claimed": 83,
+          "percentage_used": 24,
+          "start_time": 1783309029,
+          "end_time": 1790783949,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 50,
+          "reward_value": 0,
+          "reward_cap": 200000,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [
+            {
+              "content": "Member exclusive"
+            }
+          ],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-40C09064A60822280000001104541151",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 0,
+          "discount_percentage": 50,
+          "discount_cap": 200000,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 0,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1458349506568196,
+          "voucher_code": "SFC-1458349506568196",
+          "signature": "172797f9f3147d71af722e77f83b4155ee414cab9d06ad5c40f268812636131c",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 1000,
+          "used_price": 185000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 0,
+          "percentage_claimed": 17,
+          "percentage_used": 10,
+          "start_time": 1783308040,
+          "end_time": 1790783980,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 5,
+          "reward_value": 0,
+          "reward_cap": 500000,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [
+            {
+              "content": "Member Repeat Buyer"
+            }
+          ],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-173A3AD0A60822380000001104541150",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 0,
+          "discount_percentage": 5,
+          "discount_cap": 500000,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 0,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1458357735792640,
+          "voucher_code": "SFC-1458357735792640",
+          "signature": "ae347043ca4ced6359addddc1c4fc364753606ce1f8dca0dad8bfb4d9f03b43c",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 1000,
+          "used_price": 185000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 0,
+          "percentage_claimed": 71,
+          "percentage_used": 21,
+          "start_time": 1783309251,
+          "end_time": 1790783991,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 5,
+          "reward_value": 0,
+          "reward_cap": 500000,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [
+            {
+              "content": "Member exclusive"
+            }
+          ],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-9BF67070A60822280000001104541154",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 0,
+          "discount_percentage": 5,
+          "discount_cap": 500000,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 0,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1454019324026880,
+          "voucher_code": "ZENY01OFF",
+          "signature": "43631f79d949aed1d65c660265aba87177bda1c0593d08c44de091ee949f7ef5",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 3300000,
+          "used_price": 100000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 15,
+          "start_time": 1784030400,
+          "end_time": 1784303940,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 0,
+          "reward_value": 100000,
+          "reward_cap": 0,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-30033AF4A40822280000001104441450",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 100000,
+          "discount_percentage": 0,
+          "discount_cap": 0,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 0,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1465582205542400,
+          "voucher_code": "ZENYOFF1",
+          "signature": "67a1781a831ef4ce821aed90d3d447d53ab3fc6e2cada9d3126274047d6922d2",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 3300000,
+          "used_price": 100000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 10,
+          "start_time": 1784170800,
+          "end_time": 1790783940,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 0,
+          "reward_value": 100000,
+          "reward_cap": 0,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-9D2E7808068822280000001105105500",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 100000,
+          "discount_percentage": 0,
+          "discount_cap": 0,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 0,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1448925249544196,
+          "voucher_code": "ZENY5OFF",
+          "signature": "790a8ca47d9d6e39e41818350ad6bc85397c50bad0b11088061b69b6be56fd2c",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 8000000,
+          "used_price": 500000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 21,
+          "start_time": 1782835200,
+          "end_time": 1790783940,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 0,
+          "reward_value": 500000,
+          "reward_cap": 0,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-8D2C72FE86A022380000001104115044",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 500000,
+          "discount_percentage": 0,
+          "discount_cap": 0,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 9,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1454019978207232,
+          "voucher_code": "ZENY06OFF",
+          "signature": "6fe767b01796f0d8ac1acdadc0206b25b1269c819289d463180f78ff5214eff1",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 9000000,
+          "used_price": 600000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 11,
+          "start_time": 1784030400,
+          "end_time": 1784303940,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 0,
+          "reward_value": 600000,
+          "reward_cap": 0,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-14CA3AF0A40822280000001104441450",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 600000,
+          "discount_percentage": 0,
+          "discount_cap": 0,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 9,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1454021379235840,
+          "voucher_code": "ZENY09OFF",
+          "signature": "f40a2734d2ce47411e0d34359a273192401a8c5e77afef045bba94e19ba252a9",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 11500000,
+          "used_price": 900000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 10,
+          "start_time": 1784030400,
+          "end_time": 1784303940,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 0,
+          "reward_value": 900000,
+          "reward_cap": 0,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-EDEDFAF4A40822280000001104441450",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 900000,
+          "discount_percentage": 0,
+          "discount_cap": 0,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 9,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1448929972199424,
+          "voucher_code": "ZENY9OFF",
+          "signature": "e8108c1f4bf7c741fb16dfcc63ce4b59923a3fb2025e1af330124d2469d4a1ac",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 12500000,
+          "used_price": 900000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 20,
+          "start_time": 1782835200,
+          "end_time": 1790783940,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 0,
+          "reward_value": 900000,
+          "reward_cap": 0,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-12D21AFA86A022280000001104115045",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 900000,
+          "discount_percentage": 0,
+          "discount_cap": 0,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 9,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1453258728022016,
+          "voucher_code": "SVC-1453258728022016",
+          "signature": "dd0091b62447435c24463fc33f030c2fef84bda726d0c7e8a76ec1ddf16ed607",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 14000000,
+          "used_price": 369000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 10,
+          "start_time": 1784030400,
+          "end_time": 1784303999,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 10,
+          "reward_value": 0,
+          "reward_cap": 1400000,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-0CCC1A8A840822280000001104414545",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 0,
+          "discount_percentage": 10,
+          "discount_cap": 1400000,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 9,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        },
+        {
+          "promotionid": 1463424068362288,
+          "voucher_code": "SVC-1463424068362288",
+          "signature": "5c45b86fc0980a890b9f837b2d17dfaea606050e4ebf27ba93f43e0da2cef452",
+          "use_type": 0,
+          "platform_type": null,
+          "voucher_market_type": 1,
+          "min_spend": 16000000,
+          "used_price": 554000,
+          "current_spend": null,
+          "product_limit": false,
+          "quota_type": 1,
+          "percentage_claimed": 0,
+          "percentage_used": 11,
+          "start_time": 1784030400,
+          "end_time": 1784303999,
+          "collect_time": 0,
+          "claim_start_time": 0,
+          "valid_days": 0,
+          "reward_type": 0,
+          "reward_percentage": 15,
+          "reward_value": 0,
+          "reward_cap": 2400000,
+          "coin_earned": null,
+          "title": null,
+          "use_link": null,
+          "icon_hash": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "icon_text": "Zenyum Official Store",
+          "icon_url": null,
+          "customised_labels": [],
+          "customised_product_scope_tags": null,
+          "shop_id": 268706552,
+          "shop_name": "Zenyum Official Store",
+          "is_shop_preferred": false,
+          "is_shop_official": true,
+          "shop_count": null,
+          "ui_display_type": null,
+          "customised_mall_name": null,
+          "small_icon_list": null,
+          "dp_category_name": null,
+          "invalid_message_code": null,
+          "invalid_message": null,
+          "display_labels": null,
+          "wallet_redeemable": false,
+          "customer_reference_id": "SHOP-FF3FD2880C8827280000001105045541",
+          "fully_redeemed": null,
+          "has_expired": null,
+          "disabled": null,
+          "voucher_external_market_type": null,
+          "now_food_extra_info": null,
+          "airpay_opv_extra_info": null,
+          "partner_extra_info": null,
+          "discount_value": 0,
+          "discount_percentage": 15,
+          "discount_cap": 2400000,
+          "coin_percentage": null,
+          "coin_cap": null,
+          "usage_limit": null,
+          "used_count": null,
+          "left_count": null,
+          "shopee_wallet_only": false,
+          "new_user_only": null,
+          "description": "This page is not supported on your version of Shopee app. Please update your app to view.",
+          "shop_logo": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "error_code": 9,
+          "is_claimed_before": false,
+          "customised_product_scope_tag_image_hash": null,
+          "usage_limit_per_user": 1,
+          "remaining_usage_limit": 1,
+          "action": null,
+          "sub_icon_text": null,
+          "is_customised_icon": null,
+          "fixed_flag": null,
+          "customised_flag": null,
+          "fsv_voucher_card_ui_info": null,
+          "min_item_quantity": null
+        }
+      ],
+      "free_return": null,
+      "coin_info": {
+        "spend_cash_unit": 1000,
+        "coin_earn_items": [
+          {
+            "coin_earn": 0
+          }
+        ],
+        "coin_earn_label": null
+      },
+      "product_attributes": {
+        "attrs": [
+          {
+            "name": "Brand",
+            "value": "Zenyum",
+            "id": null,
+            "is_timestamp": null,
+            "brand_option": null,
+            "val_id": null,
+            "url": "/search?brands=1233278",
+            "brand_id": 1233278,
+            "full_url": "https://shopee.sg/search?brands=1233278",
+            "type": 1,
+            "item_attribute_type": null,
+            "name_tr": null,
+            "value_tr": null
+          },
+          {
+            "name": "Safety Mark",
+            "value": "-",
+            "id": 100961,
+            "is_timestamp": null,
+            "brand_option": null,
+            "val_id": null,
+            "url": null,
+            "brand_id": null,
+            "full_url": null,
+            "type": 5,
+            "item_attribute_type": null,
+            "name_tr": null,
+            "value_tr": null
+          },
+          {
+            "name": "Ships From",
+            "value": "SG",
+            "id": null,
+            "is_timestamp": null,
+            "brand_option": null,
+            "val_id": null,
+            "url": null,
+            "brand_id": null,
+            "full_url": null,
+            "type": 6,
+            "item_attribute_type": null,
+            "name_tr": null,
+            "value_tr": null
+          }
+        ],
+        "categories": [
+          {
+            "catid": 11027421,
+            "display_name": "Home Appliances",
+            "no_sub": false,
+            "is_default_subcat": false
+          },
+          {
+            "catid": 11027478,
+            "display_name": "Tools & Small Appliances",
+            "no_sub": false,
+            "is_default_subcat": false
+          },
+          {
+            "catid": 11027483,
+            "display_name": "Others",
+            "no_sub": true,
+            "is_default_subcat": false
+          }
+        ],
+        "related_items": []
+      },
+      "shop_detailed": {
+        "shopid": 268706552,
+        "userid": 268710095,
+        "last_active_time": 1784286751,
+        "vacation": false,
+        "place": null,
+        "account": {
+          "portrait": "ab8fd84ae4d2f018c707bbb872484a5c",
+          "username": "zenyum_sg",
+          "status": 1
+        },
+        "is_shopee_verified": false,
+        "is_preferred_plus_seller": false,
+        "is_official_shop": true,
+        "shop_location": null,
+        "item_count": 76,
+        "rating_star": 4.918432,
+        "response_rate": 100,
+        "session_info": null,
+        "name": "Zenyum Official Store",
+        "ctime": 1590891274,
+        "response_time": 8968,
+        "follower_count": 104083,
+        "show_official_shop_label": true,
+        "rating_bad": 306,
+        "rating_good": 72889,
+        "rating_normal": 943,
+        "session_infos": null,
+        "status": 1,
+        "is_individual_seller": null,
+        "is_mart": false,
+        "favorite_shop_info": null,
+        "is_3pf": false,
+        "sold_total": null,
+        "is_shopee_choice": false,
+        "is_high_end": false,
+        "banner": {
+          "shopee_choice": null
+        },
+        "authorized_brand": null,
+        "is_scs": false,
+        "shop_location_tr": null,
+        "sold_total_display": null,
+        "is_outlet": false,
+        "display_fbs_logo": false,
+        "is_chatroom_online": null,
+        "outlet_shop": null,
+        "vacation_status": null,
+        "display_shopee_choice_tick": false,
+        "is_smeter_shop": false
+      },
+      "age_gate_control": null,
+      "abnormal_popup": null,
+      "return_on_spot": null,
+      "display_sections": {
+        "add_on_deal": null,
+        "bundle_deal": null,
+        "exclusive_price_label": null,
+        "free_return": null,
+        "coin": null,
+        "wholesale": null
+      },
+      "ineligible_ep": null,
+      "tax_disclaimer": null,
+      "alcohol_disclaimer": null,
+      "design_control": {
+        "use_new_revamp_first_screen": null,
+        "display_on_time_delivery_guarantee": true,
+        "disable_price_with_variation": false,
+        "display_direct_delivery": false,
+        "use_new_featured_video_revamp": null,
+        "first_screen_revamp_abtest_group": null,
+        "display_choice_customised_section": false,
+        "is_support_fbs_enabled": false,
+        "top_section_featured_video_ab_test_group": null,
+        "enable_ksp_config": null,
+        "disable_main_page_select_variation": null,
+        "support_shop_review_preview": null,
+        "pdp_revamp_phase1_improvement_ui_review_down": null,
+        "display_fashion_attributes": null,
+        "display_fashion_review_section": null,
+        "display_fashion_first_screen": null,
+        "enable_fashion_review_improvements": null,
+        "display_fbs_floating_counter": null,
+        "display_shipping_drawer_new_free_shipping_text": false,
+        "display_shipping_drawer_new_free_shipping_ui": false,
+        "shift_featured_videos_above_review_ratings_section": null,
+        "enable_fashion_featured_videos_improvements": null,
+        "hide_shipping_channel_promotion_text": false,
+        "expand_size_guide_section_by_default": null
+      },
+      "shopee_free_return": null,
+      "detail_level": 0,
+      "removed_fields": null,
+      "size_guide": null,
+      "designer_info": null,
+      "shipping_info": null,
+      "vehicle_compatibility_info": null,
+      "nea": null,
+      "button_group": {
+        "buy_with_voucher": {
+          "price": 3180000
+        },
+        "ineligible_user_platform_exclusive_sku": null
+      },
+      "installment_drawer": {
+        "priority": [
+          0,
+          1
+        ],
+        "spl": null,
+        "bank": {
+          "channels": null
+        },
+        "credit_card": null
+      },
+      "ongoing_banner": null,
+      "teaser_banner": null,
+      "price_breakdown": {
+        "price": {
+          "single_value": 3180000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 4590000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "discount_breakdown": [
+          {
+            "type": 0,
+            "price_source": "Product Discount",
+            "discount_amount": 900000,
+            "exclusive_price": null,
+            "shop_voucher": null,
+            "platform_voucher": null,
+            "ads_voucher": null,
+            "breakdown_text": null,
+            "icon_type": null
+          },
+          {
+            "type": 3,
+            "price_source": "Platform Voucher Discount",
+            "discount_amount": 10000,
+            "exclusive_price": null,
+            "shop_voucher": null,
+            "platform_voucher": {
+              "min_spend": 2000000,
+              "discount_type": 0,
+              "discount_value": 10000,
+              "discount_percentage": null
+            },
+            "ads_voucher": null,
+            "breakdown_text": {
+              "template": "Buy {min_spend} get {discount_value} off",
+              "format": null,
+              "attributes": [
+                {
+                  "type": 2,
+                  "key": "min_spend",
+                  "value": {
+                    "value_str": null,
+                    "value_int": 2000000
+                  },
+                  "format": null,
+                  "text_color": null,
+                  "text_hex_color": null,
+                  "url": null
+                },
+                {
+                  "type": 2,
+                  "key": "discount_value",
+                  "value": {
+                    "value_str": null,
+                    "value_int": 10000
+                  },
+                  "format": null,
+                  "text_color": null,
+                  "text_hex_color": null,
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            },
+            "icon_type": 0
+          },
+          {
+            "type": 2,
+            "price_source": "Shop Voucher Discount",
+            "discount_amount": 500000,
+            "exclusive_price": null,
+            "shop_voucher": {
+              "min_spend": 600000,
+              "discount_type": 0,
+              "discount_value": 500000,
+              "discount_percentage": null
+            },
+            "platform_voucher": null,
+            "ads_voucher": null,
+            "breakdown_text": {
+              "template": "Buy {min_spend} get {discount_value} off",
+              "format": null,
+              "attributes": [
+                {
+                  "type": 2,
+                  "key": "min_spend",
+                  "value": {
+                    "value_str": null,
+                    "value_int": 600000
+                  },
+                  "format": null,
+                  "text_color": null,
+                  "text_hex_color": null,
+                  "url": null
+                },
+                {
+                  "type": 2,
+                  "key": "discount_value",
+                  "value": {
+                    "value_str": null,
+                    "value_int": 500000
+                  },
+                  "format": null,
+                  "text_color": null,
+                  "text_hex_color": null,
+                  "url": null
+                }
+              ],
+              "text_color": null,
+              "text_hex_color": null
+            },
+            "icon_type": null
+          }
+        ]
+      },
+      "membership_exclusive": null,
+      "membership_exclusive_teaser": null,
+      "service_entrance": {
+        "services": [
+          {
+            "text": "100% Authentic",
+            "type": null,
+            "id": 40
+          },
+          {
+            "text": "Fulfilled by Shopee",
+            "type": null,
+            "id": 41
+          },
+          {
+            "text": "15-Day Free Returns",
+            "type": null,
+            "id": 38
+          },
+          {
+            "text": "Extended Warranty",
+            "type": null,
+            "id": 42
+          },
+          {
+            "text": "Electronics Protection",
+            "type": null,
+            "id": 42
+          }
+        ]
+      },
+      "service_drawer": {
+        "services": [
+          {
+            "title": "100% Authentic",
+            "description": "Shopee Mall products are guaranteed 100% authentic, and are sourced directly from brands and authorised distributors. If you receive an inauthentic product, you may request for a 2x refund.",
+            "type": null,
+            "free_return": null,
+            "insurance": null,
+            "id": 40,
+            "redirection_url": "https://shopee.sg/m/shopee-mall-100-authentic",
+            "icon": "tw-11134258-7rasc-m16w5grsqh2080",
+            "insurance_drawer": null,
+            "product_type": 0
+          },
+          {
+            "title": "Fulfilled by Shopee",
+            "description": "Fulfilled by Shopee is an exclusive service where you can enjoy fast delivery and reliable quality.",
+            "type": null,
+            "free_return": null,
+            "insurance": null,
+            "id": 41,
+            "redirection_url": "https://shopee.sg/m/fulfilledbyshopee",
+            "icon": "tw-11134258-7rase-m16w5gswoul453",
+            "insurance_drawer": null,
+            "product_type": 0
+          },
+          {
+            "title": "15-Day Free Returns",
+            "description": "Free returns can be requested within 15 days from the date of delivery. To qualify for change of mind returns, items must be in original condition, with packaging and labels intact (including free gifts) and safety seals unbroken. Applicable to selected items. T&Cs apply.",
+            "type": null,
+            "free_return": null,
+            "insurance": null,
+            "id": 38,
+            "redirection_url": "https://shopee.sg/pdp-com",
+            "icon": "tw-11134258-7rasd-m16w5gn2xdjs7a",
+            "insurance_drawer": null,
+            "product_type": 0
+          },
+          {
+            "title": "Extended Warranty",
+            "description": "Extend existing warranty by 12 months",
+            "type": null,
+            "free_return": null,
+            "insurance": null,
+            "id": 42,
+            "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2036663916238499345",
+            "icon": "tw-11134258-7rase-m16w5gqesi5416",
+            "insurance_drawer": {},
+            "product_type": 0
+          },
+          {
+            "title": "Electronics Protection",
+            "description": "Protect your Electronics from accidental damage and liquid damage.",
+            "type": null,
+            "free_return": null,
+            "insurance": null,
+            "id": 42,
+            "redirection_url": "https://protection.shopee.sg/ec/ec-pdp.html?from=pdp&locale=EN&product_id=2036651368646733337",
+            "icon": "tw-11134258-7rase-m16w5gqesi5416",
+            "insurance_drawer": {},
+            "product_type": 0
+          }
+        ]
+      },
+      "trade_in": null,
+      "product_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "Includes: Zenyum Water Flosser Jet Nozzle Tips Set - 4pcs",
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "description_type": 1,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134208-7repn-mdvbska2s88z34",
+            "ratio": 0.567,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134208-7reoj-mdvbska2qtoj61",
+            "ratio": 0.571,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134208-7req1-mdvbska2pf431f",
+            "ratio": 0.611,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134208-7repp-mdvbska2o0jnbd",
+            "ratio": 0.682,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 1,
+            "text": null,
+            "img_id": "sg-11134208-7reom-mdvbska2mlz761",
+            "ratio": 0.902,
+            "description_type": 1,
+            "empty_paragraph_count": null
+          }
+        ],
+        "source_language": ""
+      },
+      "selected_tiers": {
+        "0": 0
+      },
+      "size_info": null,
+      "size_recommendation": null,
+      "translation_status": 0,
+      "product_description_tr": null,
+      "default_warnings": null,
+      "bcrs_disclaimer": null,
+      "top_banner": null,
+      "bottom_banner": null
+    }
+  },
+  "pdp_hot_sales": {
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+      "source": 1,
+      "card_set": {
+        "layout_id": 10,
+        "element_toggle": {
+          "atc_button": false,
+          "feedback_button": false
+        },
+        "card_set_name": "FTSS TPFS card"
+      },
+      "item_cards": [
+        {
+          "item_card_displayed_asset": {
+            "name": "Zenyum Water Flosser Pro (White/Black/Pink/Purple) - Dental Care, Water Resistant",
+            "image": "sg-11134207-8261k-mmh5iih5acqr52",
+            "images": [
+              "sg-11134207-8261k-mmh5iih5acqr52",
+              "sg-11134207-8261g-mjs0kssil24h50",
+              "sg-11134207-8260j-mmh5jv1z6jnk07",
+              "a50ca0b512805a77c56aeb3e50d58f79",
+              "ebd856450af998a0dbfae1d00c709c45",
+              "b396886c7abe45fa779f7c6d8b3e9bf8",
+              "9b93b90bbad4ca92378508ee0513e2b1",
+              "sg-11134207-821en-mh9v943yij9m98"
+            ],
+            "shop_location": null,
+            "highlight_videos": [
+              {
+                "video_id": "sg-11110113-6jrpj-lk64ea77xp1u73",
+                "thumb_url": null,
+                "duration": 5000,
+                "version": 2,
+                "vid": "sg-11110113-6jrpj-lk64ea77xp1u73",
+                "formats": null,
+                "default_format": null,
+                "mms_data": null
+              },
+              {
+                "video_id": "sg-11110113-6jrpj-lk64ea77xp1u73",
+                "thumb_url": null,
+                "duration": 5000,
+                "version": 2,
+                "vid": "sg-11110113-6jrpj-lk64ea77xp1u73",
+                "formats": null,
+                "default_format": null,
+                "mms_data": null
+              },
+              {
+                "video_id": "sg-11110113-6jrpj-lk64ea77xp1u73",
+                "thumb_url": null,
+                "duration": 5000,
+                "version": 2,
+                "vid": "sg-11110113-6jrpj-lk64ea77xp1u73",
+                "formats": null,
+                "default_format": null,
+                "mms_data": null
+              }
+            ],
+            "item_card_mask": {
+              "mask_type": null,
+              "mask_text": null,
+              "pre_kyc_text": "Age Verification Required",
+              "post_kyc_text": "Restricted Item",
+              "enable_age_gate_label": false
+            },
+            "icon_in_image": {
+              "icon_type": 2,
+              "ads_text": "Ad"
+            },
+            "image_overlay": null,
+            "seller_flag": null,
+            "promotion_label_list": null,
+            "icon_in_price": null,
+            "discount_tag": null,
+            "voucher_applied_icon": {
+              "can_display": true
+            },
+            "rating": {
+              "rating_text": "4.9",
+              "icon": {
+                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                "width": 10,
+                "height": 10
+              },
+              "rating_type": 1
+            },
+            "sold_count": {
+              "text": "10k+ sold"
+            },
+            "estimated_delivery_time": null,
+            "free_badge": null,
+            "find_similar": null,
+            "long_image": null,
+            "long_images": null,
+            "top_product_badge": null,
+            "name_tr": null,
+            "shop_location_tr": null,
+            "display_price": {
+              "price": 9303000,
+              "strikethrough_price": null,
+              "hidden_price_display_text": null,
+              "display_price_type": 0,
+              "installment_price": null,
+              "display_price_asset": null
+            },
+            "final_price_icon": {
+              "icon_type": 1,
+              "icon": {
+                "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+                "width": 48,
+                "height": 48
+              }
+            }
+          },
+          "item_data": {
+            "itemid": 21207331761,
+            "shopid": 268706552,
+            "is_adult": false,
+            "need_kyc": false,
+            "adult_age_threshold": null,
+            "item_card_display_price": {
+              "item_id": 21207331761,
+              "model_id": 97808520124,
+              "promotion_type": 302,
+              "promotion_id": 290919467331587,
+              "price": 9303000,
+              "strikethrough_price": 14900000,
+              "discount": 38,
+              "hidden_price_display_text": null,
+              "recommended_shop_voucher_promotion_id": 1454019978207232,
+              "recommended_platform_voucher_promotion_id": 1083016027054084,
+              "recommended_shop_voucher_info": {
+                "promotion_id": 1454019978207232,
+                "voucher_code": "ZENY06OFF",
+                "voucher_discount": 600000,
+                "time_info": {
+                  "start_time": 1784030400,
+                  "end_time": 1784303940,
+                  "valid_duration": null
+                },
+                "groups": null,
+                "min_spend": 9000000,
+                "signature": "1a246b673261d39e50f316482e9a88e8e4d0073f7b49de84eb3ac7bb12f30ab6",
+                "signature_source": 16
+              },
+              "recommended_platform_voucher_info": {
+                "promotion_id": 1083016027054084,
+                "voucher_code": "NUZVOUCH123",
+                "voucher_discount": 10000,
+                "time_info": {
+                  "start_time": 1738564950,
+                  "end_time": 2147454840,
+                  "valid_duration": {
+                    "value_in_secs": 172800,
+                    "type": 1
+                  }
+                },
+                "groups": [
+                  "BAU new user voucher"
+                ],
+                "min_spend": 2000000,
+                "signature": "39edd83f1c4c8053e8690c89f42a763c2c16922d75bf4a411ce8113c8f7023fe",
+                "signature_source": 16
+              },
+              "original_price": 14900000,
+              "model_selection_logic": null,
+              "promotion_price": 9913000,
+              "pix_discount_info": null,
+              "recommended_ads_voucher_info": null
+            },
+            "item_card_display_sold_count": {
+              "historical_sold_count": 11421,
+              "monthly_sold_count": 233,
+              "historical_sold_count_text": "10k+ sold",
+              "monthly_sold_count_text": "233 Sold/Month"
+            },
+            "is_sold_out": false,
+            "is_preview": false,
+            "label_ids": [
+              22,
+              1010074,
+              1011653,
+              1014936,
+              1015756,
+              1400025225,
+              1400020252,
+              700025219,
+              1400095021,
+              1428754,
+              822059734999051,
+              825249635454464,
+              997781080,
+              1428713,
+              1718087960,
+              1000035,
+              1119699,
+              1007622,
+              700630038,
+              840681033054223,
+              1400620060,
+              1993633,
+              1988643,
+              298843359,
+              2073625,
+              700445044,
+              843079680351338,
+              2018639,
+              2208609,
+              298733331,
+              298733330,
+              2213585,
+              2318721,
+              700960097,
+              1718387964,
+              1718393030,
+              839720755463713,
+              843158296243269,
+              822120593197072,
+              843080294716568,
+              843080294718104,
+              298788312,
+              998031006,
+              814381247146502,
+              700815075,
+              298888328
+            ],
+            "catid": 100010,
+            "shopee_verified": false,
+            "liked_count": 3136,
+            "item_type": 0,
+            "reference_item_id": null,
+            "shop_data": {
+              "shop_name": "Zenyum Official Store",
+              "shop_icon": null,
+              "shop_location": "SG"
+            },
+            "status": 1,
+            "ctime": 1654064249,
+            "flag": 268435456,
+            "item_status": "normal",
+            "global_cat": {
+              "catid": [
+                100010,
+                100038,
+                100172
+              ]
+            },
+            "overlay_images": null,
+            "item_rating": {
+              "rating_star": 4.901657060518732,
+              "rating_count": [
+                2776,
+                25,
+                7,
+                24,
+                104,
+                2616
+              ]
+            },
+            "global_brand": {
+              "brand_id": 1233278,
+              "display_name": null
+            },
+            "platform_voucher": null,
+            "video_info_list": [
+              {
+                "video_id": "c70d75c4134b7b2f1292154349e00903",
+                "thumb_url": "28ae51a089c8b4ad3385c023cb768c57",
+                "duration": 30,
+                "version": 2,
+                "vid": "sg_337bf6fa-66cc-46af-b0ae-dedc0e9aca2a_000171",
+                "formats": [
+                  {
+                    "format": 1600008,
+                    "defn": "V720P",
+                    "profile": "MP4",
+                    "path": "c3/98934353/105/A3oxOIPZACQ8GR4HERoJACY.mp4",
+                    "url": "https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIPZACQ8GR4HERoJACY.mp4",
+                    "width": 1280,
+                    "height": 720
+                  }
+                ],
+                "default_format": {
+                  "format": 1600323,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": null,
+                  "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_337bf6fa-66cc-46af-b0ae-dedc0e9aca2a_000171.default.mp4",
+                  "width": 960,
+                  "height": 540
+                },
+                "mms_data": "{\"vid\":\"sg_337bf6fa-66cc-46af-b0ae-dedc0e9aca2a_000171\",\"biz\":107,\"duration\":30040,\"create_time\":1656909859,\"update_time\":1656909863,\"serviceID\":2,\"cover\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOCFnAFBwGB4HESIFACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxOIPZACQ8GR4HERoJACY.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOIPZACQ8GR4HERoJACY.mp4\",\"width\":1280,\"height\":720,\"bitrate\":1169597,\"abitrate\":62924,\"size\":4657368,\"fps\":25,\"duration\":30079,\"update_time\":1656909877,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_337bf6fa-66cc-46af-b0ae-dedc0e9aca2a_000171.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":461830,\"abitrate\":63000,\"size\":1992640,\"fps\":25.03333,\"duration\":30096,\"update_time\":1705318499,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_337bf6fa-66cc-46af-b0ae-dedc0e9aca2a_000171.16003091678833372.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_337bf6fa-66cc-46af-b0ae-dedc0e9aca2a_000171.16003091678833372.mp4\",\"width\":1280,\"height\":720,\"bitrate\":840315,\"abitrate\":63048,\"size\":3417352,\"fps\":25.03333,\"duration\":30000,\"update_time\":1678833454,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+              }
+            ],
+            "tier_variations": [
+              {
+                "name": "Colour",
+                "options": [
+                  "White Water Flosser",
+                  "Black Water Flosser",
+                  "Pink Water Flosser",
+                  "Purple Water Flosser"
+                ],
+                "images": [
+                  "sg-11134207-7rdyf-m1i6z102kzpl78",
+                  "sg-11134207-7rdwd-m1i6z70hqvee96",
+                  "sg-11134207-7rdy0-mda5iq0juv3t95",
+                  "sg-11134207-8260j-mmh5jv1z6jnk07"
+                ],
+                "properties": null,
+                "type": 0
+              }
+            ],
+            "ad_voucher_signature": null,
+            "is_sexual": false
+          }
+        },
+        {
+          "item_card_displayed_asset": {
+            "name": "Zenyum Sonic Go Essential Travel Electric Toothbrush - Black/ White (Portable, Lightweight)",
+            "image": "sg-11134207-7rbmu-loau6dwjzgds54",
+            "images": [
+              "sg-11134207-7rbmu-loau6dwjzgds54",
+              "sg-11134207-7rbkm-loau6dwk0uy8ca",
+              "5a291a46301b99dc0f128d8bbe103f93",
+              "sg-11134201-22090-7fx66a7i43hv35",
+              "a85f18494a4cff79228f5eb73792ab50",
+              "72a6b722b431d6abc1bd3c3abc7d343e",
+              "140504c1c60bd2a732503c46d6d064e4",
+              "9baedd8bba6906c12f91d3aae39e24c5"
+            ],
+            "shop_location": null,
+            "highlight_videos": null,
+            "item_card_mask": {
+              "mask_type": null,
+              "mask_text": null,
+              "pre_kyc_text": "Age Verification Required",
+              "post_kyc_text": "Restricted Item",
+              "enable_age_gate_label": false
+            },
+            "icon_in_image": {
+              "icon_type": 2,
+              "ads_text": "Ad"
+            },
+            "image_overlay": null,
+            "seller_flag": null,
+            "promotion_label_list": null,
+            "icon_in_price": null,
+            "discount_tag": null,
+            "voucher_applied_icon": {
+              "can_display": true
+            },
+            "rating": {
+              "rating_text": "4.9",
+              "icon": {
+                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                "width": 10,
+                "height": 10
+              },
+              "rating_type": 1
+            },
+            "sold_count": {
+              "text": "9k+ sold"
+            },
+            "estimated_delivery_time": null,
+            "free_badge": null,
+            "find_similar": null,
+            "long_image": null,
+            "long_images": null,
+            "top_product_badge": null,
+            "name_tr": null,
+            "shop_location_tr": null,
+            "display_price": {
+              "price": 3639000,
+              "strikethrough_price": null,
+              "hidden_price_display_text": null,
+              "display_price_type": 0,
+              "installment_price": null,
+              "display_price_asset": null
+            },
+            "final_price_icon": {
+              "icon_type": 1,
+              "icon": {
+                "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+                "width": 48,
+                "height": 48
+              }
+            }
+          },
+          "item_data": {
+            "itemid": 21309410512,
+            "shopid": 268706552,
+            "is_adult": false,
+            "need_kyc": false,
+            "adult_age_threshold": null,
+            "item_card_display_price": {
+              "item_id": 21309410512,
+              "model_id": 210537077920,
+              "promotion_type": 302,
+              "promotion_id": 290919467331587,
+              "price": 3639000,
+              "strikethrough_price": 5990000,
+              "discount": 39,
+              "hidden_price_display_text": null,
+              "recommended_shop_voucher_promotion_id": 1458359715373056,
+              "recommended_platform_voucher_promotion_id": 1083016027054084,
+              "recommended_shop_voucher_info": {
+                "promotion_id": 1458359715373056,
+                "voucher_code": "SFC-1458359715373056",
+                "voucher_discount": 500000,
+                "time_info": {
+                  "start_time": 1783309253,
+                  "end_time": 1790783993,
+                  "valid_duration": null
+                },
+                "groups": null,
+                "min_spend": 600000,
+                "signature": "ffcaf3fa48c02cb88bb6678337da30a947f0974028cf67e63e8f25334efc8fb8",
+                "signature_source": 16
+              },
+              "recommended_platform_voucher_info": {
+                "promotion_id": 1083016027054084,
+                "voucher_code": "NUZVOUCH123",
+                "voucher_discount": 10000,
+                "time_info": {
+                  "start_time": 1738564950,
+                  "end_time": 2147454840,
+                  "valid_duration": {
+                    "value_in_secs": 172800,
+                    "type": 1
+                  }
+                },
+                "groups": [
+                  "BAU new user voucher"
+                ],
+                "min_spend": 2000000,
+                "signature": "39edd83f1c4c8053e8690c89f42a763c2c16922d75bf4a411ce8113c8f7023fe",
+                "signature_source": 16
+              },
+              "original_price": 5990000,
+              "model_selection_logic": null,
+              "promotion_price": 4149000,
+              "pix_discount_info": null,
+              "recommended_ads_voucher_info": null
+            },
+            "item_card_display_sold_count": {
+              "historical_sold_count": 9228,
+              "monthly_sold_count": 137,
+              "historical_sold_count_text": "9k+ sold",
+              "monthly_sold_count_text": "137 Sold/Month"
+            },
+            "is_sold_out": false,
+            "is_preview": false,
+            "label_ids": [
+              22,
+              1010074,
+              1011653,
+              1014936,
+              1015756,
+              1400025225,
+              1400020252,
+              700025219,
+              1400095021,
+              1428754,
+              822059734999051,
+              825249635454464,
+              997781080,
+              700445044,
+              843079680351338,
+              1718087960,
+              1428713,
+              1000035,
+              1119699,
+              840681033054223,
+              1007622,
+              700630038,
+              1400620060,
+              1993633,
+              1988651,
+              298843359,
+              2073625,
+              2018639,
+              2208609,
+              298733331,
+              298733330,
+              2213585,
+              2318721,
+              700960097,
+              814381247146502,
+              298933337,
+              998301212,
+              843080294716568,
+              843080294718104,
+              839720755463713,
+              822120593197072,
+              843158296243269,
+              298788312,
+              998031006,
+              1718387964,
+              1718393030,
+              700815075,
+              298888328,
+              2098767
+            ],
+            "catid": 100001,
+            "shopee_verified": false,
+            "liked_count": 2751,
+            "item_type": 0,
+            "reference_item_id": null,
+            "shop_data": {
+              "shop_name": "Zenyum Official Store",
+              "shop_icon": null,
+              "shop_location": "SG"
+            },
+            "status": 1,
+            "ctime": 1654657951,
+            "flag": 268435456,
+            "item_status": "normal",
+            "global_cat": {
+              "catid": [
+                100001,
+                100019,
+                100134,
+                100439
+              ]
+            },
+            "overlay_images": null,
+            "item_rating": {
+              "rating_star": 4.920502092050209,
+              "rating_count": [
+                2390,
+                10,
+                5,
+                20,
+                95,
+                2260
+              ]
+            },
+            "global_brand": {
+              "brand_id": 1233278,
+              "display_name": null
+            },
+            "platform_voucher": null,
+            "video_info_list": [
+              {
+                "video_id": "33f4e63d0862d6ab0f82e86fa3b5a0d5",
+                "thumb_url": "c5144d1d6d8a08262e15753fba95a5fc",
+                "duration": 30,
+                "version": 2,
+                "vid": "sg_7f67c12c-4dde-4d66-b1d6-a27266ecbb95_000198",
+                "formats": [
+                  {
+                    "format": 1600008,
+                    "defn": "V720P",
+                    "profile": "MP4",
+                    "path": "c3/98934353/105/A3oxONwjAGyJPj8KERsEACY.mp4",
+                    "url": "https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxONwjAGyJPj8KERsEACY.mp4",
+                    "width": 720,
+                    "height": 720
+                  }
+                ],
+                "default_format": {
+                  "format": 1600323,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": null,
+                  "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_7f67c12c-4dde-4d66-b1d6-a27266ecbb95_000198.default.mp4",
+                  "width": 540,
+                  "height": 540
+                },
+                "mms_data": "{\"vid\":\"sg_7f67c12c-4dde-4d66-b1d6-a27266ecbb95_000198\",\"biz\":107,\"duration\":30038,\"create_time\":1660270108,\"update_time\":1660270111,\"serviceID\":2,\"cover\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxOMLkAJylPT8KER8AACc.jpg\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"c3/98934353/105/A3oxONwjAGyJPj8KERsEACY.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/c3/98934353/105/A3oxONwjAGyJPj8KERsEACY.mp4\",\"width\":720,\"height\":720,\"bitrate\":670483,\"abitrate\":96221,\"size\":2898448,\"fps\":25.03338,\"duration\":30024,\"update_time\":1660270126,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_7f67c12c-4dde-4d66-b1d6-a27266ecbb95_000198.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":427292,\"abitrate\":128218,\"size\":2105413,\"fps\":25.03338,\"duration\":30016,\"update_time\":1705020230,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_7f67c12c-4dde-4d66-b1d6-a27266ecbb95_000198.16003091679219106.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_7f67c12c-4dde-4d66-b1d6-a27266ecbb95_000198.16003091679219106.mp4\",\"width\":720,\"height\":720,\"bitrate\":349080,\"abitrate\":128172,\"size\":1817275,\"fps\":25.03338,\"duration\":29976,\"update_time\":1679219147,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+              }
+            ],
+            "tier_variations": [
+              {
+                "name": "Color",
+                "options": [
+                  "White",
+                  "Black"
+                ],
+                "images": [
+                  "sg-11134207-7rbmq-loau6dwk3o34d2",
+                  "sg-11134207-7rbkf-loau6dwk52nk54"
+                ],
+                "properties": null,
+                "type": 0
+              }
+            ],
+            "ad_voucher_signature": null,
+            "is_sexual": false
+          }
+        },
+        {
+          "item_card_displayed_asset": {
+            "name": "Zenyum Sonic Electric Toothbrush 2.0 -  Black/White/Pink/Blue/Green/Purple/Grey",
+            "image": "sg-11134207-824ir-mdyguw4nvlz617",
+            "images": [
+              "sg-11134207-824ir-mdyguw4nvlz617",
+              "sg-11134207-7rdw0-md1idul67y3236",
+              "sg-11134207-7rdvj-md1id8buprnk5c",
+              "sg-11134207-7rdvj-md1hvxo1wmkc13",
+              "sg-11134207-7rdy8-md1hvxp5wenw56",
+              "sg-11134207-7rdwe-md1hvxt1s47o12",
+              "sg-11134207-7rdym-md1hvy4592dw3e",
+              "sg-11134207-7rdxz-md1hvxzzf6615f"
+            ],
+            "shop_location": null,
+            "highlight_videos": null,
+            "item_card_mask": {
+              "mask_type": null,
+              "mask_text": null,
+              "pre_kyc_text": "Age Verification Required",
+              "post_kyc_text": "Restricted Item",
+              "enable_age_gate_label": false
+            },
+            "icon_in_image": {
+              "icon_type": 2,
+              "ads_text": "Ad"
+            },
+            "image_overlay": null,
+            "seller_flag": null,
+            "promotion_label_list": null,
+            "icon_in_price": null,
+            "discount_tag": null,
+            "voucher_applied_icon": {
+              "can_display": true
+            },
+            "rating": {
+              "rating_text": "4.9",
+              "icon": {
+                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                "width": 10,
+                "height": 10
+              },
+              "rating_type": 1
+            },
+            "sold_count": {
+              "text": "40k+ sold"
+            },
+            "estimated_delivery_time": null,
+            "free_badge": null,
+            "find_similar": null,
+            "long_image": null,
+            "long_images": null,
+            "top_product_badge": null,
+            "name_tr": null,
+            "shop_location_tr": null,
+            "display_price": {
+              "price": 6757000,
+              "strikethrough_price": null,
+              "hidden_price_display_text": null,
+              "display_price_type": 0,
+              "installment_price": null,
+              "display_price_asset": null
+            },
+            "final_price_icon": {
+              "icon_type": 1,
+              "icon": {
+                "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+                "width": 48,
+                "height": 48
+              }
+            }
+          },
+          "item_data": {
+            "itemid": 6844124076,
+            "shopid": 268706552,
+            "is_adult": false,
+            "need_kyc": false,
+            "adult_age_threshold": null,
+            "item_card_display_price": {
+              "item_id": 6844124076,
+              "model_id": 24529907100,
+              "promotion_type": 302,
+              "promotion_id": 290919467331587,
+              "price": 6757000,
+              "strikethrough_price": 11990000,
+              "discount": 44,
+              "hidden_price_display_text": null,
+              "recommended_shop_voucher_promotion_id": 1458359715373056,
+              "recommended_platform_voucher_promotion_id": 1083016027054084,
+              "recommended_shop_voucher_info": {
+                "promotion_id": 1458359715373056,
+                "voucher_code": "SFC-1458359715373056",
+                "voucher_discount": 500000,
+                "time_info": {
+                  "start_time": 1783309253,
+                  "end_time": 1790783993,
+                  "valid_duration": null
+                },
+                "groups": null,
+                "min_spend": 600000,
+                "signature": "ffcaf3fa48c02cb88bb6678337da30a947f0974028cf67e63e8f25334efc8fb8",
+                "signature_source": 16
+              },
+              "recommended_platform_voucher_info": {
+                "promotion_id": 1083016027054084,
+                "voucher_code": "NUZVOUCH123",
+                "voucher_discount": 10000,
+                "time_info": {
+                  "start_time": 1738564950,
+                  "end_time": 2147454840,
+                  "valid_duration": {
+                    "value_in_secs": 172800,
+                    "type": 1
+                  }
+                },
+                "groups": [
+                  "BAU new user voucher"
+                ],
+                "min_spend": 2000000,
+                "signature": "39edd83f1c4c8053e8690c89f42a763c2c16922d75bf4a411ce8113c8f7023fe",
+                "signature_source": 16
+              },
+              "original_price": 11990000,
+              "model_selection_logic": null,
+              "promotion_price": 7267000,
+              "pix_discount_info": null,
+              "recommended_ads_voucher_info": null
+            },
+            "item_card_display_sold_count": {
+              "historical_sold_count": 43009,
+              "monthly_sold_count": 683,
+              "historical_sold_count_text": "40k+ sold",
+              "monthly_sold_count_text": "683 Sold/Month"
+            },
+            "is_sold_out": false,
+            "is_preview": false,
+            "label_ids": [
+              22,
+              1010074,
+              1011653,
+              1014936,
+              1015756,
+              1400025225,
+              1400020252,
+              700025219,
+              1400095021,
+              1428754,
+              1000094,
+              822059734999051,
+              825249635454464,
+              997781080,
+              843079680351338,
+              1718087960,
+              1428713,
+              1000035,
+              1119699,
+              1007622,
+              840681033054223,
+              1400620060,
+              700445044,
+              298843359,
+              2073625,
+              700630038,
+              1993633,
+              1988651,
+              2018639,
+              2208609,
+              298733331,
+              298733330,
+              2213585,
+              2318721,
+              700960097,
+              1718387964,
+              1718393030,
+              843158296243269,
+              822120593197072,
+              839720755463713,
+              843080294718104,
+              843080294716568,
+              298788312,
+              998031006,
+              298933337,
+              998301212,
+              814381247146502,
+              700815075,
+              298888328,
+              2098767
+            ],
+            "catid": 100001,
+            "shopee_verified": false,
+            "liked_count": 9271,
+            "item_type": 0,
+            "reference_item_id": null,
+            "shop_data": {
+              "shop_name": "Zenyum Official Store",
+              "shop_icon": null,
+              "shop_location": "SG"
+            },
+            "status": 1,
+            "ctime": 1596004454,
+            "flag": 268435456,
+            "item_status": "normal",
+            "global_cat": {
+              "catid": [
+                100001,
+                100019,
+                100134,
+                100439
+              ]
+            },
+            "overlay_images": null,
+            "item_rating": {
+              "rating_star": 4.909026548672566,
+              "rating_count": [
+                11301,
+                67,
+                34,
+                109,
+                444,
+                10647
+              ]
+            },
+            "global_brand": {
+              "brand_id": 1233278,
+              "display_name": null
+            },
+            "platform_voucher": null,
+            "video_info_list": [
+              {
+                "video_id": "api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.16000081759395609.mp4",
+                "thumb_url": "sg-11110105-6v8gt-mfcd9j6cjwni41_cover",
+                "duration": 18,
+                "version": 2,
+                "vid": "sg-11110105-6v8gt-mfcd9j6cjwni41",
+                "formats": [
+                  {
+                    "format": 1600008,
+                    "defn": "V720P",
+                    "profile": "MP4",
+                    "path": "api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.16000081759395609.mp4",
+                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.16000081759395609.mp4",
+                    "width": 720,
+                    "height": 900
+                  }
+                ],
+                "default_format": {
+                  "format": 1600323,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": null,
+                  "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.default.mp4",
+                  "width": 540,
+                  "height": 676
+                },
+                "mms_data": "{\"vid\":\"sg-11110105-6v8gt-mfcd9j6cjwni41\",\"biz\":107,\"duration\":18333,\"create_time\":1759395604,\"update_time\":1759395612,\"serviceID\":2,\"cover\":\"https://down-bs-sg.img.susercontent.com/sg-11110105-6v8gt-mfcd9j6cjwni41_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.16000081759395609.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.16000081759395609.mp4\",\"width\":720,\"height\":900,\"bitrate\":255780,\"abitrate\":128175,\"size\":881925,\"fps\":25,\"duration\":18040,\"update_time\":1759395618,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.default.mp4\",\"width\":540,\"height\":676,\"bitrate\":173959,\"abitrate\":32332,\"size\":481581,\"fps\":25,\"duration\":18040,\"update_time\":1759395622,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.16003091759395618.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6v8gt-mfcd9j6cjwni41.16003091759395618.mp4\",\"width\":720,\"height\":900,\"bitrate\":105224,\"abitrate\":128175,\"size\":545223,\"fps\":25,\"duration\":18040,\"update_time\":1759395629,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+              }
+            ],
+            "tier_variations": [
+              {
+                "name": "Colour",
+                "options": [
+                  "Green",
+                  "Blue",
+                  "Black",
+                  "Pink",
+                  "White",
+                  "Purple",
+                  "Grey"
+                ],
+                "images": [
+                  "sg-11134207-7rdve-mdclvkmzdx46e9",
+                  "sg-11134207-7rdwt-mdclvdg3y5am0b",
+                  "sg-11134207-7rdvv-mdclv93ca5t202",
+                  "sg-11134207-7rdym-mdclv5q3aedq00",
+                  "sg-11134207-7rdwm-mdclv2zl6bw7b6",
+                  "sg-11134207-7rdyc-mdcluvotw913b3",
+                  "sg-11134207-7rdw3-mdcluy5w9wsucd"
+                ],
+                "properties": null,
+                "type": 0
+              }
+            ],
+            "ad_voucher_signature": null,
+            "is_sexual": false
+          }
+        },
+        {
+          "item_card_displayed_asset": {
+            "name": "Zenyum Bright Invisible Whitening Strips - 14 Strips (Dental Care Teeth Treatment)",
+            "image": "sg-11134207-7rdx6-mc5p6y2t197c36",
+            "images": [
+              "sg-11134207-7rdx6-mc5p6y2t197c36",
+              "a4486be0c2ea512685f080c8aa7a42a6",
+              "sg-11134207-7rcez-lsru29x20roofd",
+              "dc28b9604e1c3d37eb1e30413394b804",
+              "sg-11134207-7rcef-lsru29x2269496",
+              "sg-11134201-22090-y64pv2mgh3hvdb",
+              "cd8c79567c032232cbd2d921d0568450",
+              "781d0645ee5c59dfda658e710a014b36"
+            ],
+            "shop_location": null,
+            "highlight_videos": null,
+            "item_card_mask": {
+              "mask_type": null,
+              "mask_text": null,
+              "pre_kyc_text": "Age Verification Required",
+              "post_kyc_text": "Restricted Item",
+              "enable_age_gate_label": false
+            },
+            "icon_in_image": {
+              "icon_type": 2,
+              "ads_text": "Ad"
+            },
+            "image_overlay": null,
+            "seller_flag": null,
+            "promotion_label_list": null,
+            "icon_in_price": null,
+            "discount_tag": null,
+            "voucher_applied_icon": {
+              "can_display": true
+            },
+            "rating": {
+              "rating_text": "4.8",
+              "icon": {
+                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                "width": 10,
+                "height": 10
+              },
+              "rating_type": 1
+            },
+            "sold_count": {
+              "text": "10k+ sold"
+            },
+            "estimated_delivery_time": null,
+            "free_badge": null,
+            "find_similar": null,
+            "long_image": null,
+            "long_images": null,
+            "top_product_badge": null,
+            "name_tr": null,
+            "shop_location_tr": null,
+            "display_price": {
+              "price": 2599000,
+              "strikethrough_price": null,
+              "hidden_price_display_text": null,
+              "display_price_type": 0,
+              "installment_price": null,
+              "display_price_asset": null
+            },
+            "final_price_icon": {
+              "icon_type": 1,
+              "icon": {
+                "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+                "width": 48,
+                "height": 48
+              }
+            }
+          },
+          "item_data": {
+            "itemid": 20447982770,
+            "shopid": 268706552,
+            "is_adult": false,
+            "need_kyc": false,
+            "adult_age_threshold": null,
+            "item_card_display_price": {
+              "item_id": 20447982770,
+              "model_id": 164640078845,
+              "promotion_type": 302,
+              "promotion_id": 290919467331587,
+              "price": 2599000,
+              "strikethrough_price": 4990000,
+              "discount": 48,
+              "hidden_price_display_text": null,
+              "recommended_shop_voucher_promotion_id": 1458359715373056,
+              "recommended_platform_voucher_promotion_id": 1083016027054084,
+              "recommended_shop_voucher_info": {
+                "promotion_id": 1458359715373056,
+                "voucher_code": "SFC-1458359715373056",
+                "voucher_discount": 500000,
+                "time_info": {
+                  "start_time": 1783309253,
+                  "end_time": 1790783993,
+                  "valid_duration": null
+                },
+                "groups": null,
+                "min_spend": 600000,
+                "signature": "ffcaf3fa48c02cb88bb6678337da30a947f0974028cf67e63e8f25334efc8fb8",
+                "signature_source": 16
+              },
+              "recommended_platform_voucher_info": {
+                "promotion_id": 1083016027054084,
+                "voucher_code": "NUZVOUCH123",
+                "voucher_discount": 10000,
+                "time_info": {
+                  "start_time": 1738564950,
+                  "end_time": 2147454840,
+                  "valid_duration": {
+                    "value_in_secs": 172800,
+                    "type": 1
+                  }
+                },
+                "groups": [
+                  "BAU new user voucher"
+                ],
+                "min_spend": 2000000,
+                "signature": "39edd83f1c4c8053e8690c89f42a763c2c16922d75bf4a411ce8113c8f7023fe",
+                "signature_source": 16
+              },
+              "original_price": 4990000,
+              "model_selection_logic": null,
+              "promotion_price": 3109000,
+              "pix_discount_info": null,
+              "recommended_ads_voucher_info": null
+            },
+            "item_card_display_sold_count": {
+              "historical_sold_count": 16642,
+              "monthly_sold_count": 562,
+              "historical_sold_count_text": "10k+ sold",
+              "monthly_sold_count_text": "562 Sold/Month"
+            },
+            "is_sold_out": false,
+            "is_preview": false,
+            "label_ids": [
+              22,
+              1010074,
+              1011653,
+              1014936,
+              1015756,
+              1400025225,
+              1400020252,
+              700025219,
+              1400095021,
+              1428754,
+              844931064601283,
+              844931086908638,
+              1718087960,
+              1428713,
+              822059734999051,
+              1000035,
+              1119699,
+              840681033054223,
+              1007622,
+              700630038,
+              1400620060,
+              1993633,
+              1988651,
+              298843359,
+              2073625,
+              2018639,
+              298733331,
+              298733330,
+              700445044,
+              843079680351338,
+              2213585,
+              2208609,
+              700960097,
+              2318721,
+              1718387964,
+              1718393030,
+              822120593197072,
+              839720755463713,
+              843080294718104,
+              843158296243269,
+              843080294716568,
+              298788312,
+              998031006,
+              814381247146502,
+              700815075,
+              298888328
+            ],
+            "catid": 100001,
+            "shopee_verified": false,
+            "liked_count": 5248,
+            "item_type": 0,
+            "reference_item_id": null,
+            "shop_data": {
+              "shop_name": "Zenyum Official Store",
+              "shop_icon": null,
+              "shop_location": "SG"
+            },
+            "status": 1,
+            "ctime": 1663740973,
+            "flag": 268632064,
+            "item_status": "normal",
+            "global_cat": {
+              "catid": [
+                100001,
+                100019,
+                100134,
+                100444
+              ]
+            },
+            "overlay_images": null,
+            "item_rating": {
+              "rating_star": 4.772061023033204,
+              "rating_count": [
+                3343,
+                45,
+                36,
+                119,
+                236,
+                2907
+              ]
+            },
+            "global_brand": {
+              "brand_id": 1233278,
+              "display_name": null
+            },
+            "platform_voucher": null,
+            "video_info_list": [
+              {
+                "video_id": "71f0b447e73db425aa556287f9c9f4eb",
+                "thumb_url": "00d11a06e775eff7df91b10a667c02ca",
+                "duration": 23,
+                "version": 2,
+                "vid": "sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246",
+                "formats": [
+                  {
+                    "format": 1600008,
+                    "defn": "V720P",
+                    "profile": "MP4",
+                    "path": "api/v4/11110105/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.12000081665722181.mp4",
+                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.12000081665722181.mp4",
+                    "width": 720,
+                    "height": 720
+                  }
+                ],
+                "default_format": {
+                  "format": 1600323,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": null,
+                  "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.default.mp4",
+                  "width": 540,
+                  "height": 540
+                },
+                "mms_data": "{\"vid\":\"sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246\",\"biz\":107,\"duration\":22890,\"create_time\":1665722173,\"update_time\":1665722175,\"serviceID\":2,\"cover\":\"https://down-bs-sg.img.susercontent.com/sg-11110105-22100-iiivm1pp8miv14\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.12000081665722181.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.12000081665722181.mp4\",\"width\":720,\"height\":720,\"bitrate\":1169224,\"abitrate\":96208,\"size\":3643652,\"fps\":25,\"duration\":22920,\"update_time\":1665722181,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.default.mp4\",\"width\":540,\"height\":540,\"bitrate\":400869,\"abitrate\":128119,\"size\":1529544,\"fps\":25.04378,\"duration\":22870,\"update_time\":1705317231,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.16003091676553690.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110107/mms/sg_8fde0213-d905-4a1d-8b62-e51baa69ae34_000246.16003091676553690.mp4\",\"width\":720,\"height\":720,\"bitrate\":487101,\"abitrate\":128130,\"size\":1779830,\"fps\":25.04378,\"duration\":22840,\"update_time\":1676553713,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+              }
+            ],
+            "tier_variations": [
+              {
+                "name": "Variation",
+                "options": [
+                  "14 Strips"
+                ],
+                "images": [
+                  "sg-11134207-23030-9cyqrcl5c5nv48"
+                ],
+                "properties": null,
+                "type": 0
+              }
+            ],
+            "ad_voucher_signature": null,
+            "is_sexual": false
+          }
+        },
+        {
+          "item_card_displayed_asset": {
+            "name": "Zenyum Water Flosser Go (Blue/Grey/Pink/Purple)",
+            "image": "sg-11134207-8262e-mkklngyusxs6c7",
+            "images": [
+              "sg-11134207-8262e-mkklngyusxs6c7",
+              "sg-11134207-8260b-ml35lu7cuq68b3",
+              "sg-11134207-8262z-ml35lu7crx1c87",
+              "sg-11134207-8261i-ml35lucyxhc53c",
+              "sg-11134207-82610-mlcbmqxcecqt06",
+              "sg-11134207-8261x-ml35lu77wc1y31",
+              "sg-11134207-82630-ml35ludqzfnl1b"
+            ],
+            "shop_location": null,
+            "highlight_videos": null,
+            "item_card_mask": {
+              "mask_type": null,
+              "mask_text": null,
+              "pre_kyc_text": "Age Verification Required",
+              "post_kyc_text": "Restricted Item",
+              "enable_age_gate_label": false
+            },
+            "icon_in_image": {
+              "icon_type": null,
+              "ads_text": "Ad"
+            },
+            "image_overlay": null,
+            "seller_flag": null,
+            "promotion_label_list": null,
+            "icon_in_price": null,
+            "discount_tag": null,
+            "voucher_applied_icon": {
+              "can_display": true
+            },
+            "rating": {
+              "rating_text": "4.9",
+              "icon": {
+                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                "width": 10,
+                "height": 10
+              },
+              "rating_type": 1
+            },
+            "sold_count": {
+              "text": "809 sold"
+            },
+            "estimated_delivery_time": null,
+            "free_badge": null,
+            "find_similar": null,
+            "long_image": null,
+            "long_images": null,
+            "top_product_badge": null,
+            "name_tr": null,
+            "shop_location_tr": null,
+            "display_price": {
+              "price": 6568000,
+              "strikethrough_price": null,
+              "hidden_price_display_text": null,
+              "display_price_type": 0,
+              "installment_price": null,
+              "display_price_asset": null
+            },
+            "final_price_icon": {
+              "icon_type": 1,
+              "icon": {
+                "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+                "width": 48,
+                "height": 48
+              }
+            }
+          },
+          "item_data": {
+            "itemid": 50806077568,
+            "shopid": 268706552,
+            "is_adult": false,
+            "need_kyc": false,
+            "adult_age_threshold": null,
+            "item_card_display_price": {
+              "item_id": 50806077568,
+              "model_id": 287403876602,
+              "promotion_type": 302,
+              "promotion_id": 290919467331587,
+              "price": 6568000,
+              "strikethrough_price": 10990000,
+              "discount": 40,
+              "hidden_price_display_text": null,
+              "recommended_shop_voucher_promotion_id": 1458359715373056,
+              "recommended_platform_voucher_promotion_id": 1083016027054084,
+              "recommended_shop_voucher_info": {
+                "promotion_id": 1458359715373056,
+                "voucher_code": "SFC-1458359715373056",
+                "voucher_discount": 500000,
+                "time_info": {
+                  "start_time": 1783309253,
+                  "end_time": 1790783993,
+                  "valid_duration": null
+                },
+                "groups": null,
+                "min_spend": 600000,
+                "signature": "ffcaf3fa48c02cb88bb6678337da30a947f0974028cf67e63e8f25334efc8fb8",
+                "signature_source": 16
+              },
+              "recommended_platform_voucher_info": {
+                "promotion_id": 1083016027054084,
+                "voucher_code": "NUZVOUCH123",
+                "voucher_discount": 10000,
+                "time_info": {
+                  "start_time": 1738564950,
+                  "end_time": 2147454840,
+                  "valid_duration": {
+                    "value_in_secs": 172800,
+                    "type": 1
+                  }
+                },
+                "groups": [
+                  "BAU new user voucher"
+                ],
+                "min_spend": 2000000,
+                "signature": "39edd83f1c4c8053e8690c89f42a763c2c16922d75bf4a411ce8113c8f7023fe",
+                "signature_source": 16
+              },
+              "original_price": 10990000,
+              "model_selection_logic": null,
+              "promotion_price": 7078000,
+              "pix_discount_info": null,
+              "recommended_ads_voucher_info": null
+            },
+            "item_card_display_sold_count": {
+              "historical_sold_count": 809,
+              "monthly_sold_count": 225,
+              "historical_sold_count_text": "809 sold",
+              "monthly_sold_count_text": "225 Sold/Month"
+            },
+            "is_sold_out": false,
+            "is_preview": false,
+            "label_ids": [
+              1000035,
+              22,
+              1010074,
+              1014936,
+              1007622,
+              1011653,
+              1428754,
+              1993633,
+              1015756,
+              2018639,
+              298733330,
+              298733331,
+              1400025225,
+              1400620060,
+              1400095021,
+              700630038,
+              700025219,
+              298843359,
+              1400020252,
+              844931064601283,
+              1428713,
+              1718087960,
+              1988643,
+              1119699,
+              822059734999051,
+              2208609,
+              700445044,
+              843079680351338,
+              840681033054223,
+              2213585,
+              700960097,
+              2318721,
+              1718387964,
+              1718393030
+            ],
+            "catid": 100010,
+            "shopee_verified": false,
+            "liked_count": 360,
+            "item_type": 0,
+            "reference_item_id": null,
+            "shop_data": {
+              "shop_name": "Zenyum Official Store",
+              "shop_icon": null,
+              "shop_location": "SG"
+            },
+            "status": 1,
+            "ctime": 1770791819,
+            "flag": 131072,
+            "item_status": "normal",
+            "global_cat": {
+              "catid": [
+                100010,
+                100038,
+                100172
+              ]
+            },
+            "overlay_images": null,
+            "item_rating": {
+              "rating_star": 4.92972972972973,
+              "rating_count": [
+                185,
+                1,
+                0,
+                0,
+                9,
+                175
+              ]
+            },
+            "global_brand": {
+              "brand_id": 1233278,
+              "display_name": null
+            },
+            "platform_voucher": null,
+            "video_info_list": null,
+            "tier_variations": [
+              {
+                "name": "Color",
+                "options": [
+                  "Blue",
+                  "Grey",
+                  "Pink",
+                  "Purple"
+                ],
+                "images": [
+                  "sg-11134207-825zn-mkklnh1h883m79",
+                  "sg-11134207-8262b-mkklngyusxs5fa",
+                  "sg-11134207-8262y-mkklngyscg008a",
+                  "sg-11134207-8262e-mkklngyusxs6c7"
+                ],
+                "properties": null,
+                "type": 0
+              }
+            ],
+            "ad_voucher_signature": null,
+            "is_sexual": false
+          }
+        },
+        {
+          "item_card_displayed_asset": {
+            "name": "ZenyumBright™ Whitening Duo - Instant Colour Corrector + Active Whitening Serum",
+            "image": "sg-11134207-7rasc-mb4mc1foefeef4",
+            "images": [
+              "sg-11134207-7rasc-mb4mc1foefeef4",
+              "sg-11134207-7rdw4-lypyts9tmhkk62",
+              "sg-11134207-7rdw9-lyyjofu8p0qu67",
+              "sg-11134207-7rdxs-lypyuzxdqolj6d",
+              "sg-11134207-7rdw0-lypytcnehics96",
+              "sg-11134207-7rdxm-lyvnwoo2cgx6d2",
+              "sg-11134207-7rdwt-lypyspytogsne6",
+              "sg-11134207-7rdvq-lyvnxaxxr0iqfe"
+            ],
+            "shop_location": null,
+            "highlight_videos": null,
+            "item_card_mask": {
+              "mask_type": null,
+              "mask_text": null,
+              "pre_kyc_text": "Age Verification Required",
+              "post_kyc_text": "Restricted Item",
+              "enable_age_gate_label": false
+            },
+            "icon_in_image": {
+              "icon_type": 2,
+              "ads_text": "Ad"
+            },
+            "image_overlay": null,
+            "seller_flag": null,
+            "promotion_label_list": null,
+            "icon_in_price": null,
+            "discount_tag": null,
+            "voucher_applied_icon": {
+              "can_display": true
+            },
+            "rating": {
+              "rating_text": "4.9",
+              "icon": {
+                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                "width": 10,
+                "height": 10
+              },
+              "rating_type": 1
+            },
+            "sold_count": {
+              "text": "1k+ sold"
+            },
+            "estimated_delivery_time": null,
+            "free_badge": null,
+            "find_similar": null,
+            "long_image": null,
+            "long_images": null,
+            "top_product_badge": null,
+            "name_tr": null,
+            "shop_location_tr": null,
+            "display_price": {
+              "price": 5245000,
+              "strikethrough_price": null,
+              "hidden_price_display_text": null,
+              "display_price_type": 0,
+              "installment_price": null,
+              "display_price_asset": null
+            },
+            "final_price_icon": {
+              "icon_type": 1,
+              "icon": {
+                "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+                "width": 48,
+                "height": 48
+              }
+            }
+          },
+          "item_data": {
+            "itemid": 28457123615,
+            "shopid": 268706552,
+            "is_adult": false,
+            "need_kyc": false,
+            "adult_age_threshold": null,
+            "item_card_display_price": {
+              "item_id": 28457123615,
+              "model_id": 226619804185,
+              "promotion_type": 302,
+              "promotion_id": 290919467331587,
+              "price": 5245000,
+              "strikethrough_price": 7980000,
+              "discount": 34,
+              "hidden_price_display_text": null,
+              "recommended_shop_voucher_promotion_id": 1458359715373056,
+              "recommended_platform_voucher_promotion_id": 1083016027054084,
+              "recommended_shop_voucher_info": {
+                "promotion_id": 1458359715373056,
+                "voucher_code": "SFC-1458359715373056",
+                "voucher_discount": 500000,
+                "time_info": {
+                  "start_time": 1783309253,
+                  "end_time": 1790783993,
+                  "valid_duration": null
+                },
+                "groups": null,
+                "min_spend": 600000,
+                "signature": "ffcaf3fa48c02cb88bb6678337da30a947f0974028cf67e63e8f25334efc8fb8",
+                "signature_source": 16
+              },
+              "recommended_platform_voucher_info": {
+                "promotion_id": 1083016027054084,
+                "voucher_code": "NUZVOUCH123",
+                "voucher_discount": 10000,
+                "time_info": {
+                  "start_time": 1738564950,
+                  "end_time": 2147454840,
+                  "valid_duration": {
+                    "value_in_secs": 172800,
+                    "type": 1
+                  }
+                },
+                "groups": [
+                  "BAU new user voucher"
+                ],
+                "min_spend": 2000000,
+                "signature": "39edd83f1c4c8053e8690c89f42a763c2c16922d75bf4a411ce8113c8f7023fe",
+                "signature_source": 16
+              },
+              "original_price": 7980000,
+              "model_selection_logic": null,
+              "promotion_price": 5755000,
+              "pix_discount_info": null,
+              "recommended_ads_voucher_info": null
+            },
+            "item_card_display_sold_count": {
+              "historical_sold_count": 1151,
+              "monthly_sold_count": 26,
+              "historical_sold_count_text": "1k+ sold",
+              "monthly_sold_count_text": "26 Sold/Month"
+            },
+            "is_sold_out": false,
+            "is_preview": false,
+            "label_ids": [
+              22,
+              1000035,
+              1010074,
+              1011653,
+              1014936,
+              1015756,
+              1428754,
+              700025219,
+              1400020252,
+              1400025225,
+              1400095021,
+              844931064601283,
+              1428713,
+              1718087960,
+              1119699,
+              1007622,
+              700630038,
+              822059734999051,
+              1400620060,
+              840681033054223,
+              1993633,
+              1988651,
+              298843359,
+              2073625,
+              2018639,
+              298733331,
+              298733330,
+              700445044,
+              843079680351338,
+              2213585,
+              2208609,
+              2318721,
+              1718387964,
+              1718393030,
+              298933337,
+              998301212,
+              843158296243269,
+              843080294718104,
+              822120593197072,
+              843080294716568,
+              839720755463713,
+              298788312,
+              998031006,
+              814381247146502,
+              700815075,
+              298888328,
+              2098767,
+              700960097
+            ],
+            "catid": 100001,
+            "shopee_verified": false,
+            "liked_count": 517,
+            "item_type": 0,
+            "reference_item_id": null,
+            "shop_data": {
+              "shop_name": "Zenyum Official Store",
+              "shop_icon": null,
+              "shop_location": "SG"
+            },
+            "status": 1,
+            "ctime": 1722924783,
+            "flag": 268566528,
+            "item_status": "normal",
+            "global_cat": {
+              "catid": [
+                100001,
+                100019,
+                100134,
+                100444
+              ]
+            },
+            "overlay_images": null,
+            "item_rating": {
+              "rating_star": 4.936102236421725,
+              "rating_count": [
+                313,
+                1,
+                1,
+                1,
+                11,
+                299
+              ]
+            },
+            "global_brand": {
+              "brand_id": 1233278,
+              "display_name": null
+            },
+            "platform_voucher": null,
+            "video_info_list": [
+              {
+                "video_id": "api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.16000081747361522.mp4",
+                "thumb_url": "sg-11110105-6kint-m9tkkc36hn2u02_cover",
+                "duration": 26,
+                "version": 2,
+                "vid": "sg-11110105-6kint-m9tkkc36hn2u02",
+                "formats": [
+                  {
+                    "format": 1600008,
+                    "defn": "V720P",
+                    "profile": "MP4",
+                    "path": "api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.16000081747361522.mp4",
+                    "url": "https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.16000081747361522.mp4",
+                    "width": 1280,
+                    "height": 720
+                  }
+                ],
+                "default_format": {
+                  "format": 1600323,
+                  "defn": "V540P",
+                  "profile": "MP4",
+                  "path": null,
+                  "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.default.mp4",
+                  "width": 960,
+                  "height": 540
+                },
+                "mms_data": "{\"vid\":\"sg-11110105-6kint-m9tkkc36hn2u02\",\"biz\":107,\"duration\":25843,\"create_time\":1747361520,\"update_time\":1747361523,\"serviceID\":2,\"cover\":\"https://down-bs-sg.img.susercontent.com/sg-11110105-6kint-m9tkkc36hn2u02_cover\",\"cover_list\":[],\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.16000081747361522.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.16000081747361522.mp4\",\"width\":1280,\"height\":720,\"bitrate\":703021,\"abitrate\":128400,\"size\":2705073,\"fps\":25,\"duration\":25843,\"update_time\":1747361538,\"codec\":\"H264\"}],\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.default.mp4\",\"width\":960,\"height\":540,\"bitrate\":429886,\"abitrate\":32364,\"size\":1513963,\"fps\":25,\"duration\":25843,\"update_time\":1747361598,\"codec\":\"H264\"},\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.16003091747361592.mp4\",\"url\":\"https://down-ws-sg.vod.susercontent.com/api/v4/11110105/mms/sg-11110105-6kint-m9tkkc36hn2u02.16003091747361592.mp4\",\"width\":1280,\"height\":720,\"bitrate\":375596,\"abitrate\":128400,\"size\":1652060,\"fps\":25,\"duration\":25843,\"update_time\":1747361619,\"codec\":\"H265\"}]},\"ab_test\":\"\"}"
+              }
+            ],
+            "tier_variations": [
+              {
+                "name": null,
+                "options": [
+                  ""
+                ],
+                "images": null,
+                "properties": null,
+                "type": 0
+              }
+            ],
+            "ad_voucher_signature": null,
+            "is_sexual": false
+          }
+        },
+        {
+          "item_card_displayed_asset": {
+            "name": "ZenyumFresh Daily Cleansing Tablet (36s)",
+            "image": "sg-11134207-824g3-mejo2ql28pa967",
+            "images": [
+              "sg-11134207-824g3-mejo2ql28pa967",
+              "sg-11134207-824i1-mejo2zbcoxl238",
+              "sg-11134207-824hb-mejo2ze9au4lb7",
+              "sg-11134207-824gi-mejo2zc7ft37f0",
+              "sg-11134207-824ij-mejo2zhqbdoi28",
+              "sg-11134207-824ir-mejo2zjqf75v84"
+            ],
+            "shop_location": null,
+            "highlight_videos": null,
+            "item_card_mask": {
+              "mask_type": null,
+              "mask_text": null,
+              "pre_kyc_text": "Age Verification Required",
+              "post_kyc_text": "Restricted Item",
+              "enable_age_gate_label": false
+            },
+            "icon_in_image": {
+              "icon_type": null,
+              "ads_text": "Ad"
+            },
+            "image_overlay": null,
+            "seller_flag": null,
+            "promotion_label_list": null,
+            "icon_in_price": null,
+            "discount_tag": null,
+            "voucher_applied_icon": {
+              "can_display": true
+            },
+            "rating": {
+              "rating_text": "5.0",
+              "icon": {
+                "hash": "id-11134258-7r98o-ly1pxywrszyh0b",
+                "width": 10,
+                "height": 10
+              },
+              "rating_type": 1
+            },
+            "sold_count": {
+              "text": "871 sold"
+            },
+            "estimated_delivery_time": null,
+            "free_badge": null,
+            "find_similar": null,
+            "long_image": null,
+            "long_images": null,
+            "top_product_badge": null,
+            "name_tr": null,
+            "shop_location_tr": null,
+            "display_price": {
+              "price": 341000,
+              "strikethrough_price": null,
+              "hidden_price_display_text": null,
+              "display_price_type": 0,
+              "installment_price": null,
+              "display_price_asset": null
+            },
+            "final_price_icon": {
+              "icon_type": 1,
+              "icon": {
+                "hash": "id-11134005-81ztm-mq5zs2sy7swe8e",
+                "width": 48,
+                "height": 48
+              }
+            }
+          },
+          "item_data": {
+            "itemid": 26341424258,
+            "shopid": 268706552,
+            "is_adult": false,
+            "need_kyc": false,
+            "adult_age_threshold": null,
+            "item_card_display_price": {
+              "item_id": 26341424258,
+              "model_id": 281530392367,
+              "promotion_type": 302,
+              "promotion_id": 290919467331587,
+              "price": 341000,
+              "strikethrough_price": 1290000,
+              "discount": 74,
+              "hidden_price_display_text": null,
+              "recommended_shop_voucher_promotion_id": 1458359715373056,
+              "recommended_platform_voucher_promotion_id": null,
+              "recommended_shop_voucher_info": {
+                "promotion_id": 1458359715373056,
+                "voucher_code": "SFC-1458359715373056",
+                "voucher_discount": 500000,
+                "time_info": {
+                  "start_time": 1783309253,
+                  "end_time": 1790783993,
+                  "valid_duration": null
+                },
+                "groups": null,
+                "min_spend": 600000,
+                "signature": "ffcaf3fa48c02cb88bb6678337da30a947f0974028cf67e63e8f25334efc8fb8",
+                "signature_source": 16
+              },
+              "recommended_platform_voucher_info": null,
+              "original_price": 1290000,
+              "model_selection_logic": null,
+              "promotion_price": 841000,
+              "pix_discount_info": null,
+              "recommended_ads_voucher_info": null
+            },
+            "item_card_display_sold_count": {
+              "historical_sold_count": 871,
+              "monthly_sold_count": 191,
+              "historical_sold_count_text": "871 sold",
+              "monthly_sold_count_text": "191 Sold/Month"
+            },
+            "is_sold_out": false,
+            "is_preview": false,
+            "label_ids": [
+              1007622,
+              1010074,
+              1000035,
+              1015756,
+              22,
+              1011653,
+              1014936,
+              1428754,
+              1400020252,
+              1400025225,
+              1400095021,
+              1400620060,
+              298843359,
+              700025219,
+              844931064601283,
+              822059734999051,
+              843079680351338,
+              700445044,
+              840681033054223,
+              700630038,
+              1428713,
+              1718087960,
+              1993633,
+              1988651,
+              1119699,
+              2018639,
+              2208609,
+              298733331,
+              298733330,
+              2213585,
+              2318721,
+              700960097,
+              1718387964,
+              1718393030,
+              843080294718104,
+              822120593197072,
+              843080294716568,
+              843158296243269,
+              839720755463713,
+              298788312,
+              998031006,
+              814381247146502,
+              700815075,
+              298888328
+            ],
+            "catid": 100001,
+            "shopee_verified": false,
+            "liked_count": 105,
+            "item_type": 0,
+            "reference_item_id": null,
+            "shop_data": {
+              "shop_name": "Zenyum Official Store",
+              "shop_icon": null,
+              "shop_location": "SG"
+            },
+            "status": 1,
+            "ctime": 1757659982,
+            "flag": 268566528,
+            "item_status": "normal",
+            "global_cat": {
+              "catid": [
+                100001,
+                100019,
+                100134,
+                100443
+              ]
+            },
+            "overlay_images": null,
+            "item_rating": {
+              "rating_star": 4.955414012738854,
+              "rating_count": [
+                157,
+                0,
+                0,
+                2,
+                3,
+                152
+              ]
+            },
+            "global_brand": {
+              "brand_id": 1233278,
+              "display_name": null
+            },
+            "platform_voucher": null,
+            "video_info_list": null,
+            "tier_variations": [
+              {
+                "name": null,
+                "options": [
+                  ""
+                ],
+                "images": null,
+                "properties": null,
+                "type": 0
+              }
+            ],
+            "ad_voucher_signature": null,
+            "is_sexual": false
+          }
+        }
+      ],
+      "item_tracking_infos": [
+        {
+          "item_id": 21207331761,
+          "is_seller_configured": true,
+          "recommendation_info": null,
+          "ads_tms_info": null,
+          "ads_id": null
+        },
+        {
+          "item_id": 21309410512,
+          "is_seller_configured": true,
+          "recommendation_info": null,
+          "ads_tms_info": null,
+          "ads_id": null
+        },
+        {
+          "item_id": 6844124076,
+          "is_seller_configured": true,
+          "recommendation_info": null,
+          "ads_tms_info": null,
+          "ads_id": null
+        },
+        {
+          "item_id": 20447982770,
+          "is_seller_configured": true,
+          "recommendation_info": null,
+          "ads_tms_info": null,
+          "ads_id": null
+        },
+        {
+          "item_id": 50806077568,
+          "is_seller_configured": true,
+          "recommendation_info": null,
+          "ads_tms_info": null,
+          "ads_id": null
+        },
+        {
+          "item_id": 28457123615,
+          "is_seller_configured": true,
+          "recommendation_info": null,
+          "ads_tms_info": null,
+          "ads_id": null
+        },
+        {
+          "item_id": 26341424258,
+          "is_seller_configured": true,
+          "recommendation_info": null,
+          "ads_tms_info": null,
+          "ads_id": null
+        }
+      ],
+      "translation_status": 0
+    }
+  }
+}

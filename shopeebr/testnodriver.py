@@ -1,8 +1,9 @@
 """
 nodriver + Chrome -> Shopee
 
-Reads product URL(s) from url_shopee.txt, opens each in Chrome,
-dismisses language modal, captures API JSON + cookies.
+Reads country,shop_id,item_id from url_shopee.txt.
+Saves one JSON per product: output/{REGION}/{item_id}.json
+with pdp get_pc + hot_sales only (no cookies/summary).
 """
 
 from __future__ import annotations
@@ -11,33 +12,48 @@ import asyncio
 import json
 import os
 import random
-import re
-from pathlib import Path
 import string
-from urllib.parse import urlparse
+from pathlib import Path
 
 import nodriver as uc
 from nodriver import cdp
 
-def get_proxy_by_country(country: str, session_id: str = None):
+
+def get_proxy_by_country(country: str, session_id: str | None = None) -> dict[str, str]:
     if not session_id:
-        session_id = ''.join(random.choice(
-            string.ascii_lowercase + string.digits) for _ in range(5))
-    return {
-        'http': f"http://lum-customer-hl_1df5a062-zone-static-country-{country}-session-{session_id}:5u8xqhj4sa8c@zproxy.lum-superproxy.io:22225",
-        'https': f"http://lum-customer-hl_1df5a062-zone-static-country-{country}-session-{session_id}:5u8xqhj4sa8c@zproxy.lum-superproxy.io:22225"
-    }
+        session_id = "".join(
+            random.choice(string.ascii_lowercase + string.digits) for _ in range(5)
+        )
+    country = country.lower()
+    proxy = (
+        f"http://lum-customer-hl_1df5a062-zone-static-country-{country}"
+        f"-session-{session_id}:5u8xqhj4sa8c@zproxy.lum-superproxy.io:22225"
+    )
+    return {"http": proxy, "https": proxy}
+
+
 ROOT = Path(__file__).resolve().parent
 URL_FILE = ROOT / "url_shopee.txt"
 OUTPUT_DIR = ROOT / "output"
+SUCCESS_FILE = ROOT / "downloaded_ids.txt"
 CHROME_PATH = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
+# Only PDP detail + hot sales
 API_HINTS = (
-    "bundle_deal/items",
     "hot_sales/get_item_cards",
     "pdp/get_pc",
-    "pdp/get",
 )
+
+REGION_DOMAINS = {
+    "sg": "shopee.sg",
+    "my": "shopee.com.my",
+    "id": "shopee.co.id",
+    "th": "shopee.co.th",
+    "vn": "shopee.vn",
+    "ph": "shopee.ph",
+    "tw": "shopee.tw",
+    "br": "shopee.com.br",
+}
 
 
 def build_interceptor_js(domain: str) -> str:
@@ -101,75 +117,110 @@ def build_interceptor_js(domain: str) -> str:
     )
 
 
-def slug_from_url(url: str) -> str:
-    path = urlparse(url).path.strip("/").replace("/", "_")
-    return path[:100] or "response"
+def load_downloaded_ids(path: Path) -> set[str]:
+    """Return set of 'country,shop_id,item_id' already downloaded."""
+    if not path.is_file():
+        return set()
+    done: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or line.lower().startswith("country,"):
+            continue
+        parts = [p.strip() for p in line.split(",")]
+        if len(parts) >= 3:
+            done.add(f"{parts[0].lower()},{parts[1]},{parts[2]}")
+    return done
 
 
-DOMAIN_TO_REGION = {
-    "shopee.sg": "SG",
-    "shopee.com.my": "MY",
-    "shopee.co.id": "ID",
-    "shopee.co.th": "TH",
-    "shopee.vn": "VN",
-    "shopee.ph": "PH",
-    "shopee.tw": "TW",
-    "shopee.com.br": "BR",
-}
+def mark_downloaded(path: Path, region: str, shop_id: str, item_id: str) -> None:
+    """Append successful id to downloaded_ids.txt (same format as url_shopee.txt)."""
+    key = f"{region.lower()},{shop_id},{item_id}"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if not path.is_file():
+        path.write_text("country,shop_id,item_id\n", encoding="utf-8")
+    # avoid duplicates if file already has it
+    existing = load_downloaded_ids(path)
+    if key in existing:
+        return
+    with path.open("a", encoding="utf-8") as f:
+        f.write(f"{key}\n")
+    print(f"Tracked success -> {key}")
 
 
-def region_from_domain(domain: str) -> str:
-    return DOMAIN_TO_REGION.get(domain, domain.split(".")[-1].upper())
-
-
-def load_entries(path: Path) -> list[tuple[str, str]]:
+def load_entries(path: Path) -> list[tuple[str, str, str, str]]:
     """
-    Load lines from url_shopee.txt.
-    Supported:
-      REGION,https://shopee.../product/shop/item
-      https://shopee.../product/shop/item   (region inferred from domain)
+    Load url_shopee.txt rows as (region, shop_id, item_id, product_url).
+    Format: country,shop_id,item_id
     """
     if not path.is_file():
         raise SystemExit(f"Missing URL file: {path}")
-    entries: list[tuple[str, str]] = []
+
+    entries: list[tuple[str, str, str, str]] = []
     for line_no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
         line = line.strip()
         if not line or line.startswith("#"):
             continue
-        if "," in line:
-            region, product_url = line.split(",", 1)
-            region = region.strip().upper()
-            product_url = product_url.strip()
-        else:
-            product_url = line
-            domain = urlparse(product_url).netloc.replace("www.", "")
-            region = region_from_domain(domain)
-        if not product_url.startswith("http"):
-            raise SystemExit(f"{path}:{line_no}: invalid URL -> {line!r}")
-        entries.append((region, product_url))
+        parts = [p.strip() for p in line.split(",")]
+        if len(parts) != 3:
+            raise SystemExit(f"{path}:{line_no}: expected country,shop_id,item_id -> {line!r}")
+
+        country, shop_id, item_id = parts
+        # skip header
+        if line_no == 1 and country.lower() == "country":
+            continue
+
+        country = country.lower()
+        domain = REGION_DOMAINS.get(country)
+        if not domain:
+            raise SystemExit(f"{path}:{line_no}: unknown country {country!r}")
+        if not shop_id.isdigit() or not item_id.isdigit():
+            raise SystemExit(f"{path}:{line_no}: shop_id/item_id must be numeric -> {line!r}")
+
+        region = country.upper()
+        product_url = f"https://{domain}/product/{shop_id}/{item_id}"
+        entries.append((region, shop_id, item_id, product_url))
+
     if not entries:
-        raise SystemExit(f"No URLs found in {path}")
+        raise SystemExit(f"No product rows found in {path}")
     return entries
 
 
-def parse_product_url(product_url: str) -> tuple[str, str, str]:
-    """Return (domain, shop_id, item_id) from a Shopee product URL."""
-    parsed = urlparse(product_url)
-    domain = parsed.netloc.replace("www.", "")
-    match = re.search(r"/product/(\d+)/(\d+)", parsed.path)
-    if not match:
-        match = re.search(r"\.(\d+)\.(\d+)/?$", parsed.path)
-    if not match:
-        raise ValueError(f"Could not parse shop_id/item_id from URL: {product_url}")
-    shop_id, item_id = match.group(1), match.group(2)
-    return domain, shop_id, item_id
+def output_path_for(region: str, item_id: str) -> Path:
+    """output/{REGION}/{item_id}.json"""
+    folder = OUTPUT_DIR / region.upper()
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{item_id}.json"
 
 
-def output_dir_for(region: str, shop_id: str) -> Path:
-    """output/{REGION}/{shop_id}/"""
-    path = OUTPUT_DIR / region.upper() / shop_id
-    path.mkdir(parents=True, exist_ok=True)
-    return path
+def pick_api_payload(captured: list[dict], hint: str) -> dict | None:
+    """Return latest matching API body for a URL hint."""
+    chosen = None
+    for item in captured:
+        url = item.get("url") or ""
+        data = item.get("data")
+        if hint in url and isinstance(data, dict):
+            chosen = data
+    return chosen
+
+
+def build_combined_payload(captured: list[dict]) -> dict:
+    return {
+        "pdp_get_pc": pick_api_payload(captured, "pdp/get_pc"),
+        "pdp_hot_sales": pick_api_payload(captured, "hot_sales/get_item_cards"),
+    }
+
+
+def has_usable_data(captured: list[dict]) -> bool:
+    """Need a real get_pc payload (not anti-bot error)."""
+    pdp = pick_api_payload(captured, "pdp/get_pc")
+    if not isinstance(pdp, dict) or not pdp:
+        return False
+    if pdp.get("error") and pdp.get("data") is None:
+        return False
+    keys = set(str(k) for k in pdp.keys())
+    if keys <= {"0", "1", "2", "3", "5", "9", "error"}:
+        return False
+    return True
 
 
 AUTO_LANGUAGE_JS = r"""
@@ -202,7 +253,6 @@ AUTO_LANGUAGE_JS = r"""
 
 
 async def dismiss_language_modal(tab, language: str = "English") -> bool:
-    """Close Shopee language picker if present."""
     for attempt in range(5):
         clicked = await tab.evaluate(
             f"""
@@ -261,37 +311,22 @@ async def install_interceptor(tab, interceptor_js: str) -> None:
     print(f"Interceptor: {result}")
 
 
-def has_usable_data(captured: list[dict]) -> bool:
-    """True if we got at least one API payload with real data (not anti-bot error)."""
-    for item in captured:
-        data = item.get("data")
-        if not isinstance(data, dict) or not data:
-            continue
-        if data.get("error") and data.get("data") is None:
-            continue
-        # Reject pure anti-bot error blobs
-        keys = set(str(k) for k in data.keys())
-        if keys <= {"0", "1", "2", "3", "5", "9", "error"}:
-            continue
-        return True
-    return False
-
-
 async def scrape_one(
     browser,
+    region: str,
+    shop_id: str,
+    item_id: str,
     product_url: str,
     language: str,
-    region: str,
     max_attempts: int = 3,
 ) -> bool:
-    domain, shop_id, item_id = parse_product_url(product_url)
-    region = (region or region_from_domain(domain)).upper()
+    domain = REGION_DOMAINS[region.lower()]
     interceptor_js = build_interceptor_js(domain)
-    out_dir = output_dir_for(region, shop_id)
+    out_path = output_path_for(region, item_id)
 
     print(f"Opening: {product_url}")
-    print(f"region={region} domain={domain} shop_id={shop_id} item_id={item_id}")
-    print(f"output -> {out_dir}")
+    print(f"region={region} shop_id={shop_id} item_id={item_id}")
+    print(f"output -> {out_path}")
 
     tab = await browser.get("about:blank")
     await tab.send(cdp.page.enable())
@@ -314,12 +349,8 @@ async def scrape_one(
     print("Interceptor + language auto-click registered")
 
     captured: list[dict] = []
-    cookie_list: list[dict] = []
-    title = ""
-    used_attempts = 0
 
     for attempt in range(1, max_attempts + 1):
-        used_attempts = attempt
         print(f"Attempt {attempt}/{max_attempts}")
         await tab.evaluate("window.__SHOPEE_API_CAPTURE__ = []")
 
@@ -332,27 +363,7 @@ async def scrape_one(
         await dismiss_language_modal(tab, language=language)
         await tab.sleep(1)
         await dismiss_language_modal(tab, language=language)
-
         await tab.sleep(5)
-
-        cookies = await browser.cookies.get_all()
-        cookie_list = []
-        for c in cookies:
-            if hasattr(c, "to_json"):
-                cookie_list.append(c.to_json())
-            else:
-                cookie_list.append(
-                    {
-                        "name": getattr(c, "name", None),
-                        "value": getattr(c, "value", None),
-                        "domain": getattr(c, "domain", None),
-                        "path": getattr(c, "path", None),
-                        "expires": getattr(c, "expires", None),
-                        "secure": getattr(c, "secure", None),
-                        "httpOnly": getattr(c, "http_only", None),
-                        "sameSite": str(getattr(c, "same_site", "") or ""),
-                    }
-                )
 
         raw = await tab.evaluate("JSON.stringify(window.__SHOPEE_API_CAPTURE__ || [])")
         captured = json.loads(raw) if raw else []
@@ -370,66 +381,23 @@ async def scrape_one(
     else:
         print(f"Failed after {max_attempts} attempts for {product_url}")
 
-    success = has_usable_data(captured)
-
-    # Never overwrite good JSON with anti-bot / empty failure payloads.
-    if not success:
+    if not has_usable_data(captured):
         print(
-            "No usable product data after retries — keeping any existing output files. "
+            "No usable product data after retries — keeping any existing output file. "
             "Try without HEADLESS (visible Chrome)."
         )
         return False
 
-    cookie_header = "; ".join(
-        f"{c.get('name')}={c.get('value')}"
-        for c in cookie_list
-        if c.get("name") is not None
-    )
-    cookies_path = out_dir / f"{shop_id}_nodriver_cookies.json"
-    cookies_path.write_text(
-        json.dumps(
-            {
-                "region": region,
-                "shop_id": shop_id,
-                "item_id": item_id,
-                "product_url": product_url,
-                "cookie_header": cookie_header,
-                "cookies": cookie_list,
-            },
-            ensure_ascii=False,
-            indent=2,
-        ),
-        encoding="utf-8",
-    )
-    print(f"Saved cookies ({len(cookie_list)}) -> {cookies_path}")
-
-    summary = {
-        "region": region,
+    payload = {
+        "region": region.upper(),
         "shop_id": shop_id,
         "item_id": item_id,
         "product_url": product_url,
-        "page_title": title,
-        "captured_count": len(captured),
-        "captured_urls": [item.get("url") for item in captured],
-        "cookies_file": str(cookies_path.name),
-        "cookie_count": len(cookie_list),
-        "success": True,
-        "attempts": used_attempts,
+        **build_combined_payload(captured),
     }
-    summary_path = out_dir / f"{shop_id}_nodriver_summary.json"
-    summary_path.write_text(
-        json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-    print(f"Saved summary -> {summary_path}")
-
-    for i, item in enumerate(captured):
-        url = item.get("url", "")
-        data = item.get("data")
-        out = out_dir / f"{shop_id}_nodriver_{i}_{slug_from_url(url)}.json"
-        out.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"Captured: {url}")
-        print(f"Saved API JSON -> {out}")
-
+    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Saved -> {out_path}")
+    mark_downloaded(SUCCESS_FILE, region, shop_id, item_id)
     return True
 
 
@@ -438,35 +406,65 @@ async def main() -> None:
     language = os.environ.get("SHOPEE_LANGUAGE", "English*")
     headless = os.environ.get("HEADLESS", "false").lower() == "true"
     max_attempts = int(os.environ.get("MAX_ATTEMPTS", "3"))
+    use_proxy = os.environ.get("USE_PROXY", "0") == "1"
     entries = load_entries(URL_FILE)
+    already_done = load_downloaded_ids(SUCCESS_FILE)
 
-    print(f"Loaded {len(entries)} URL(s) from {URL_FILE}")
+    pending = []
+    for e in entries:
+        region, shop_id, item_id, product_url = e
+        key = f"{region.lower()},{shop_id},{item_id}"
+        out_path = output_path_for(region, item_id)
+        if key in already_done or out_path.is_file():
+            if key not in already_done and out_path.is_file():
+                mark_downloaded(SUCCESS_FILE, region, shop_id, item_id)
+                already_done.add(key)
+            continue
+        pending.append(e)
+
+    print(f"Loaded {len(entries)} product(s) from {URL_FILE}")
+    print(f"Already downloaded: {len(already_done)}")
+    print(f"Remaining: {len(pending)}")
+    print(f"Success log: {SUCCESS_FILE}")
     print(f"Chrome: {CHROME_PATH}")
-    print(f"headless={headless} max_attempts={max_attempts}")
+    print(f"headless={headless} max_attempts={max_attempts} use_proxy={use_proxy}")
 
-    for idx, (region, product_url) in enumerate(entries, start=1):
-        print(f"\n=== [{idx}/{len(entries)}] {region} {product_url} ===")
+    if not pending:
+        print("Nothing left to download.")
+        return
+
+    for idx, (region, shop_id, item_id, product_url) in enumerate(pending, start=1):
+        print(f"\n=== [{idx}/{len(pending)}] {region} {shop_id}/{item_id} ===")
+        browser_args = ["--window-size=1400,900"]
+        if use_proxy:
+            proxy_url = get_proxy_by_country(region.lower())["http"]
+            browser_args.append(f"--proxy-server={proxy_url}")
+            print(f"Using proxy country={region.lower()}")
+
         browser = await uc.start(
             headless=headless,
             browser_executable_path=CHROME_PATH,
-            browser_args=[
-                "--window-size=1400,900",
-                f"--proxy-server={get_proxy_by_country(region)['http']}",
-            ],
+            browser_args=browser_args,
         )
         print("Chrome started")
         try:
             ok = await scrape_one(
                 browser,
-                product_url,
-                language=language,
                 region=region,
+                shop_id=shop_id,
+                item_id=item_id,
+                product_url=product_url,
+                language=language,
                 max_attempts=max_attempts,
             )
-            print(f"Result for [{region}] {product_url}: {'OK' if ok else 'FAILED'}")
+            print(f"Result for [{region}] {item_id}: {'OK' if ok else 'FAILED'}")
         finally:
             browser.stop()
-            print("Browser closed — moving to next URL" if idx < len(entries) else "Browser closed")
+            print(
+                "Browser closed — moving to next URL"
+                if idx < len(pending)
+                else "Browser closed"
+            )
             await asyncio.sleep(1)
 
 
