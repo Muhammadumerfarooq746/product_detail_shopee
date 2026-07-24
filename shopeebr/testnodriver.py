@@ -223,6 +223,55 @@ def has_usable_data(captured: list[dict]) -> bool:
     return True
 
 
+def summarize_capture(captured: list[dict]) -> str:
+    """Short debug line for failed captures."""
+    parts: list[str] = []
+    for item in captured:
+        url = str(item.get("url") or "")
+        data = item.get("data")
+        hint = next((h for h in API_HINTS if h in url), "other")
+        err = None
+        if isinstance(data, dict):
+            err = data.get("error") or data.get("error_msg") or data.get("error_code")
+        parts.append(f"{hint}:error={err!r}")
+    return "; ".join(parts) if parts else "(empty)"
+
+
+HOMEPAGE_TITLES = (
+    "cheaper, faster on shopee",
+    "shopee singapore",
+    "shopee malaysia",
+    "shopee indonesia",
+    "shopee thailand",
+    "shopee việt nam",
+    "shopee philippines",
+    "shopee 蝦皮購物",
+    "shopee brasil",
+)
+
+
+def looks_like_homepage(title: str, href: str, item_id: str) -> bool:
+    t = (title or "").lower()
+    h = (href or "").lower()
+    if "/verify/traffic" in h or "/verify/" in h:
+        return True
+    # Only treat as PDP if item_id is in the path (not only in ?next= query)
+    path = h.split("?", 1)[0]
+    if item_id and item_id in path:
+        return False
+    if "/product/" in path:
+        return False
+    if any(x in t for x in HOMEPAGE_TITLES) and "product" not in t:
+        return True
+    if path.rstrip("/").endswith((".sg", ".com.my", ".co.id", ".co.th", ".vn", ".ph", ".tw", ".com.br")):
+        return True
+    return False
+
+
+def is_traffic_verify(href: str) -> bool:
+    return "/verify/traffic" in (href or "").lower()
+
+
 AUTO_LANGUAGE_JS = r"""
 (() => {
   const pick = () => {
@@ -311,6 +360,57 @@ async def install_interceptor(tab, interceptor_js: str) -> None:
     print(f"Interceptor: {result}")
 
 
+async def page_location(tab) -> tuple[str, str]:
+    title = await tab.evaluate("document.title") or ""
+    href = await tab.evaluate("location.href") or ""
+    return str(title), str(href)
+
+
+async def wait_for_pdp(tab, item_id: str, seconds: float = 12.0) -> bool:
+    """Poll until URL/title look like a product page (not homepage/verify bounce)."""
+    steps = max(1, int(seconds / 0.5))
+    for _ in range(steps):
+        title, href = await page_location(tab)
+        if is_traffic_verify(href):
+            await tab.sleep(0.5)
+            continue
+        if not looks_like_homepage(title, href, item_id):
+            return True
+        await tab.sleep(0.5)
+    return False
+
+
+async def wait_out_traffic_verify(tab, item_id: str, seconds: float = 20.0) -> bool:
+    """Some Shopee traffic checks auto-redirect after a few seconds."""
+    title, href = await page_location(tab)
+    if not is_traffic_verify(href):
+        return True
+    print(f"Traffic verify page detected — waiting up to {seconds:.0f}s for redirect...")
+    print(f"  {href}")
+    steps = max(1, int(seconds / 1.0))
+    for i in range(steps):
+        await tab.sleep(1.0)
+        title, href = await page_location(tab)
+        if not is_traffic_verify(href):
+            print(f"Left verify page after {i + 1}s -> {href}")
+            return not looks_like_homepage(title, href, item_id)
+    print("Still stuck on traffic verify (anti-bot).")
+    return False
+
+
+async def gentle_scroll(tab) -> None:
+    await tab.evaluate(
+        """
+        (() => {
+          window.scrollTo(0, 400);
+          setTimeout(() => window.scrollTo(0, 900), 400);
+          setTimeout(() => window.scrollTo(0, 0), 900);
+        })()
+        """
+    )
+    await tab.sleep(1.5)
+
+
 async def scrape_one(
     browser,
     region: str,
@@ -321,6 +421,9 @@ async def scrape_one(
     max_attempts: int = 3,
 ) -> bool:
     domain = REGION_DOMAINS[region.lower()]
+    home_url = f"https://{domain}/"
+    # SEO-style fallback Shopee also accepts
+    alt_url = f"https://{domain}/-i.{shop_id}.{item_id}"
     interceptor_js = build_interceptor_js(domain)
     out_path = output_path_for(region, item_id)
 
@@ -335,7 +438,7 @@ async def scrape_one(
         cdp.network.set_cookie(
             name="language",
             value="en",
-            url=f"https://{domain}/",
+            url=home_url,
             domain=f".{domain}",
             path="/",
         )
@@ -348,28 +451,61 @@ async def scrape_one(
     )
     print("Interceptor + language auto-click registered")
 
+    # Warm up on homepage so the first product hit isn't a cold bot check
+    print(f"Warm-up: {home_url}")
+    await tab.get(home_url)
+    await tab.sleep(3)
+    await install_interceptor(tab, interceptor_js)
+    await dismiss_language_modal(tab, language=language)
+    await tab.sleep(2)
+
     captured: list[dict] = []
+    urls_to_try = [product_url, alt_url]
 
     for attempt in range(1, max_attempts + 1):
-        print(f"Attempt {attempt}/{max_attempts}")
+        target = urls_to_try[(attempt - 1) % len(urls_to_try)]
+        print(f"Attempt {attempt}/{max_attempts} -> {target}")
         await tab.evaluate("window.__SHOPEE_API_CAPTURE__ = []")
 
         print("Navigating to product...")
-        await tab.get(product_url)
-        await tab.sleep(3)
+        await tab.get(target)
+        await tab.sleep(4)
         await install_interceptor(tab, interceptor_js)
         await dismiss_language_modal(tab, language=language)
         await tab.sleep(2)
         await dismiss_language_modal(tab, language=language)
-        await tab.sleep(1)
-        await dismiss_language_modal(tab, language=language)
-        await tab.sleep(5)
+
+        title, href = await page_location(tab)
+        if is_traffic_verify(href):
+            await wait_out_traffic_verify(tab, item_id, seconds=25)
+
+        ok_pdp = await wait_for_pdp(tab, item_id, seconds=10)
+        title, href = await page_location(tab)
+        print(f"Page title: {title!r}")
+        print(f"Location: {href!r}")
+        if is_traffic_verify(href):
+            print("Blocked by Shopee /verify/traffic (anti-bot). Proxy or real Chrome profile needed.")
+        elif not ok_pdp or looks_like_homepage(title, href, item_id):
+            print("Still on homepage / bounced — retrying navigation once...")
+            await tab.get(target)
+            await tab.sleep(5)
+            await install_interceptor(tab, interceptor_js)
+            await dismiss_language_modal(tab, language=language)
+            title, href = await page_location(tab)
+            if is_traffic_verify(href):
+                await wait_out_traffic_verify(tab, item_id, seconds=25)
+            await wait_for_pdp(tab, item_id, seconds=10)
+            title, href = await page_location(tab)
+            print(f"Page title (retry): {title!r}")
+            print(f"Location (retry): {href!r}")
+
+        await gentle_scroll(tab)
+        await tab.sleep(6)
 
         raw = await tab.evaluate("JSON.stringify(window.__SHOPEE_API_CAPTURE__ || [])")
         captured = json.loads(raw) if raw else []
-        title = await tab.evaluate("document.title")
-        print(f"Page title: {title!r}")
         print(f"Captured {len(captured)} matching API response(s)")
+        print(f"Capture summary: {summarize_capture(captured)}")
 
         if has_usable_data(captured):
             print(f"Got usable data on attempt {attempt}")
@@ -377,14 +513,15 @@ async def scrape_one(
 
         print(f"No usable data on attempt {attempt}/{max_attempts}")
         if attempt < max_attempts:
-            await tab.sleep(2)
+            await tab.sleep(3)
     else:
         print(f"Failed after {max_attempts} attempts for {product_url}")
 
     if not has_usable_data(captured):
         print(
             "No usable product data after retries — keeping any existing output file. "
-            "Try without HEADLESS (visible Chrome)."
+            "Manual Chrome works because it has cookies/fingerprint; automated Chrome "
+            "is often bounced to homepage or gets anti-bot get_pc. Try USE_PROXY=1."
         )
         return False
 
@@ -422,9 +559,13 @@ async def main() -> None:
             continue
         pending.append(e)
 
+    limit = int(os.environ.get("LIMIT", "0") or "0")
+    if limit > 0:
+        pending = pending[:limit]
+
     print(f"Loaded {len(entries)} product(s) from {URL_FILE}")
     print(f"Already downloaded: {len(already_done)}")
-    print(f"Remaining: {len(pending)}")
+    print(f"Remaining: {len(pending)}" + (f" (LIMIT={limit})" if limit else ""))
     print(f"Success log: {SUCCESS_FILE}")
     print(f"Chrome: {CHROME_PATH}")
     print(f"headless={headless} max_attempts={max_attempts} use_proxy={use_proxy}")
@@ -435,17 +576,27 @@ async def main() -> None:
 
     for idx, (region, shop_id, item_id, product_url) in enumerate(pending, start=1):
         print(f"\n=== [{idx}/{len(pending)}] {region} {shop_id}/{item_id} ===")
-        browser_args = ["--window-size=1400,900"]
+        browser_args = [
+            "--window-size=1400,900",
+            "--lang=en-US",
+            "--disable-dev-shm-usage",
+        ]
         if use_proxy:
             proxy_url = get_proxy_by_country(region.lower())["http"]
             browser_args.append(f"--proxy-server={proxy_url}")
             print(f"Using proxy country={region.lower()}")
 
-        browser = await uc.start(
-            headless=headless,
-            browser_executable_path=CHROME_PATH,
-            browser_args=browser_args,
-        )
+        user_data_dir = os.environ.get("CHROME_USER_DATA_DIR", "").strip() or None
+        start_kwargs: dict = {
+            "headless": headless,
+            "browser_executable_path": CHROME_PATH,
+            "browser_args": browser_args,
+        }
+        if user_data_dir:
+            start_kwargs["user_data_dir"] = user_data_dir
+            print(f"Using Chrome profile: {user_data_dir}")
+
+        browser = await uc.start(**start_kwargs)
         print("Chrome started")
         try:
             ok = await scrape_one(
